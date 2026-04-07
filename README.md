@@ -8,13 +8,23 @@ School of Industrial & Intelligent Systems Engineering, Tel Aviv University
 
 ---
 
-## Overview
+## 🔍 Overview
 
-Latent-RAG injects external knowledge directly into a frozen LLM's residual stream via learned activation steering, bypassing the context window entirely. This eliminates the structural vulnerability of standard RAG to indirect prompt injection, where retrieved text and system instructions share the same token stream.
+Latent-RAG injects external knowledge directly into a frozen LLM via learned activation steering, bypassing the context window entirely. This eliminates the structural vulnerability of standard RAG to indirect prompt injection, where retrieved text and system instructions share the same token stream.
 
-A lightweight injector network maps unseen knowledge into a steering vector added to the model's hidden states at inference time, with **no weight modifications** to the base model.
+A lightweight injector network maps unseen knowledge — extracted from either token embeddings or residual-stream hidden states — into a steering vector added to the model's activations at inference time, with **no weight modifications** to the base model. This creates a **structurally separate channel** for knowledge delivery — distinct from the instruction stream — which standard RAG cannot achieve.
 
-### Key Results
+The method works in three stages:
+
+1. **Extract** an internal representation of the target knowledge — either from the model's token embeddings or from residual-stream hidden states at a chosen layer
+2. **Train** a lightweight injector network to map these representations into effective steering vectors
+3. **Inject** the learned steering vector into the residual stream at inference time, causing the model to generate responses as if it had the knowledge in context
+
+<p align="center">
+  <img src="figures/figure1.png" alt="Latent-RAG method overview" width="700"/>
+</p>
+
+### 📊 Key Results
 
 | Experiment | Metric | Score |
 |---|---|---|
@@ -24,21 +34,34 @@ A lightweight injector network maps unseen knowledge into a steering vector adde
 | Sentence injection (unseen passages) | Semantic similarity | 76.8% |
 | Sentence injection (unseen passages) | Factual correctness | 56.4% |
 
-## Repository Structure
+## 📦 What's Included (and What's Not)
+
+| ✅ Included in this repo | ❌ Not included (generated at runtime) |
+|---|---|
+| All experiment notebooks and scripts | Model weights (`.pt` files, ~20GB total) |
+| Training and evaluation code | Expanded CSV datasets (~160MB) |
+| Pre-computed result CSVs and plots | Activation vector caches |
+| Paper figures | Llama-3.1-8B-Instruct model (downloaded via HF) |
+| PopQA benchmark data | |
+| Requirements and setup files | |
+
+All excluded artifacts are **regenerated automatically** when you run the notebooks in order.
+
+## 🗂️ Repository Structure
 
 ```
 latent-rag-submission/
 ├── figures/                          # Paper figures
-│   ├── concept_category_barplot.png
 │   ├── figure1.png
+│   ├── concept_category_barplot.png
 │   └── introspection_layer_sweep.png
 │
 ├── anthropic-paper-replication/      # Replication of Anthropic's activation steering
-│   ├── Paper_Replication.ipynb       # Main notebook: concept extraction, injection, evaluation
+│   ├── Paper_Replication.ipynb       # Concept extraction, injection, evaluation
 │   └── results/                      # Per-layer injection results (CSVs) and plots
 │
 ├── injecting-words/                  # Entity-level injection experiments
-│   ├── Injecting_Words_V4.ipynb      # Latest entity injection (architecture 4, SFT + GRPO)
+│   ├── Injecting_Words_V4.ipynb      # ⭐ Latest entity injection (SFT + GRPO)
 │   ├── Injecting_Words_TokenEmbed_V1.ipynb  # Token embedding baseline
 │   ├── RAG_Baseline_V4.ipynb         # RAG baseline comparison
 │   ├── PopQA_Benchmark.ipynb         # PopQA evaluation (V1)
@@ -59,32 +82,55 @@ latent-rag-submission/
 │   ├── RepliQA_Dataset.ipynb         # RepliQA dataset preparation
 │   ├── Extraction.ipynb              # Extract activation vectors from passages
 │   ├── Training.ipynb                # Train multi-layer cross-attention injector
-│   ├── training.py                   # Standalone training script
+│   ├── training.py                   # Training script (cluster job submission)
 │   ├── Inference.ipynb               # Run inference with trained injector
 │   ├── Inference_LLM_as_Judge.ipynb  # LLM-as-judge evaluation
-│   ├── inference_llm_as_judge.py     # Standalone evaluation script
+│   ├── inference_llm_as_judge.py     # Evaluation script (cluster job submission)
 │   └── old_experiment_one_injector/  # Earlier single-injector experiments
 │
 ├── requirements.txt
+├── .env.example
 ├── .gitignore
 └── README.md
 ```
 
-## Setup
+> **Note on `.py` files:** The Python scripts (`training.py`, `inference_llm_as_judge.py`) contain the same logic as their corresponding notebooks (`Training.ipynb`, `Inference_LLM_as_Judge.ipynb`). They were used to submit non-interactive jobs to a GPU cluster. If you're exploring the code, the notebooks are the easier entry point.
+
+## 🧬 Architecture Versions (Entity Injection)
+
+The entity injection experiments evolved through several architecture iterations. Each version is preserved in its own notebook for reproducibility:
+
+| Version | Architecture | Training | Key Change |
+|---|---|---|---|
+| Previous | 2-layer MLP / 4-layer bottleneck MLP | SFT (CE loss) | Baseline — first injection experiments |
+| V1 | Same as Previous | SFT (CE loss) | Bug fixes in injection vector indexing |
+| V2 | Residual bottleneck adapter (512 dim) | SFT (weighted CE) → GRPO | Entity token upweighting (5x), added GRPO phase |
+| V3 | Arch 3 (bottleneck) vs Arch 4 (2-layer MLP, 4096 dim) | SFT only (weighted CE + BERTTune) | Added semantic loss, entity weight 8x, dual-arch comparison |
+| **V4** ⭐ | **2-layer MLP (4096 dim)** | **SFT → GRPO with Qwen judge** | **Best arch from V3 + Qwen-2.5-3B judge + KL penalty** |
+| TokenEmbed | Same as V4 | Same as V4 | Concept vectors from token embeddings instead of residual states |
+
+## 🧬 Architecture Versions (Sentence Injection)
+
+| Version | Architecture | Injection | Training | Key Change |
+|---|---|---|---|---|
+| Old (`old_experiment_one_injector/`) | `TriContextInjector` — self-attention mixer + linear projection | Single layer (layer 16), replacement | SFT → RL (two-phase) | Baseline — learned position weights over context vectors |
+| **Current** ⭐ | **`MultiLayerInjector` — cross-attention (8 heads) + bottleneck MLP** | **3 layers (8, 16, 24), additive** | **SFT only (100 epochs)** | **Multi-layer injection, dynamic alpha gating, no RL needed** |
+
+## ⚙️ Setup
 
 ### Requirements
 
 - Python 3.10+
-- CUDA-capable GPU (experiments were run on NVIDIA A100)
-- ~16GB GPU memory for Llama-3.1-8B-Instruct
+- CUDA-capable GPU (experiments were run on NVIDIA A100 and H100)
+- ~40GB+ GPU memory recommended (Llama-3.1-8B + Qwen-2.5-3B judge + injector + data on device during GRPO training)
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### API Keys
+### 🔑 API Keys
 
-After cloning the repo, create a `.env` file in the root directory with your API keys:
+After cloning the repo, create a `.env` file in the root directory:
 
 ```bash
 cp .env.example .env
@@ -106,11 +152,11 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 
 ### Model
 
-All experiments use [meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct). You will need access to this model on Hugging Face.
+All experiments use [meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct). You need to request access to this gated model on Hugging Face before running any notebooks.
 
-## Reproducing Results
+## 🚀 Reproducing Results
 
-### 1. Anthropic Paper Replication (Section 3)
+### 1. Anthropic Paper Replication (Appendix A)
 
 Replication of the activation steering approach from Anthropic's work, establishing that concept representations exist in the residual stream and can be steered.
 
@@ -119,7 +165,7 @@ cd anthropic-paper-replication
 jupyter notebook Paper_Replication.ipynb
 ```
 
-### 2. Entity-Level Injection (Section 4.1)
+### 2. Entity-Level Injection
 
 The core Latent-RAG experiment: training an injector MLP to encode entity knowledge as residual-stream perturbations.
 
@@ -137,7 +183,7 @@ The notebook pipeline:
 3. Run inference: inject steering vectors and evaluate model responses
 4. LLM-as-judge evaluation of generated answers
 
-### 3. Sentence-Level Injection (Section 4.2)
+### 3. Sentence-Level Injection
 
 Injecting full factual passages via a cross-attention-based multi-layer injector.
 
@@ -151,40 +197,8 @@ jupyter notebook Inference.ipynb                # Step 5: Run inference
 jupyter notebook Inference_LLM_as_Judge.ipynb   # Step 6: Evaluate with LLM judge
 ```
 
-**Important:** Steps 2-3 generate large intermediate files that are excluded from this repo:
-- `Dataset_Creation.ipynb` produces `train_tasks_expanded.csv` (~125MB) and `test_tasks_expanded.csv` (~32MB) — expanded task datasets with generated prompts
-- `Extraction.ipynb` produces `train_vectors_unified.pt` (~15GB) and `test_vectors_unified.pt` (~3.7GB) — extracted activation vectors
-
-These must be generated before running Training.ipynb.
-
-### Binary Artifacts
-
-Model weights (`.pt` files) and cached activation vectors are excluded from this repository due to their size (~20GB total). They will be regenerated when you run the notebooks. The key artifacts:
-
-- **Activation caches**: Extracted residual-stream vectors for entities/passages
-- **Trained adapters**: Injector MLP or cross-attention network weights
-- **Unified vectors**: Pre-extracted vectors for the full dataset
-
-## Method
-
-Latent-RAG works by:
-
-1. **Extracting** a concept's residual-stream representation by running a prompt through the frozen LLM and reading the hidden state at a target layer
-2. **Training** a lightweight injector network to map these representations into effective steering vectors
-3. **Injecting** the learned steering vector into the residual stream at inference time, causing the model to generate responses as if it had the knowledge in context
-
-This creates a **structurally separate channel** for knowledge, distinct from the instruction stream, which standard RAG cannot achieve.
-
-## Citation
-
-```bibtex
-@article{kronfeld2025latentrag,
-  title={Frozen but Not Fixed: Learning to Steer LLMs with External Knowledge},
-  author={Kronfeld, Carmel and Tascesme, Eran},
-  year={2025}
-}
-```
-
-## License
-
-This repository is released for academic and research purposes.
+> ⚠️ **Steps 2–3 generate large intermediate files** that are excluded from this repo:
+> - `Dataset_Creation.ipynb` produces `train_tasks_expanded.csv` (~125MB) and `test_tasks_expanded.csv` (~32MB)
+> - `Extraction.ipynb` produces `train_vectors_unified.pt` (~15GB) and `test_vectors_unified.pt` (~3.7GB)
+>
+> These must be generated before running `Training.ipynb`.
