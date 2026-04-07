@@ -1,0 +1,14 @@
+torch>=2.0
+transformers>=4.40
+datasets
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tqdm
+pydantic
+nest-asyncio
+spacy
+typing_extensions
+python-dotenv

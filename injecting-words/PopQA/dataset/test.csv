@@ -1,0 +1,492 @@
+subj,prop,obj,question,answers_list
+Death,author,Woody Allen,Who is the author of Death?,"['Woody Allen', 'Allan Stewart Konigsberg', 'Allen Stewart Konigsberg', 'Heywood Allen']"
+Chrome,producer,Dann Huff,Who was the producer of Chrome?,"['Dann Huff', 'Dann Lee Huff', 'Trey Bruce']"
+Folke Zettervall,father,Helgo Zettervall,Who is the father of Folke Zettervall?,"['Helgo Zettervall', 'Helgo Nikolaus Zettervall']"
+Ye Zhibin,sport,association football,What sport does Ye Zhibin play?,"['association football', 'football', 'soccer']"
+We Shall See,director,Quentin Lawrence,Who was the director of We Shall See?,['Quentin Lawrence']
+Arizona,screenwriter,Albert Parker,Who was the screenwriter for Arizona?,"['Douglas Fairbanks', 'Douglas Fairbanks, Sr.', 'Douglas Elton Thomas Ullman', 'Douglas Ullman', 'Doug Fairbanks', 'Albert Parker']"
+Uis,country,Namibia,In what country is Uis?,"['Namibia', 'Republic of Namibia', 'na', '🇳🇦', 'NAM']"
+Shade,genre,interactive fiction,What genre is Shade?,"['interactive fiction', 'text adventure', 'interactive book video game', 'Interactive eBooks', 'Interactive fiction']"
+September,director,Tian Zhuangzhuang,Who was the director of September?,"['Tian Zhuangzhuang', 'Zhuangzhuang Tian', 'T‘ien Chuang-chuang', 'T‘ien, Chuang-chuang', 'Chuang-chuang T‘ien']"
+Opening Night,screenwriter,Bathsheba Doran,Who was the screenwriter for Opening Night?,"['Bathsheba Doran', 'Noelle Valdivia']"
+Skiing,genre,sports video game,What genre is Skiing?,"['sports video game', 'sports game', 'sports video games', 'sport video game']"
+Tholuvankadu,country,India,In what country is Tholuvankadu?,"['India', 'Bharat', 'Hindustan', 'Bharatvarsh', 'in', 'IN', 'Republic of India', '🇮🇳', 'IND', 'Aryavratt']"
+Storm over Mont Blanc,screenwriter,Arnold Fanck,Who was the screenwriter for Storm over Mont Blanc?,"['Arnold Fanck', 'Arnold Heinrich Fanck']"
+Lightning,screenwriter,Fumiko Hayashi,Who was the screenwriter for Lightning?,"['Fumiko Hayashi', 'Hayashi Fumiko']"
+Cocktail,director,Herman Yau,Who was the director of Cocktail?,"['Herman Yau', 'Herman Yau Lai-to']"
+Mars,genre,science fiction film,What genre is Mars?,"['science fiction film', 'sci-fi film', 'science fiction movie', 'sci-fi movie', 'scifi film', 'scifi movie', 'sci fi film', 'sci fi movie', 'scifi-film', 'scifi']"
+Villa Amalia,author,Pascal Quignard,Who is the author of Villa Amalia?,['Pascal Quignard']
+Cloe Elmo,place of birth,Lecce,In what city was Cloe Elmo born?,['Lecce']
+Before Midnight,genre,detective fiction,What genre is Before Midnight?,"['detective fiction', 'detective and mystery fiction']"
+Made for Each Other,screenwriter,Joseph Bologna,Who was the screenwriter for Made for Each Other?,['Joseph Bologna']
+Pervirella,screenwriter,Alex Chandon,Who was the screenwriter for Pervirella?,['Alex Chandon']
+I Love You,director,Arnaldo Jabor,Who was the director of I Love You?,['Arnaldo Jabor']
+Evil,genre,horror film,What genre is Evil?,"['horror film', 'horror movie']"
+The Ragman's Daughter,director,Harold Becker,Who was the director of The Ragman's Daughter?,['Harold Becker']
+Still Life,genre,punk rock,What genre is Still Life?,"['punk rock', 'punk', 'punk music']"
+The Dove,screenwriter,Roland West,Who was the screenwriter for The Dove?,"['Willard Mack', 'Charles Willard McLaughlin', 'Roland West', 'Roland Van Zimmer']"
+José Cardoso Sobrinho,religion,Catholic Church,What is the religion of José Cardoso Sobrinho?,"['Catholic Church', 'Roman Catholic Church', 'Church', 'Roman Apostolic Catholic Church']"
+The Moving True Story of a Woman Ahead of Her Time,screenwriter,Pieter Verhoeff,Who was the screenwriter for The Moving True Story of a Woman Ahead of Her Time?,['Pieter Verhoeff']
+The Holes,screenwriter,Pierre Tchernia,Who was the screenwriter for The Holes?,"['Pierre Tchernia', 'Pierre Tcherniakowsky', 'Tchernia', 'Pierre Tcherniakowski']"
+Isabelle Adriani,occupation,journalist,What is Isabelle Adriani's occupation?,"['journalist', 'journo', 'journalists', 'actor', 'actress', 'actors', 'actresses']"
+Kelvin Felix,religion,Catholic Church,What is the religion of Kelvin Felix?,"['Catholic Church', 'Roman Catholic Church', 'Church', 'Roman Apostolic Catholic Church']"
+The Adolescent,director,Jeanne Moreau,Who was the director of The Adolescent?,['Jeanne Moreau']
+Margot Shumway,place of birth,Cincinnati,In what city was Margot Shumway born?,"['Cincinnati', 'Cincy', 'Cincinnati, Ohio', 'Cinti', 'Cincinnati, OH', 'Cin City']"
+Those Were the Days,producer,Natalis Chan,Who was the producer of Those Were the Days?,"['Natalis Chan', 'Natalis Chan Pak-cheung', 'Chan Pak-cheung']"
+Empire,director,Alexander Sokurov,Who was the director of Empire?,"['Alexander Sokurov', 'Aleksandr Sokurov', 'Aleksandr Sokoerov', 'A. Sokurov', 'Alexander Nikolayevich Sokurov']"
+Reality Is What You Can Get Away With,author,Robert Anton Wilson,Who is the author of Reality Is What You Can Get Away With?,"['Robert Anton Wilson', 'Robert Edward Wilson']"
+In Mexico,author,Jessica Lange,Who is the author of In Mexico?,"['Jessica Lange', 'Jessica Phyllis Lange']"
+Jim Baker,place of birth,Ilkeston,In what city was Jim Baker born?,['Ilkeston']
+Power,author,Nick Dear,Who is the author of Power?,['Nick Dear']
+Theodelap of Spoleto,father,Faroald I of Spoleto,Who is the father of Theodelap of Spoleto?,['Faroald I of Spoleto']
+The Ball,author,James Shirley,Who is the author of The Ball?,['James Shirley']
+Ralph Campney,place of birth,Picton,In what city was Ralph Campney born?,"['Picton', 'Picton, Ontario']"
+Stavros Stathakis,sport,association football,What sport does Stavros Stathakis play?,"['association football', 'football', 'soccer']"
+Nada,screenwriter,Claude Chabrol,Who was the screenwriter for Nada?,"['Jean-Patrick Manchette', 'Claude Chabrol', 'Claude Henri Jean Chabrol']"
+1870,director,Alfredo Giannetti,Who was the director of 1870?,['Alfredo Giannetti']
+Miran Tepeš,sport,ski jumping,What sport does Miran Tepeš play?,['ski jumping']
+The Hero,composer,Gian Carlo Menotti,Who was the composer of The Hero?,['Gian Carlo Menotti']
+Guilherme Andrade,sport,association football,What sport does Guilherme Andrade play?,"['association football', 'football', 'soccer']"
+Remote,author,Shin Kibayashi,Who is the author of Remote?,"['Shin Kibayashi', 'Tadashi Agi']"
+Hospital,author,Toby Litt,Who is the author of Hospital?,['Toby Litt']
+The Only Thing,director,Jack Conway,Who was the director of The Only Thing?,"['Jack Conway', 'Jack Conway (filmmaker)']"
+Cham Karim,country,Iran,In what country is Cham Karim?,"['Iran', 'Islamic Republic of Iran', 'Persia', 'ir', 'Islamic Rep. Iran', '🇮🇷']"
+Where Dead Voices Gather,author,Nick Tosches,Who is the author of Where Dead Voices Gather?,"['Nick Tosches', 'Nicholas P. Tosches']"
+The Unknown,genre,mystery film,What genre is The Unknown?,['mystery film']
+A Helpful Sisterhood,director,Van Dyke Brooke,Who was the director of A Helpful Sisterhood?,"['Van Dyke Brooke', 'Stewart McKerrow']"
+The Collection,screenwriter,Matt Hubbard,Who was the screenwriter for The Collection?,['Matt Hubbard']
+Family Tree,director,Olivier Ducastel,Who was the director of Family Tree?,"['Jacques Martineau', 'Olivier Ducastel']"
+Abhinandanam,composer,Kannur Rajan,Who was the composer of Abhinandanam?,['Kannur Rajan']
+Édouard Vaillant,place of birth,Vierzon,In what city was Édouard Vaillant born?,['Vierzon']
+The Dove,director,Roland West,Who was the director of The Dove?,"['Roland West', 'Roland Van Zimmer']"
+BLUE,composer,Jonna Lee,Who was the composer of BLUE?,"['Jonna Lee', 'ionnalee', 'Jonna Emily Lee Nilsson', 'Jonna Emily Lee']"
+Wellington Santos da Silva,place of birth,Guarulhos,In what city was Wellington Santos da Silva born?,['Guarulhos']
+Gilbert Bodart,place of birth,Seraing,In what city was Gilbert Bodart born?,['Seraing']
+Home,screenwriter,Maurice Elvey,Who was the screenwriter for Home?,['Maurice Elvey']
+Rahzan,country,Iran,In what country is Rahzan?,"['Iran', 'Islamic Republic of Iran', 'Persia', 'ir', 'Islamic Rep. Iran', '🇮🇷']"
+Drill,genre,industrial rock,What genre is Drill?,['industrial rock']
+Album,screenwriter,Dick Thompson Morgan,Who was the screenwriter for Album?,['Dick Thompson Morgan']
+Luka Glavaš,sport,association football,What sport does Luka Glavaš play?,"['association football', 'football', 'soccer']"
+Cornelis Springer,place of birth,Amsterdam,In what city was Cornelis Springer born?,"['Amsterdam', 'Mokum', 'Amsterdam, NL', 'Amsterdam, Netherlands', ""A'dam""]"
+Frederick Dundas,occupation,politician,What is Frederick Dundas's occupation?,"['politician', 'political leader', 'political figure', 'polit.', 'pol']"
+Ramón Luis Valcárcel Siso,place of birth,Murcia,In what city was Ramón Luis Valcárcel Siso born?,['Murcia']
+Flood,screenwriter,Ben Elton,Who was the screenwriter for Flood?,"['Ben Elton', 'Benjamin Charles Elton', 'Rik Mayall', 'Richard Michael Mayall', 'Lise Mayer']"
+Palmer,country,Australia,In what country is Palmer?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+"Hethum II, King of Armenia",mother,"Keran, Queen of Armenia","Who is the mother of Hethum II, King of Armenia?","['Keran, Queen of Armenia']"
+Lucky,author,Cecily von Ziegesar,Who is the author of Lucky?,"['Cecily von Ziegesar', 'Cecily Brooke von Ziegesar']"
+The Last Moment,screenwriter,Paul Fejos,Who was the screenwriter for The Last Moment?,['Paul Fejos']
+Titan,author,Ian Livingstone,Who is the author of Titan?,['Ian Livingstone']
+In the Family,producer,Paulo Porto,Who was the producer of In the Family?,['Paulo Porto']
+The Details,genre,indie rock,What genre is The Details?,"['indie rock', 'Independent rock', 'Indie Rock']"
+Mother and Child,director,Hans Steinhoff,Who was the director of Mother and Child?,['Hans Steinhoff']
+Graham Oates,sport,association football,What sport does Graham Oates play?,"['association football', 'football', 'soccer']"
+Fürchte dich nicht,composer,Johann Sebastian Bach,Who was the composer of Fürchte dich nicht?,"['Johann Sebastian Bach', 'Bach', 'J.S. Bach', 'J. S. Bach', 'J S Bach']"
+Tribute,author,Bernard Slade,Who is the author of Tribute?,"['Bernard Slade', 'Bernard Slade Newbound']"
+The Confession,director,Zeki Demirkubuz,Who was the director of The Confession?,['Zeki Demirkubuz']
+Hello Sailor,author,Eric Idle,Who is the author of Hello Sailor?,"['Eric Idle', 'Erik Idle', 'Erick Idle']"
+Collaboration West,genre,jazz,What genre is Collaboration West?,"['jazz', 'jazz music', 'jass', 'jas', 'jaz', 'Jazz']"
+Mike Edwards,sport,association football,What sport does Mike Edwards play?,"['association football', 'football', 'soccer']"
+One Life,composer,Roman Vlad,Who was the composer of One Life?,['Roman Vlad']
+The Wolf,director,Michael Curtiz,Who was the director of The Wolf?,['Michael Curtiz']
+First division,sport,baseball,What sport does First division play?,"['baseball', ""America's pastime"", '⚾']"
+Taman Prasasti Museum,country,Indonesia,In what country is Taman Prasasti Museum?,"['Indonesia', 'Republic of Indonesia', 'id', 'ID', 'INA', 'IDN']"
+Den store gavtyv,director,Johan Jacobsen,Who was the director of Den store gavtyv?,['Johan Jacobsen']
+Julián Lalinde,sport,association football,What sport does Julián Lalinde play?,"['association football', 'football', 'soccer']"
+Youth,author,Isaac Asimov,Who is the author of Youth?,"['Isaac Asimov', 'Isaak Osimov', 'Paul French', 'Asimov', 'Isaak Ozimov']"
+Rubim do Norte River,country,Brazil,In what country is Rubim do Norte River?,"['Brazil', 'Federative Republic of Brazil', 'BR', 'BRA', 'br', '🇧🇷']"
+Mountains,genre,blues rock,What genre is Mountains?,"['blues rock', 'Blues Rock']"
+Dream On (An Indian Lullaby),composer,Victor Herbert,Who was the composer of Dream On (An Indian Lullaby)?,"['Victor Herbert', 'Victor August Herbert']"
+Most of Me,genre,non-fiction,What genre is Most of Me?,"['non-fiction', 'nonfiction', 'non fiction']"
+Fernand Cornez,place of birth,Paris,In what city was Fernand Cornez born?,"['Paris', 'City of Light', 'Paris, France']"
+Pomabamba Province,capital of,Áncash,What is Pomabamba Province the capital of?,['Áncash']
+As Time Goes By,screenwriter,Ann Hui,Who was the screenwriter for As Time Goes By?,"['Ann Hui', 'Xu Anhua']"
+Hans Holtedahl,father,Olaf Holtedahl,Who is the father of Hans Holtedahl?,['Olaf Holtedahl']
+Compass,genre,public art,What genre is Compass?,['public art']
+Midnight,director,Daniela Thomas,Who was the director of Midnight?,"['Daniela Thomas', 'Walter Salles', 'Walter Moreira Salles, Jr.']"
+Orefield,country,United States of America,In what country is Orefield?,"['United States of America', 'the United States of America', 'America', 'U.S.A.', 'USA', 'U.S.', 'US', 'the US', 'the USA', 'US of A', 'the United States', 'U. S. A.', 'U. S.', 'the States', 'the U.S.', ""'Merica"", 'U.S', 'United States', ""'Murica""]"
+Second Skin,director,Gerardo Vera,Who was the director of Second Skin?,"['Gerardo Vera', 'Gerardo Vera Perales']"
+Friedhelm Konietzka,sport,association football,What sport does Friedhelm Konietzka play?,"['association football', 'football', 'soccer']"
+Neighbors,screenwriter,Buster Keaton,Who was the screenwriter for Neighbors?,"['Buster Keaton', 'Joseph Frank Keaton', 'Joseph F. Keaton', 'Joseph Keaton', 'Joseph Francis Keaton', 'Frigo']"
+Smash,author,Garson Kanin,Who is the author of Smash?,['Garson Kanin']
+Harvest,producer,Carroll Ballard,Who was the producer of Harvest?,['Carroll Ballard']
+Way Up High,author,Roger Zelazny,Who is the author of Way Up High?,"['Roger Zelazny', 'Roger Joseph Zelazny', 'Roger Joseph Christopher Zelazny', 'Harrison Denmark']"
+Three Days to Never,author,Tim Powers,Who is the author of Three Days to Never?,"['Tim Powers', 'Timothy Thomas Powers', 'Timotheus Powers', 'Timothy Powers', 'William Ashbless']"
+Devalan,country,Turkey,In what country is Devalan?,"['Turkey', 'Republic of Turkey', '🇹🇷', 'TUR', 'TR']"
+Day Off,director,Pascal Thomas,Who was the director of Day Off?,['Pascal Thomas']
+Control,director,Kenneth Bi,Who was the director of Control?,['Kenneth Bi']
+Donsol,screenwriter,"Adolfo Alix, Jr.",Who was the screenwriter for Donsol?,"['Adolfo Alix, Jr.']"
+Sun,screenwriter,Alessandro Blasetti,Who was the screenwriter for Sun?,['Alessandro Blasetti']
+Chi,director,Anne Wheeler,Who was the director of Chi?,['Anne Wheeler']
+Ex,screenwriter,Fausto Brizzi,Who was the screenwriter for Ex?,['Fausto Brizzi']
+Challenge,author,H. C. McNeile,Who is the author of Challenge?,"['H. C. McNeile', 'Herman Cyril McNeile', 'Cyril McNeile', 'Sapper']"
+Losing It,author,Valerie Bertinelli,Who is the author of Losing It?,"['Valerie Bertinelli', 'Valerie Ann Bertinelli']"
+From Above,composer,Ben Folds,Who was the composer of From Above?,"['Ben Folds', 'Benjamin Scott Folds']"
+The Valley,director,Ghassan Salhab,Who was the director of The Valley?,['Ghassan Salhab']
+Take a Chance,composer,Nacio Herb Brown,Who was the composer of Take a Chance?,"['Nacio Herb Brown', 'Ignacio ""Nacio"" Herb Brown', 'Ignacio Herb Brown', 'Ignacio Herbert Brown', 'Vincent Youmans', 'Vincent Millie Youmans']"
+Victory Monument in Netanya,country,Israel,In what country is Victory Monument in Netanya?,"['Israel', 'State of Israel', 'il', '🇮🇱', 'Holy Land', 'the Jewish state', 'ISR']"
+A Survey,author,Max Beerbohm,Who is the author of A Survey?,"['Max Beerbohm', 'Sir Max Beerbohm', 'Sir Henry Maximilian Beerbohm', 'Sir Beerbohm', 'Henry Maximilian Beerbohm']"
+The Rubber Gun,screenwriter,Stephen Lack,Who was the screenwriter for The Rubber Gun?,['Stephen Lack']
+College,director,Franco Castellano,Who was the director of College?,"['Franco Castellano', 'Giuseppe Moccia']"
+Thomas Seaton Scott,place of birth,Birkenhead,In what city was Thomas Seaton Scott born?,['Birkenhead']
+Leif Claesson,father,Stig Claesson,Who is the father of Leif Claesson?,"['Stig Claesson', 'John Stig Claesson']"
+The Edge of Tomorrow,author,Isaac Asimov,Who is the author of The Edge of Tomorrow?,"['Isaac Asimov', 'Isaak Osimov', 'Paul French', 'Asimov', 'Isaak Ozimov']"
+Clotilde,composer,Carlo Coccia,Who was the composer of Clotilde?,['Carlo Coccia']
+Pedro Lisímaco de Jesús Vílchez Vílchez,religion,Catholic Church,What is the religion of Pedro Lisímaco de Jesús Vílchez Vílchez?,"['Catholic Church', 'Roman Catholic Church', 'Church', 'Roman Apostolic Catholic Church']"
+Shrichand Kriplani,place of birth,Chittorgarh,In what city was Shrichand Kriplani born?,"['Chittorgarh', 'Chittaurgarh', 'Chittor']"
+Partner,screenwriter,Bernardo Bertolucci,Who was the screenwriter for Partner?,['Bernardo Bertolucci']
+John M. Wood,place of birth,Minisink,In what city was John M. Wood born?,"['Minisink', 'Minisink']"
+Mobile Home,genre,comedy-drama,What genre is Mobile Home?,"['comedy-drama', 'dramedy', 'comedic drama', 'tragicomedy', 'seriocomedy', 'comedy drama', 'dramatic comedy', 'Comedy-drama, dramedy']"
+Forbes Shire,country,Australia,In what country is Forbes Shire?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Creepmime,genre,death metal,What genre is Creepmime?,"['death metal', 'Death Metal']"
+All Because of You,producer,Butch Walker,Who was the producer of All Because of You?,['Butch Walker']
+In the Next Room,genre,mystery film,What genre is In the Next Room?,['mystery film']
+Dmitriyev,capital of,Dmitriyevsky District,What is Dmitriyev the capital of?,['Dmitriyevsky District']
+Edward Norton,occupation,politician,What is Edward Norton's occupation?,"['politician', 'political leader', 'political figure', 'polit.', 'pol']"
+Alton Montgomery,place of birth,Griffin,In what city was Alton Montgomery born?,"['Griffin', 'Griffin, Georgia']"
+Shift,author,Tim Kring,Who is the author of Shift?,"['Dale Peck', 'Tim Kring', 'Richard Timothy ""Tim"" Kring', 'Richard Timothy Kring']"
+Robert Milman,religion,Anglicanism,What is the religion of Robert Milman?,"['Anglicanism', 'Anglicanism, Anglican Church']"
+Target,genre,Western film,What genre is Target?,"['Western film', 'western film', 'western genre', 'Western']"
+Carolyn Eisele,occupation,mathematician,What is Carolyn Eisele's occupation?,['mathematician']
+Capitol,author,Orson Scott Card,Who is the author of Capitol?,"['Orson Scott Card', 'Brian Green', 'Frederick Bliss', 'Byron Walley', 'Scott Richards', 'Dinah Kirkham', 'P.Q. Gump', 'Byron S. Walley']"
+A Christmas for Shacktown,author,Carl Barks,Who is the author of A Christmas for Shacktown?,"['Carl Barks', 'The Duck Man', 'The Good Duck Artist']"
+William Franklin Switzler,place of birth,Columbia,In what city was William Franklin Switzler born?,"['Columbia', 'Columbia, Missouri']"
+The Disk,author,Jorge Luis Borges,Who is the author of The Disk?,"['Jorge Luis Borges', 'Jorge Francisco Isidoro Luis Borges', 'Chorche Louis Borches', 'Jorge Luis Borges Acevedo', 'Horhe Luis Borhes', 'J. L. Borges', 'H. Bustos Domecq', 'Khorkhe Luyis Borkhes', 'Borges', 'Jorge Francisco Isidoro Luis Borges Acevedo']"
+HERmione,author,H.D.,Who is the author of HERmione?,"['H.D.', 'Hilda Doolittle-Aldington', 'Hilda Doolittle']"
+Splendors and Glooms,author,Laura Amy Schlitz,Who is the author of Splendors and Glooms?,['Laura Amy Schlitz']
+Paris,genre,sitcom,What genre is Paris?,"['sitcom', 'situational comedy', 'situation comedy']"
+Underground,genre,documentary film,What genre is Underground?,"['documentary film', 'documentary movie', 'doc', 'film documentary', 'motion picture documentary', 'documentary', 'factual film']"
+Eleanor Davis,occupation,cartoonist,What is Eleanor Davis's occupation?,"['cartoonist', 'graphic artist', 'animator', 'illustrator']"
+Mothers,screenwriter,Milcho Manchevski,Who was the screenwriter for Mothers?,['Milcho Manchevski']
+Watch Out,screenwriter,Steve Balderson,Who was the screenwriter for Watch Out?,"['Steve Balderson', 'Stephen Clark Balderson']"
+Grandmother,director,Idrissa Ouédraogo,Who was the director of Grandmother?,['Idrissa Ouédraogo']
+The Barrier,director,Lesley Selander,Who was the director of The Barrier?,['Lesley Selander']
+Elisabeta Guzganu-Tufan,sport,fencing,What sport does Elisabeta Guzganu-Tufan play?,['fencing']
+Ab Bahri,country,Iran,In what country is Ab Bahri?,"['Iran', 'Islamic Republic of Iran', 'Persia', 'ir', 'Islamic Rep. Iran', '🇮🇷']"
+Pickup,genre,film noir,What genre is Pickup?,['film noir']
+Anxiety,screenwriter,Manoel de Oliveira,Who was the screenwriter for Anxiety?,"['Manoel de Oliveira', 'Manoel Cândido Pinto de Oliveira']"
+Heinrich August Jäschke,place of birth,Herrnhut,In what city was Heinrich August Jäschke born?,['Herrnhut']
+Moneygall GAA,sport,Gaelic football,What sport does Moneygall GAA play?,"['Gaelic football', 'hurling']"
+Paul Hoffman,sport,basketball,What sport does Paul Hoffman play?,"['basketball', 'hoops', 'b-ball', 'basket ball', 'BB', 'Basketball']"
+Occupy,author,Noam Chomsky,Who is the author of Occupy?,"['Noam Chomsky', 'Avram Noam Chomsky', 'A. Noam Chomsky', 'Chomsky']"
+Protocol,genre,pop music,What genre is Protocol?,"['pop music', 'pop', 'Pop']"
+Lady on the Bus,producer,Nelson Rodrigues,Who was the producer of Lady on the Bus?,"['Nelson Rodrigues', 'Nélson Rodrigues', 'Susana Flag']"
+An Image of the Past,director,Tod Browning,Who was the director of An Image of the Past?,"['Tod Browning', 'Charles Albert Browning']"
+Abandon,genre,Christian rock,What genre is Abandon?,['Christian rock']
+Rest,genre,progressive rock,What genre is Rest?,"['progressive rock', 'prog-rock', 'prog', 'classical rock', 'symphonic rock', 'art rock', 'progressive pop', 'prog rock', 'Progressive Rock']"
+Charlotte,director,Frans Weisz,Who was the director of Charlotte?,['Frans Weisz']
+First Law,author,Isaac Asimov,Who is the author of First Law?,"['Isaac Asimov', 'Isaak Osimov', 'Paul French', 'Asimov', 'Isaak Ozimov']"
+Saša Janić,sport,association football,What sport does Saša Janić play?,"['association football', 'football', 'soccer']"
+Protagonist,director,Jessica Yu,Who was the director of Protagonist?,"['Jessica Yu', 'Jessica Lingmin Yu']"
+Good Value,author,"Stephen Green, Baron Green of Hurstpierpoint",Who is the author of Good Value?,"['Stephen Green, Baron Green of Hurstpierpoint', 'Stephen Keith Green, Baron Green of Hurstpierpoint']"
+The Latimers,author,Henry Christopher McCook,Who is the author of The Latimers?,"['Henry Christopher McCook', 'McCook']"
+L'arma,screenwriter,Pasquale Squitieri,Who was the screenwriter for L'arma?,['Pasquale Squitieri']
+James Keddy,place of birth,Dublin,In what city was James Keddy born?,"['Dublin', 'Dublin city', 'City of Dublin', 'Baile Átha Cliath']"
+Sagar Sangamey,director,Debaki Bose,Who was the director of Sagar Sangamey?,['Debaki Bose']
+Success,producer,Franz Seitz Jr.,Who was the producer of Success?,"['Franz Seitz Jr.', 'Franz Seitz junior']"
+Hansi Niese,place of birth,Vienna,In what city was Hansi Niese born?,"['Vienna', 'Wien', 'Vienna, Austria', 'W']"
+Pilgrimage,director,Werner Herzog,Who was the director of Pilgrimage?,"['Werner Herzog', 'Werner Herzog Stipetić', 'Werner Stipetić']"
+Cash Flow,author,Don Rosa,Who is the author of Cash Flow?,"['Don Rosa', 'Keno Don Hugo Rosa']"
+Three Loves in Rio,screenwriter,Carlos Hugo Christensen,Who was the screenwriter for Three Loves in Rio?,['Carlos Hugo Christensen']
+The Wake,genre,gothic rock,What genre is The Wake?,"['gothic rock', 'goth rock', 'goth', 'Gothic rock', 'Goth rock', 'Gothic Rock']"
+Out of the Dark,author,Welwyn Wilton Katz,Who is the author of Out of the Dark?,['Welwyn Wilton Katz']
+Infanta Francisca Josefa of Portugal,father,Peter II of Portugal,Who is the father of Infanta Francisca Josefa of Portugal?,"['Peter II of Portugal', 'Prince, son of João IV, King of Portugal Pedro I', 'king of Portugal Peter II', 'King of Portugal Pedro II', 'roi de Portugal Pierre II', 'Peter II', 'Unico Pedro', 'King of Portugal Petrus II', 'King of Portugal Peter II']"
+The Count,director,Charlie Chaplin,Who was the director of The Count?,"['Charlie Chaplin', 'Charles Spencer Chaplin', 'Charles Chaplin', 'Sir Charles Spencer Chaplin']"
+Fritz Goos,occupation,astronomer,What is Fritz Goos's occupation?,"['astronomer', 'physicist']"
+The Last Word,screenwriter,Binka Zhelyazkova,Who was the screenwriter for The Last Word?,['Binka Zhelyazkova']
+Grant,country,Slovenia,In what country is Grant?,"['Slovenia', 'Slovenija', 'Republika Slovenija', 'si', '🇸🇮', 'svn', 'slo', 'Republic of Slovenia', 'SLO']"
+The Only Way,screenwriter,Charles Dickens,Who was the screenwriter for The Only Way?,"['Charles Dickens', 'Dickens', 'C.Dickens', 'Charles John Huffam Dickens', 'Boz']"
+Harald Molander,mother,Karin Molander,Who is the mother of Harald Molander?,['Karin Molander']
+David Nascimento,sport,association football,What sport does David Nascimento play?,"['association football', 'football', 'soccer']"
+Party,director,Manoel de Oliveira,Who was the director of Party?,"['Manoel de Oliveira', 'Manoel Cândido Pinto de Oliveira']"
+Strand,producer,Rouzbeh Rashidi,Who was the producer of Strand?,['Rouzbeh Rashidi']
+Italo Viglianesi,place of birth,Caltagirone,In what city was Italo Viglianesi born?,['Caltagirone']
+Pizza,producer,Alain Bashung,Who was the producer of Pizza?,"['Alain Bashung', 'Alain Claude Baschung']"
+Shine,producer,Brendan O'Brien,Who was the producer of Shine?,"[""Brendan O'Brien""]"
+Luca Coscioni,occupation,politician,What is Luca Coscioni's occupation?,"['economist', 'economists', 'politician', 'political leader', 'political figure', 'polit.', 'pol']"
+Afgar,composer,Charles Cuvillier,Who was the composer of Afgar?,['Charles Cuvillier']
+Man of the Year,screenwriter,Dirk Shafer,Who was the screenwriter for Man of the Year?,"['Dirk Shafer', 'Dirk Alan Shafer']"
+Sucha County,capital,Sucha Beskidzka,What is the capital of Sucha County?,['Sucha Beskidzka']
+The Department,screenwriter,David Williamson,Who was the screenwriter for The Department?,"['David Williamson', 'David Keith Williamson']"
+TEEN,genre,alternative rock,What genre is TEEN?,"['alternative rock', 'alternative music', 'alt-rock', 'alternative', 'alt rock', 'pop/rock', 'Alternative Rock']"
+The Best Man,director,Pupi Avati,Who was the director of The Best Man?,"['Pupi Avati', 'Giuseppe Avati']"
+Hermann Ahlwardt,occupation,journalist,What is Hermann Ahlwardt's occupation?,"['journalist', 'journo', 'journalists']"
+Impact,genre,science fiction,What genre is Impact?,"['thriller', 'suspense', 'thriller television program', 'thriller TV program', 'thriller television show', 'thriller TV show', 'suspense television program', 'suspense TV program', 'suspense television show', 'suspense TV show', 'science fiction', 'SF', 'scifi', 'sci Fi', 'sci-Fi', 'science-fiction', 'sci fi', 'sciencefiction']"
+Michele Tenore,place of birth,Naples,In what city was Michele Tenore born?,"['Naples', 'Napoli', 'Neapolis']"
+Chaotic,author,Kelley Armstrong,Who is the author of Chaotic?,"['Kelley Armstrong', 'Sarah']"
+George Tintle,place of birth,Harrison,In what city was George Tintle born?,"['Harrison', 'Harrison, New Jersey', 'Harrison, Hudson County, New Jersey']"
+Picture This,author,Joseph Heller,Who is the author of Picture This?,['Joseph Heller']
+Honor Harger,occupation,curator,What is Honor Harger's occupation?,"['curator', 'museum curator', 'keeper']"
+Keyboard Concerto No. 11,composer,Joseph Haydn,Who was the composer of Keyboard Concerto No. 11?,"['Joseph Haydn', 'Franz Joseph Haydn', 'Haydn', 'Franciscus Joseph Haydn', 'Franciscus Josephus Haydn']"
+Holiday,author,Philip Barry,Who is the author of Holiday?,['Philip Barry']
+Rude Kids,genre,punk rock,What genre is Rude Kids?,"['punk rock', 'punk', 'punk music']"
+Rebellion,director,Herman Yau,Who was the director of Rebellion?,"['Herman Yau', 'Herman Yau Lai-to']"
+Plaza,capital,Guarenas,What is the capital of Plaza?,['Guarenas']
+7B,genre,Russian rock,What genre is 7B?,"['Russian rock', 'rock music in Russia']"
+The Call of Youth,director,Hugh Ford,Who was the director of The Call of Youth?,['Hugh Ford']
+Suddenly,director,Diego Lerman,Who was the director of Suddenly?,['Diego Lerman']
+The Era,genre,mandopop,What genre is The Era?,"['mandopop', 'Mandarin popular music', 'mandapop']"
+Paris,occupation,actor,What is Paris's occupation?,"['actor', 'actress', 'actors', 'actresses']"
+Baby,screenwriter,Daniel Mulloy,Who was the screenwriter for Baby?,['Daniel Mulloy']
+Flare,genre,J-pop,What genre is Flare?,"['J-pop', 'Japanese pop', 'jpop']"
+Mensonges et trahisons et plus si affinités...,screenwriter,Laurent Tirard,Who was the screenwriter for Mensonges et trahisons et plus si affinités...?,['Laurent Tirard']
+Embrace,author,Mark Behr,Who is the author of Embrace?,['Mark Behr']
+Motif,genre,jazz,What genre is Motif?,"['jazz', 'jazz music', 'jass', 'jas', 'jaz', 'Jazz']"
+John Bell,occupation,surgeon,What is John Bell's occupation?,"['surgeon', 'surgeons']"
+Only You,composer,Andrew Lloyd Webber,Who was the composer of Only You?,"['Andrew Lloyd Webber', 'Baron Lloyd-Webber', 'Sir Andrew Lloyd Webber', 'Andrew Lloyd Webber, Baron Lloyd-Webber', 'The Rt Hon. The Lord Lloyd-Webber', 'The Lord Lloyd-Webber', 'Lord Lloyd-Webber']"
+The Fossil,director,Masaki Kobayashi,Who was the director of The Fossil?,['Masaki Kobayashi']
+Billy Carlson,place of birth,San Diego,In what city was Billy Carlson born?,"['San Diego', 'San Diego, California', 'SD', ""America's Finest City"", 'Sandi', 'the birthplace of California']"
+It's Easy to Remember (And So Hard to Forget),composer,Richard Rodgers,Who was the composer of It's Easy to Remember (And So Hard to Forget)?,"['Richard Rodgers', 'Richard Charles Rodgers']"
+El Carmen Rivero Tórrez,country,Bolivia,In what country is El Carmen Rivero Tórrez?,"['Bolivia', 'Plurinational State of Bolivia', 'bo', 'bol', '🇧🇴', 'Republic of Bolivia', 'BOL', 'Bolivia (Plurinational State of)']"
+Ordeal in Space,genre,short story,What genre is Ordeal in Space?,"['short story', 'tale', 'pripovijetka']"
+Do It Again,composer,George Gershwin,Who was the composer of Do It Again?,"['George Gershwin', 'Jacob Gershvin', 'Jacob Bruskin Gershowitz', 'George Jacob Gershwin', 'Dzhordzh Gershvin']"
+Roads,author,Seabury Quinn,Who is the author of Roads?,"['Seabury Quinn', 'Seabury Grandin Quinn', 'Jerome Burke']"
+Gimme the Power,genre,documentary film,What genre is Gimme the Power?,"['documentary film', 'documentary movie', 'doc', 'film documentary', 'motion picture documentary', 'documentary', 'factual film']"
+Tarnogsky District,capital,Tarnogsky Gorodok,What is the capital of Tarnogsky District?,['Tarnogsky Gorodok']
+The Secret Call,director,Stuart Walker,Who was the director of The Secret Call?,"['Stuart Walker', 'Stuart Armstrong Walker']"
+Find Me,author,Rosie O'Donnell,Who is the author of Find Me?,"[""Rosie O'Donnell"", ""Roseann O'Donnell"", ""Roseann Teresa O'Donnell"", ""Roseanne Teresa O'Donnell""]"
+Confidence,author,Henry James,Who is the author of Confidence?,"['Henry James', 'Henricus James']"
+Foundation,genre,non-fiction,What genre is Foundation?,"['non-fiction', 'nonfiction', 'non fiction']"
+Valea Seacă River,country,Romania,In what country is Valea Seacă River?,"['Romania', 'Roumania', 'Rumania', 'România', 'ro', '🇷🇴']"
+Ceyda Aktaş,sport,volleyball,What sport does Ceyda Aktaş play?,['volleyball']
+So Little Time,genre,romance film,What genre is So Little Time?,"['romance film', 'romance genre', 'romantic film']"
+Passage,author,Lois McMaster Bujold,Who is the author of Passage?,['Lois McMaster Bujold']
+Todd Verow,occupation,actor,What is Todd Verow's occupation?,"['cinematographer', 'director of photography', 'DOP', 'film director', 'movie director', 'director', 'motion picture director', 'actor', 'actress', 'actors', 'actresses']"
+The Hermaphrodite,author,Julia Ward Howe,Who is the author of The Hermaphrodite?,"['Julia Ward Howe', 'Julia Ward', 'Mrs. Samuel Gridley Howe']"
+Dimensions,genre,jazz,What genre is Dimensions?,"['jazz', 'jazz music', 'jass', 'jas', 'jaz', 'Jazz']"
+Ramón Rodríguez,sport,association football,What sport does Ramón Rodríguez play?,"['association football', 'football', 'soccer']"
+The Game,screenwriter,Joey Murphy,Who was the screenwriter for The Game?,"['Joey Murphy', 'John Pardee']"
+I Love You,screenwriter,Arnaldo Jabor,Who was the screenwriter for I Love You?,['Arnaldo Jabor']
+Jin Zhiyang,sport,association football,What sport does Jin Zhiyang play?,"['association football', 'football', 'soccer']"
+She Is the Darkness,author,Glen Cook,Who is the author of She Is the Darkness?,"['Glen Cook', 'Greg Stevens', 'Glen Charles Cook']"
+The New Tenants,screenwriter,Anders Thomas Jensen,Who was the screenwriter for The New Tenants?,['Anders Thomas Jensen']
+The Bench,director,Per Fly,Who was the director of The Bench?,"['Per Fly', 'Per Fly Plejdrup']"
+Philip Rosenberg,occupation,production designer,What is Philip Rosenberg's occupation?,"['production designer', 'art director', 'artistic coordinator']"
+The City,director,Harvey Hart,Who was the director of The City?,['Harvey Hart']
+Disco,screenwriter,Fabien Onteniente,Who was the screenwriter for Disco?,['Fabien Onteniente']
+Max Fechner,occupation,politician,What is Max Fechner's occupation?,"['politician', 'political leader', 'political figure', 'polit.', 'pol']"
+Alexis Carra,sport,association football,What sport does Alexis Carra play?,"['association football', 'football', 'soccer']"
+The Spell,author,Alan Hollinghurst,Who is the author of The Spell?,"['Alan Hollinghurst', 'Alan James Hollinghurst']"
+Marvell Thomas,father,Rufus Thomas,Who is the father of Marvell Thomas?,['Rufus Thomas']
+Stare Brzóski,country,Poland,In what country is Stare Brzóski?,"['Poland', 'POL', 'Republic of Poland', 'PL', 'Polska']"
+Psyché,author,Pierre Corneille,Who is the author of Psyché?,"['Philippe Quinault', 'Quinault', 'Pierre Corneille']"
+Nelson Semperena,sport,association football,What sport does Nelson Semperena play?,"['association football', 'football', 'soccer']"
+Whited Township,country,United States of America,In what country is Whited Township?,"['United States of America', 'the United States of America', 'America', 'U.S.A.', 'USA', 'U.S.', 'US', 'the US', 'the USA', 'US of A', 'the United States', 'U. S. A.', 'U. S.', 'the States', 'the U.S.', ""'Merica"", 'U.S', 'United States', ""'Murica""]"
+Coming Home,screenwriter,Chris Black,Who was the screenwriter for Coming Home?,['Chris Black']
+From Time to Time,author,Jack Finney,Who is the author of From Time to Time?,"['Jack Finney', 'Walter Braden Finney', 'John Finney']"
+Touring Band 2000,genre,alternative rock,What genre is Touring Band 2000?,"['alternative rock', 'alternative music', 'alt-rock', 'alternative', 'alt rock', 'pop/rock', 'Alternative Rock']"
+Supercock,director,Gus Trikonis,Who was the director of Supercock?,['Gus Trikonis']
+Dragomirna River,country,Romania,In what country is Dragomirna River?,"['Romania', 'Roumania', 'Rumania', 'România', 'ro', '🇷🇴']"
+A Crime,screenwriter,Tonino Benacquista,Who was the screenwriter for A Crime?,['Tonino Benacquista']
+It's Not Enough,producer,Pete Townshend,Who was the producer of It's Not Enough?,"['Pete Townshend', 'Peter Dennis Blandford Townshend', '00122214237 IPI', '00054760672 IPI']"
+Company,author,Samuel Beckett,Who is the author of Company?,"['Samuel Beckett', 'Samuel Barclay Beckett', 'Andrew Belis', 'Sam Beckett', 'Sa-miao-erh Pei-kʻo-tʻe', 'Samuel Beḳeṭ']"
+Le Fils d'Amr est mort,screenwriter,Jean-Jacques Andrien,Who was the screenwriter for Le Fils d'Amr est mort?,['Jean-Jacques Andrien']
+Long Live the King,author,The Decemberists,Who is the author of Long Live the King?,['The Decemberists']
+Gerd Schwidrowski,sport,association football,What sport does Gerd Schwidrowski play?,"['association football', 'football', 'soccer']"
+I Am,producer,Todd Zeile,Who was the producer of I Am?,"['Todd Zeile', 'Todd Edward Zeile']"
+Antonio Hernández Gallegos,religion,Catholic Church,What is the religion of Antonio Hernández Gallegos?,"['Catholic Church', 'Roman Catholic Church', 'Church', 'Roman Apostolic Catholic Church']"
+Carmelite Rule of St. Albert,author,Albert of Vercelli,Who is the author of Carmelite Rule of St. Albert?,"['Albert of Vercelli', 'Albert Avogadro', 'St. Alberto Avogadro']"
+Maurice Reymond de Broutelles,place of birth,Geneva,In what city was Maurice Reymond de Broutelles born?,"['Geneva', 'Genève', 'Geneva GE', 'Geneve', 'Genf']"
+Louis O'Dea,occupation,politician,What is Louis O'Dea's occupation?,"['politician', 'political leader', 'political figure', 'polit.', 'pol']"
+Estate,composer,Bruno Martino,Who was the composer of Estate?,['Bruno Martino']
+Saints of Big Harbour,author,Lynn Coady,Who is the author of Saints of Big Harbour?,['Lynn Coady']
+Just Like Us,producer,Ahmed Ahmed,Who was the producer of Just Like Us?,['Ahmed Ahmed']
+Adyghe Autonomous Oblast,capital,Maykop,What is the capital of Adyghe Autonomous Oblast?,"['Krasnodar', 'Yekaterinodar', 'Katerynodar', 'Maykop']"
+Sway,director,Miwa Nishikawa,Who was the director of Sway?,['Miwa Nishikawa']
+The Professor,producer,Charlie Chaplin,Who was the producer of The Professor?,"['Charlie Chaplin', 'Charles Spencer Chaplin', 'Charles Chaplin', 'Sir Charles Spencer Chaplin']"
+Sunday,screenwriter,Jonathan Nossiter,Who was the screenwriter for Sunday?,['Jonathan Nossiter']
+Víctor Rabú,place of birth,Agen,In what city was Víctor Rabú born?,['Agen']
+Fear,producer,Oskar Messter,Who was the producer of Fear?,['Oskar Messter']
+Harisan,country,Iran,In what country is Harisan?,"['Iran', 'Islamic Republic of Iran', 'Persia', 'ir', 'Islamic Rep. Iran', '🇮🇷']"
+Party,screenwriter,Jay Woelfel,Who was the screenwriter for Party?,['Jay Woelfel']
+Bingo,screenwriter,Jean-Claude Lord,Who was the screenwriter for Bingo?,['Jean-Claude Lord']
+Gordie Gosse,occupation,politician,What is Gordie Gosse's occupation?,"['politician', 'political leader', 'political figure', 'polit.', 'pol']"
+Condition,producer,Amir Naderi,Who was the producer of Condition?,['Amir Naderi']
+Gladys Eleanor Guggenheim,father,Daniel Guggenheim,Who is the father of Gladys Eleanor Guggenheim?,['Daniel Guggenheim']
+One Night,director,Niki Karimi,Who was the director of One Night?,['Niki Karimi']
+Pete Donohue,place of birth,Athens,In what city was Pete Donohue born?,"['Athens', 'Athens, Texas']"
+O skliros andras,producer,Finos Film,Who was the producer of O skliros andras?,['Finos Film']
+The Saint,director,Abdur Rashid Kardar,Who was the director of The Saint?,"['Abdur Rashid Kardar', 'A. R. Kardar']"
+The Bells,composer,Gustav Holst,Who was the composer of The Bells?,"['Gustav Holst', 'Gustav Theodore Holst', 'Holst', 'Gustavus Theodore von Holst']"
+1982,author,Jian Ghomeshi,Who is the author of 1982?,['Jian Ghomeshi']
+Strength,genre,hardcore punk,What genre is Strength?,"['hardcore punk', 'hXc', 'Punk/HC', 'hardcore', 'Hardcore Punk']"
+The Exchange,screenwriter,Eran Kolirin,Who was the screenwriter for The Exchange?,"['Eran Kolirin', 'ʾEran Ḳolirin']"
+Emmanuel Biron,place of birth,Lyon,In what city was Emmanuel Biron born?,"['Lyon', 'Lyons', 'Commune-Affranchie']"
+Qutaylah bint Abd-al-Uzza,religion,Islam,What is the religion of Qutaylah bint Abd-al-Uzza?,"['Islam', 'Islamic religion', 'Mohammedanism', 'Muslim religion', 'al-’islām', 'religion of the Muslims']"
+Don't Ever Leave Me,producer,Betty Box,Who was the producer of Don't Ever Leave Me?,"['Betty Box', 'Betty Evelyn Box', 'Betty E. Box']"
+Nosrat Karimi,occupation,actor,What is Nosrat Karimi's occupation?,"['actor', 'actress', 'actors', 'actresses']"
+The Letter,screenwriter,Manoel de Oliveira,Who was the screenwriter for The Letter?,"['Manoel de Oliveira', 'Manoel Cândido Pinto de Oliveira']"
+The Other,director,Youssef Chahine,Who was the director of The Other?,['Youssef Chahine']
+Transcension,author,Damien Broderick,Who is the author of Transcension?,"['Damien Broderick', 'Damien Francis Broderick', 'D. Broderick', 'D Broderick', 'Roger Delaney', 'Edgar Grieve', 'Jack Harding', 'Alan Harlison', 'Philip Jenkins', 'Horace West', 'Iago Yarrick', ""O'Flaherty Gribbles""]"
+Spice,genre,pop rock,What genre is Spice?,"['pop rock', 'pop/rock', 'pop-rock']"
+The Secret,author,Mike Richardson,Who is the author of The Secret?,['Mike Richardson']
+Letting Go,author,Philip Roth,Who is the author of Letting Go?,"['Philip Roth', 'Philip Milton Roth']"
+India: Matri Bhumi,screenwriter,Fereydoon Hoveyda,Who was the screenwriter for India: Matri Bhumi?,['Fereydoon Hoveyda']
+Giovanni Grasso,occupation,actor,What is Giovanni Grasso's occupation?,"['actor', 'actress', 'actors', 'actresses']"
+Hin und zurück,composer,Paul Hindemith,Who was the composer of Hin und zurück?,['Paul Hindemith']
+Puzdrowizna,country,Poland,In what country is Puzdrowizna?,"['Poland', 'POL', 'Republic of Poland', 'PL', 'Polska']"
+In Old Cheyenne,director,Joseph Kane,Who was the director of In Old Cheyenne?,"['Joseph Kane', 'Jasper Joseph Inman Kane']"
+New England,country,Australia,In what country is New England?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Shine,composer,Luna Sea,Who was the composer of Shine?,"['Luna Sea', 'Lunacy']"
+Prototype,genre,science fiction film,What genre is Prototype?,"['science fiction film', 'sci-fi film', 'science fiction movie', 'sci-fi movie', 'scifi film', 'scifi movie', 'sci fi film', 'sci fi movie', 'scifi-film', 'scifi']"
+The Discarded,author,Harlan Ellison,Who is the author of The Discarded?,"['Harlan Ellison', 'Harlan Jay Ellison']"
+Operator,author,David Williamson,Who is the author of Operator?,"['David Williamson', 'David Keith Williamson']"
+The Trust,director,Lon Chaney,Who was the director of The Trust?,"['Lon Chaney', 'Leonidas Frank Chaney', 'Lon Chaney, Sr.', 'The Man of a Thousand Faces']"
+Alexandros Matsas,place of birth,Athens,In what city was Alexandros Matsas born?,['Athens']
+Louis,mother,Rotrude,Who is the mother of Louis?,"['Rotrude', 'Hruodrud']"
+Not of this World,screenwriter,Giuseppe Piccioni,Who was the screenwriter for Not of this World?,['Giuseppe Piccioni']
+Mustafa Keçeli,sport,association football,What sport does Mustafa Keçeli play?,"['association football', 'football', 'soccer']"
+Dârmocsa River,country,Romania,In what country is Dârmocsa River?,"['Romania', 'Roumania', 'Rumania', 'România', 'ro', '🇷🇴']"
+Azhimukham,composer,Baburaj,Who was the composer of Azhimukham?,['Baburaj']
+Edward Henry Howard,religion,Catholic Church,What is the religion of Edward Henry Howard?,"['Catholic Church', 'Roman Catholic Church', 'Church', 'Roman Apostolic Catholic Church']"
+Wake Up,genre,J-pop,What genre is Wake Up?,"['J-pop', 'Japanese pop', 'jpop']"
+Home Country,author,Ernie Pyle,Who is the author of Home Country?,"['Ernie Pyle', 'Ernest Taylor ""Ernie"" Pyle', 'Ernest Taylor Pyle']"
+A Beginning,producer,George Martin,Who was the producer of A Beginning?,"['George Martin', 'Sir George Henry Martin', 'Sir George Martin']"
+USR Sainte-Rose,sport,association football,What sport does USR Sainte-Rose play?,"['association football', 'football', 'soccer']"
+The Children,screenwriter,Edith Wharton,Who was the screenwriter for The Children?,"['Edith Wharton', 'Edith Newbold Jones', 'Edith Newbold Jones Wharton']"
+Solo,author,Robert Mason,Who is the author of Solo?,"['Robert Mason', 'Robert C. Mason']"
+Willy Roy,sport,association football,What sport does Willy Roy play?,"['association football', 'football', 'soccer']"
+All Because of You,composer,Avril Lavigne,Who was the composer of All Because of You?,"['Avril Lavigne', 'Avril Ramona Lavigne', 'Butch Walker']"
+H,producer,Darrell Wasyk,Who was the producer of H?,['Darrell Wasyk']
+Walter W. Arndt,place of birth,Istanbul,In what city was Walter W. Arndt born?,"['Istanbul', 'İstanbul']"
+Kaunas Sports Hall,sport,basketball,What sport does Kaunas Sports Hall play?,"['basketball', 'hoops', 'b-ball', 'basket ball', 'BB', 'Basketball']"
+The Camp,author,Richard Brinsley Sheridan,Who is the author of The Camp?,"['Richard Brinsley Sheridan', 'Richard Brinsley Butler Sheridan']"
+Galax-Arena,author,Gillian Rubinstein,Who is the author of Galax-Arena?,['Gillian Rubinstein']
+Don Reid,place of birth,Staunton,In what city was Don Reid born?,"['Staunton', 'Staunton, Virginia']"
+Appalachia: A History of Mountains and People,genre,documentary film,What genre is Appalachia: A History of Mountains and People?,"['documentary film', 'documentary movie', 'doc', 'film documentary', 'motion picture documentary', 'documentary', 'factual film']"
+Lan,director,Jiang Wenli,Who was the director of Lan?,['Jiang Wenli']
+János Farkas,sport,association football,What sport does János Farkas play?,"['association football', 'football', 'soccer']"
+Between God,genre,spaghetti western,What genre is Between God?,"['spaghetti western', 'Western Spaghetti', 'Spaghetti-western', 'Spaguetti-western', 'Macaroni western', 'Western europeo', 'Espagueti western', ""Western all'italiana"", 'Eurowestern', 'Spaguetti western', 'wéstern europeo']"
+Face to Face,director,Michael Rymer,Who was the director of Face to Face?,['Michael Rymer']
+Flood,screenwriter,Lise Mayer,Who was the screenwriter for Flood?,"['Ben Elton', 'Benjamin Charles Elton', 'Rik Mayall', 'Richard Michael Mayall', 'Lise Mayer']"
+Here,producer,Adrian Belew,Who was the producer of Here?,"['Adrian Belew', 'Robert Steven Belew']"
+"Ormak, Isfahan",country,Iran,"In what country is Ormak, Isfahan?","['Iran', 'Islamic Republic of Iran', 'Persia', 'ir', 'Islamic Rep. Iran', '🇮🇷']"
+Jodłówka gas field,country,Poland,In what country is Jodłówka gas field?,"['Poland', 'POL', 'Republic of Poland', 'PL', 'Polska']"
+Voyage d'Egypte et de Nubie,author,Frederic Louis Norden,Who is the author of Voyage d'Egypte et de Nubie?,['Frederic Louis Norden']
+Afonso of Portugal,mother,Violante Manuel,Who is the mother of Afonso of Portugal?,['Violante Manuel']
+Angelo Maria Rivato,religion,Catholic Church,What is the religion of Angelo Maria Rivato?,"['Catholic Church', 'Roman Catholic Church', 'Church', 'Roman Apostolic Catholic Church']"
+Election,director,Om Prakash Rao,Who was the director of Election?,['Om Prakash Rao']
+The Invisible Hand,screenwriter,Matt Wayne,Who was the screenwriter for The Invisible Hand?,['Matt Wayne']
+Tapay District,country,Peru,In what country is Tapay District?,"['Peru', 'pe', 'Republic of Peru', 'República del Perú', '🇵🇪', 'Republica del Peru']"
+Backstage,director,Jonathan Hardy,Who was the director of Backstage?,['Jonathan Hardy']
+"Stupid, But Brave",director,Roscoe Arbuckle,"Who was the director of Stupid, But Brave?","['Roscoe Arbuckle', 'Fatty Arbuckle', 'Roscoe Conkling Arbuckle', 'William Goodrich']"
+On My Way,screenwriter,Emmanuelle Bercot,Who was the screenwriter for On My Way?,['Emmanuelle Bercot']
+The Rehearsal,screenwriter,Jules Dassin,Who was the screenwriter for The Rehearsal?,"['Jules Dassin', 'Julius Dassin']"
+Magnolia Bible College,country,United States of America,In what country is Magnolia Bible College?,"['United States of America', 'the United States of America', 'America', 'U.S.A.', 'USA', 'U.S.', 'US', 'the US', 'the USA', 'US of A', 'the United States', 'U. S. A.', 'U. S.', 'the States', 'the U.S.', ""'Merica"", 'U.S', 'United States', ""'Murica""]"
+Now I Know,genre,young adult literature,What genre is Now I Know?,"['young adult literature', 'juvenile fiction', 'YA', 'youth literature', 'juvenile literature', 'young adult fiction', 'YA literature', 'YA fiction']"
+Players,author,Don DeLillo,Who is the author of Players?,"['Don DeLillo', 'Don Delillo', 'Donald Richard DeLillo']"
+We Go Way Back,screenwriter,Lynn Shelton,Who was the screenwriter for We Go Way Back?,['Lynn Shelton']
+Brè,country,Switzerland,In what country is Brè?,"['Switzerland', 'Swiss Confederation', 'SUI', 'Suisse', 'Schweiz', 'Svizzera', 'Swiss', 'CHE', 'CH', 'Confoederatio Helvetica']"
+Valea Pleșii River,country,Romania,In what country is Valea Pleșii River?,"['Romania', 'Roumania', 'Rumania', 'România', 'ro', '🇷🇴']"
+To my peoples,author,Franz Joseph I of Austria,Who is the author of To my peoples?,"['Franz Joseph I of Austria', 'Francis Joseph I', 'Emperor of Austria Franz Josef I', 'Emperor of Austria Franz Joseph I', 'Emperor of Austria Francis Joseph I', 'Emperor of Austria François-Joseph I', ""imperatore d'Austria Franz Joseph I"", 'keizer van Oostenrijk Franz Joseph I', 'Kaiser Franz Joseph I. Österreich', 'King of Hungary Ferenc József I', 'Emperor of Austria Francesco Giuseppe I', 'Emperor of Austria František Josef I', 'Franz Josef I', 'King of Hungary Ferenc Jozsef I', 'Franz Joseph I']"
+Blair Bush,place of birth,Fort Hood,In what city was Blair Bush born?,"['Fort Hood', 'Fort Hood, Texas']"
+Positive,director,Rosa von Praunheim,Who was the director of Positive?,"['Rosa von Praunheim', 'Holger Mischwitzky', 'Holger Bernhard Bruno Mischwitzky', 'Holger Radtke']"
+The Harrowing,genre,horror literature,What genre is The Harrowing?,['horror literature']
+Malcolm Munthe,father,Axel Munthe,Who is the father of Malcolm Munthe?,['Axel Munthe']
+Elvin Penner,occupation,politician,What is Elvin Penner's occupation?,"['politician', 'political leader', 'political figure', 'polit.', 'pol']"
+Far Out,author,Damon Knight,Who is the author of Far Out?,"['Damon Knight', 'Damon Francis Knight', 'Stuart Fleming', 'Conanight']"
+Hara,genre,public art,What genre is Hara?,['public art']
+The Valley,author,Barry Pilton,Who is the author of The Valley?,['Barry Pilton']
+Hermann Vezin,place of birth,Philadelphia,In what city was Hermann Vezin born?,"['Philadelphia', 'Philly', 'City of Brotherly Love', 'Cradle of Liberty', 'Philadelphia, Pennsylvania', 'City of Philadelphia', 'Philadelphia, PA']"
+In Public,genre,documentary film,What genre is In Public?,"['documentary film', 'documentary movie', 'doc', 'film documentary', 'motion picture documentary', 'documentary', 'factual film']"
+Fabien Farnolle,sport,association football,What sport does Fabien Farnolle play?,"['association football', 'football', 'soccer']"
+The Patriots,director,Boris Barnet,Who was the director of The Patriots?,"['Boris Barnet', 'Boris Vasilyevich Barnet']"
+Kalateh-ye Safdarabad,country,Iran,In what country is Kalateh-ye Safdarabad?,"['Iran', 'Islamic Republic of Iran', 'Persia', 'ir', 'Islamic Rep. Iran', '🇮🇷']"
+Boots,director,Elmer Clifton,Who was the director of Boots?,['Elmer Clifton']
+Visa,director,Balu Kiriyath,Who was the director of Visa?,['Balu Kiriyath']
+Point of View,genre,short story,What genre is Point of View?,"['short story', 'tale', 'pripovijetka']"
+"Gustav Adolf, Cardinal Prince of Hohenlohe-Schillingfürst",religion,Catholic Church,"What is the religion of Gustav Adolf, Cardinal Prince of Hohenlohe-Schillingfürst?","['Catholic Church', 'Roman Catholic Church', 'Church', 'Roman Apostolic Catholic Church']"
+By Design,director,Claude Jutra,Who was the director of By Design?,['Claude Jutra']
+The Pyramid,author,Ismail Kadare,Who is the author of The Pyramid?,['Ismail Kadare']
+Excited,screenwriter,Bruce Sweeney,Who was the screenwriter for Excited?,['Bruce Sweeney']
+Petru Vlah,occupation,politician,What is Petru Vlah's occupation?,"['politician', 'political leader', 'political figure', 'polit.', 'pol']"
+Prototype,screenwriter,Gary David Goldberg,Who was the screenwriter for Prototype?,"['Bill Lawrence', 'William Van Duzer Lawrence IV', 'Gary David Goldberg']"
+The Commissioner,director,George Sluizer,Who was the director of The Commissioner?,['George Sluizer']
+Going Up,composer,Louis Hirsch,Who was the composer of Going Up?,"['Louis Hirsch', 'Louis Achille Hirsch']"
+Point of View,author,Isaac Asimov,Who is the author of Point of View?,"['Isaac Asimov', 'Isaak Osimov', 'Paul French', 'Asimov', 'Isaak Ozimov']"
+August,author,Gerard Woodward,Who is the author of August?,['Gerard Woodward']
+Aloïs Boudry,place of birth,Ypres,In what city was Aloïs Boudry born?,"['Ypres', 'leper']"
+Fairview Outdoor School,country,United States of America,In what country is Fairview Outdoor School?,"['United States of America', 'the United States of America', 'America', 'U.S.A.', 'USA', 'U.S.', 'US', 'the US', 'the USA', 'US of A', 'the United States', 'U. S. A.', 'U. S.', 'the States', 'the U.S.', ""'Merica"", 'U.S', 'United States', ""'Murica""]"
+Detective,director,Carlos Schlieper,Who was the director of Detective?,['Carlos Schlieper']
+Linger,producer,Johnnie To,Who was the producer of Linger?,"['Johnnie To', 'Johnnie To Kei-fung']"
+My Past,director,Roy Del Ruth,Who was the director of My Past?,['Roy Del Ruth']
+Richard Harris,occupation,composer,What is Richard Harris's occupation?,['composer']
+Hermann Gadner,sport,cross-country skiing,What sport does Hermann Gadner play?,"['cross-country skiing', 'XC skiing']"
+Airport,producer,Anupam Sinha,Who was the producer of Airport?,"['Anubhav Sinha', 'Anupam Sinha']"
+Willem van Herp,place of birth,Antwerp,In what city was Willem van Herp born?,"['Antwerp', 'Antwerpen', 'City of Antwerp', 'Anvers']"
+Joseph Bova,place of birth,Cleveland,In what city was Joseph Bova born?,"['Cleveland', 'Cleveland, Ohio', 'Cleveland, OH']"
+McPherson Meade,sport,association football,What sport does McPherson Meade play?,"['association football', 'football', 'soccer']"
+Corruption,genre,interactive fiction,What genre is Corruption?,"['interactive fiction', 'text adventure', 'interactive book video game', 'Interactive eBooks', 'Interactive fiction']"
+Mission,genre,progressive rock,What genre is Mission?,"['progressive rock', 'prog-rock', 'prog', 'classical rock', 'symphonic rock', 'art rock', 'progressive pop', 'prog rock', 'Progressive Rock']"
+Yinka Ayenuwa,place of birth,Warri,In what city was Yinka Ayenuwa born?,['Warri']
+A Little More Love,genre,country music,What genre is A Little More Love?,"['country music', 'country and western', 'country & western', 'country', 'Nashville sound']"
+Rise,genre,J-pop,What genre is Rise?,"['J-pop', 'Japanese pop', 'jpop']"
+Tony Millington,sport,association football,What sport does Tony Millington play?,"['association football', 'football', 'soccer']"
+Kin,author,Bruce McAllister,Who is the author of Kin?,['Bruce McAllister']
+Trombone Concerto,composer,Nikolai Rimsky-Korsakov,Who was the composer of Trombone Concerto?,"['Nikolai Rimsky-Korsakov', 'Nikolai Andreyevich Rimsky-Korsakov', 'Nikolai Rimsky-Korsakoff', 'Nikolai Andreyevich Rimsky-Korsakoff', 'Rimsky-Korsakov', 'Rimsky-Korsakoff', 'N. Rimsky‐Korsakoff', 'Nikolay Rimsky-Korsakov', 'Nikolay Rimskiy-Korsakov']"
+Alone with You,genre,country music,What genre is Alone with You?,"['country music', 'country and western', 'country & western', 'country', 'Nashville sound']"
+Son of Cheep Thrills,producer,Frank Zappa,Who was the producer of Son of Cheep Thrills?,"['Frank Zappa', 'Frank Vincent Zappa']"
+Tropic Moon,author,Georges Simenon,Who is the author of Tropic Moon?,"['Georges Simenon', 'Georges Joseph Christian Simenon', 'Simenon']"
+Kyaw Swe,occupation,film director,What is Kyaw Swe's occupation?,"['film director', 'movie director', 'director', 'motion picture director', 'actor', 'actress', 'actors', 'actresses']"
+First Family,author,David Baldacci,Who is the author of First Family?,['David Baldacci']
+Ruth,country,United States of America,In what country is Ruth?,"['United States of America', 'the United States of America', 'America', 'U.S.A.', 'USA', 'U.S.', 'US', 'the US', 'the USA', 'US of A', 'the United States', 'U. S. A.', 'U. S.', 'the States', 'the U.S.', ""'Merica"", 'U.S', 'United States', ""'Murica""]"
+Shahrul Azhar Ture,sport,association football,What sport does Shahrul Azhar Ture play?,"['association football', 'football', 'soccer']"
+The Rebel,director,Aurelio Grimaldi,Who was the director of The Rebel?,['Aurelio Grimaldi']
+Empty Room,composer,Aleena Gibson,Who was the composer of Empty Room?,"['Aleena Gibson', 'Bobby Ljunggren', 'Robert Vasilis Ljunggren', 'Robert Vasilis Engdahl']"
+Johnny,genre,pop music,What genre is Johnny?,"['pop music', 'pop', 'Pop']"
+La rabbia,screenwriter,Giovannino Guareschi,Who was the screenwriter for La rabbia?,"['Pier Paolo Pasolini', 'Giovannino Guareschi', 'Giovanni Guareschi', 'Giovannino Oliviero Giuseppe Guareschi', 'Guareschi']"
+Pedro Ferreira-Mendes,sport,association football,What sport does Pedro Ferreira-Mendes play?,"['association football', 'football', 'soccer']"
+Plate,country,Germany,In what country is Plate?,"['Germany', 'FRG', 'BRD', 'Bundesrepublik Deutschland', 'Federal Republic of Germany', 'de', 'Deutschland', 'GER', 'BR Deutschland', 'DE']"
+2,producer,Netsky,Who was the producer of 2?,"['Netsky', 'Boris Daenen']"
+Come Play with Me,screenwriter,Salvatore Samperi,Who was the screenwriter for Come Play with Me?,['Salvatore Samperi']
+Alex Krieps,occupation,politician,What is Alex Krieps's occupation?,"['politician', 'political leader', 'political figure', 'polit.', 'pol']"
+Billy Lumley,sport,association football,What sport does Billy Lumley play?,"['association football', 'football', 'soccer']"
+Reach,genre,country music,What genre is Reach?,"['country music', 'country and western', 'country & western', 'country', 'Nashville sound']"
+Jack,director,Jeff Woolnough,Who was the director of Jack?,['Jeff Woolnough']
+Bahman Mirza Qajar,father,Abbas Mirza,Who is the father of Bahman Mirza Qajar?,"['Abbas Mirza', 'Abas-Mirza']"
+Marguerite de Rothschild,father,Mayer Carl von Rothschild,Who is the father of Marguerite de Rothschild?,['Mayer Carl von Rothschild']
+Free Love,director,Hobart Henley,Who was the director of Free Love?,"['Hobart Henley', 'Hobert Henley']"
+Krushari,capital of,Krushari Municipality,What is Krushari the capital of?,"['Krushari Municipality', 'Krushari Obshtina']"
+When in Rome,producer,Clarence Brown,Who was the producer of When in Rome?,"['Clarence Brown', 'Clarence Leon Brown']"
+Sayaka Ichii,occupation,actor,What is Sayaka Ichii's occupation?,"['actor', 'actress', 'actors', 'actresses']"
+Cake: A Wedding Story,producer,Will Wallace,Who was the producer of Cake: A Wedding Story?,['Will Wallace']
+The End of Time,director,Peter Mettler,Who was the director of The End of Time?,['Peter Mettler']
+Din Joe Crowley,place of birth,"Rathmore, County Kerry",In what city was Din Joe Crowley born?,"['Rathmore, County Kerry']"
+El Último perro,director,Lucas Demare,Who was the director of El Último perro?,['Lucas Demare']
+...Y mañana serán mujeres,screenwriter,Luis Alcoriza,Who was the screenwriter for ...Y mañana serán mujeres?,"['Luis Alcoriza', 'Luis Alcoriza de la Vega']"
+Mukhtar Mukhtarov,place of birth,Lankaran,In what city was Mukhtar Mukhtarov born?,['Lankaran']
+Farshad Falahatzadeh,sport,association football,What sport does Farshad Falahatzadeh play?,"['association football', 'football', 'soccer']"
+Martin's Lie,composer,Gian Carlo Menotti,Who was the composer of Martin's Lie?,['Gian Carlo Menotti']
+The End of the Day,screenwriter,Julien Duvivier,Who was the screenwriter for The End of the Day?,['Julien Duvivier']
+Punghina,country,Romania,In what country is Punghina?,"['Romania', 'Roumania', 'Rumania', 'România', 'ro', '🇷🇴']"
+Fishing,genre,public art,What genre is Fishing?,['public art']
+The Best Day,producer,Thurston Moore,Who was the producer of The Best Day?,"['Thurston Moore', 'Thurston Joseph Moore']"
+The Hero,author,Rabindranath Tagore,Who is the author of The Hero?,"['Rabindranath Tagore', 'Rabīndranātha Thākur', 'Kabiguru', 'Tagore', 'Bishwakabi', 'R. Tagore', 'Rabindranat Tagor', 'Bhanu Singha Thakur', 'Gurudev', 'Biswakabi', 'Nyi Wang Gönpo', 'Tagore, rabindranath']"
+Help Wanted,screenwriter,Elmer Blaney Harris,Who was the screenwriter for Help Wanted?,"['Elmer Blaney Harris', 'Elmer Harris', 'Elmer B. Harris']"
+Dog,director,Suzie Templeton,Who was the director of Dog?,"['Suzie Templeton', 'Suzanah Clare Templeton']"
+Grace Frankland,occupation,microbiologist,What is Grace Frankland's occupation?,['microbiologist']
+The Situation,producer,Liaquat Ahamed,Who was the producer of The Situation?,['Liaquat Ahamed']
+I Will Be There,genre,country music,What genre is I Will Be There?,"['country music', 'country and western', 'country & western', 'country', 'Nashville sound']"
+The Hole,director,Kon Ichikawa,Who was the director of The Hole?,['Kon Ichikawa']
+Through the Dark,producer,William Randolph Hearst,Who was the producer of Through the Dark?,"['William Randolph Hearst', 'w.m r. hearst', 'Wiliam R. Hearst', 'william r. hearst', 'w.r. hearst', 'wm r. hearst', 'wm. r. hearst']"
+Break Up,director,Marco Ferreri,Who was the director of Break Up?,['Marco Ferreri']
+Criminal,genre,thrash metal,What genre is Criminal?,"['thrash metal', 'trash metal', 'thrash', 'Thrash Metal', 'Best early thrash metal']"
+Louis-Arsène Lavallée,place of birth,Berthierville,In what city was Louis-Arsène Lavallée born?,['Berthierville']
+Close Friends,screenwriter,Michele Placido,Who was the screenwriter for Close Friends?,['Michele Placido']
+"Elizabeth Stewart, Countess of Crawford",mother,Euphemia de Ross,"Who is the mother of Elizabeth Stewart, Countess of Crawford?","['Euphemia de Ross', 'Euphémie de Ross', 'Euphemia of Ross', 'Euphemie de Ross']"
+A Bit of Singing and Dancing,author,Susan Hill,Who is the author of A Bit of Singing and Dancing?,"['Susan Hill', 'Dame Susan Hill']"
+Kattalai,composer,Ilaiyaraaja,Who was the composer of Kattalai?,"['Ilaiyaraaja', 'Ilayaraja', 'Ilaya Raja', 'Raja']"
+Unknown,author,Stanley Schmidt,Who is the author of Unknown?,"['Stanley Schmidt', 'Stanley Albert Schmidt']"
+Cover You,genre,J-pop,What genre is Cover You?,"['J-pop', 'Japanese pop', 'jpop']"
+99,director,Michael Curtiz,Who was the director of 99?,['Michael Curtiz']
+A New World,director,Tim Minear,Who was the director of A New World?,"['Tim Minear', 'Timothy P. Minear']"
+Delivery,genre,progressive rock,What genre is Delivery?,"['progressive rock', 'prog-rock', 'prog', 'classical rock', 'symphonic rock', 'art rock', 'progressive pop', 'prog rock', 'Progressive Rock']"
+Mohammadabad-e Razzaqzadeh,country,Iran,In what country is Mohammadabad-e Razzaqzadeh?,"['Iran', 'Islamic Republic of Iran', 'Persia', 'ir', 'Islamic Rep. Iran', '🇮🇷']"
+Gunnar Uldall,occupation,politician,What is Gunnar Uldall's occupation?,"['politician', 'political leader', 'political figure', 'polit.', 'pol']"
+The Ferocious Saladin,screenwriter,Mario Bonnard,Who was the screenwriter for The Ferocious Saladin?,['Mario Bonnard']
+Loop,screenwriter,Tim Pears,Who was the screenwriter for Loop?,['Tim Pears']
+"Robinson Crusoe, Jr.",composer,Sigmund Romberg,"Who was the composer of Robinson Crusoe, Jr.?","['Sigmund Romberg', 'Siegmund Rosenberg']"
+Louis,author,Metaphrog,Who is the author of Louis?,['Metaphrog']
+John A. Shaud,place of birth,Cleveland,In what city was John A. Shaud born?,"['Cleveland', 'Cleveland, Ohio', 'Cleveland, OH']"
+Going Away,screenwriter,Nicole Garcia,Who was the screenwriter for Going Away?,['Nicole Garcia']
+Logi Geirsson,sport,handball,What sport does Logi Geirsson play?,"['handball', 'Olympic handball', 'European team handball', 'European handball', 'Borden ball', 'Pallammanu', 'team handball']"
+Friday Night,genre,country music,What genre is Friday Night?,"['country music', 'country and western', 'country & western', 'country', 'Nashville sound']"

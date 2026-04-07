@@ -1,0 +1,455 @@
+subj,prop,obj,question,answers_list
+Thomas McMurtry,occupation,test pilot,What is Thomas McMurtry's occupation?,['test pilot']
+Wise,occupation,record producer,What is Wise's occupation?,"['record producer', 'music producer']"
+T Power,occupation,record producer,What is T Power's occupation?,"['record producer', 'music producer']"
+Philip Rosenberg,occupation,production designer,What is Philip Rosenberg's occupation?,"['production designer', 'art director', 'artistic coordinator']"
+Felicia Chateloin,occupation,architect,What is Felicia Chateloin's occupation?,['architect']
+Atsushi Kaneko,occupation,mangaka,What is Atsushi Kaneko's occupation?,"['mangaka', 'manga artist']"
+Arthur W. Rice,occupation,architect,What is Arthur W. Rice's occupation?,['architect']
+Grace Frankland,occupation,microbiologist,What is Grace Frankland's occupation?,['microbiologist']
+Duilio Forte,occupation,architect,What is Duilio Forte's occupation?,['architect']
+Richard Howland Hunt,occupation,architect,What is Richard Howland Hunt's occupation?,['architect']
+Şefik Birkiye,occupation,architect,What is Şefik Birkiye's occupation?,['architect']
+Gino Coppedè,occupation,architect,What is Gino Coppedè's occupation?,['architect']
+A. Lawrence Kocher,occupation,architect,What is A. Lawrence Kocher's occupation?,['architect']
+Jean-Marie-Victor Viel,occupation,architect,What is Jean-Marie-Victor Viel's occupation?,['architect']
+John Williams Tobey,occupation,architect,What is John Williams Tobey's occupation?,['architect']
+Danie Mellor,place of birth,Mackay,In what city was Danie Mellor born?,"['Mackay', 'Mackay, Queensland', 'Mackay, Queensland, Australia']"
+Shahrzad Sepanlou,place of birth,Tehran,In what city was Shahrzad Sepanlou born?,"['Tehran', 'Teheran']"
+Scott Fraser,place of birth,Edinburgh,In what city was Scott Fraser born?,"['Edinburgh', 'Edinburg', 'Edinburgh, Scotland', 'City of Edinburgh', 'Edina', 'Modern Athens']"
+Jacob Duck,place of birth,Utrecht,In what city was Jacob Duck born?,"['Utrecht', 'Utreg', 'Utrecht (city)']"
+Yinka Ayenuwa,place of birth,Warri,In what city was Yinka Ayenuwa born?,['Warri']
+Betty Francisco,place of birth,Little Rock,In what city was Betty Francisco born?,"['Little Rock', 'Little Rock, Arkansas', 'Little Rock, AR', 'Little Rock, Ark.', 'the Little Rock']"
+Alfred Jefferis Turner,place of birth,Guangzhou,In what city was Alfred Jefferis Turner born?,"['Guangzhou', 'Canton', 'Kwangchow', 'Kwongchow']"
+Kurt Baschwitz,place of birth,Offenburg,In what city was Kurt Baschwitz born?,"['Offenburg', 'Imperial City of Offenburg']"
+Joris Delle,place of birth,Briey,In what city was Joris Delle born?,['Briey']
+Ferdinand Elle,place of birth,Mechelen,In what city was Ferdinand Elle born?,"['Mechelen', 'Mechlin', 'Malines']"
+Clarence Beck,place of birth,Harrisburg,In what city was Clarence Beck born?,"['Harrisburg', 'Capital of Pennsylvania', 'Harrisburg, Pennsylvania']"
+Tony Shields,place of birth,Strabane,In what city was Tony Shields born?,"['Strabane', 'Straban', 'An Srath Bán', 'An Srath Ban']"
+Amoene van Haersolte,place of birth,Utrecht,In what city was Amoene van Haersolte born?,"['Utrecht', 'Utreg', 'Utrecht (city)']"
+Dave Alston,place of birth,Chicago,In what city was Dave Alston born?,"['Chicago', 'Chicago, Illinois', 'The Windy City', 'City by the Lake', 'The Queen of the West', 'Chi-Town', 'Chitown', 'The Second City', 'City of Chicago', 'City of Broad Shoulders', 'Chi-Raq', 'Chicago, IL']"
+Jim,place of birth,Arizona Territory,In what city was Jim born?,['Arizona Territory']
+Ilya Nikiforov,place of birth,Saint Petersburg,In what city was Ilya Nikiforov born?,"['Saint Petersburg', 'St. Petersburg', 'Petrograd', 'Leningrad', 'Petersburg', 'Sankt-Peterburg', 'St Petersburg']"
+Arthur Thomson,place of birth,Edinburgh,In what city was Arthur Thomson born?,"['Edinburgh', 'Edinburg', 'Edinburgh, Scotland', 'City of Edinburgh', 'Edina', 'Modern Athens']"
+Dee,place of birth,Montreal,In what city was Dee born?,"['Montreal', 'Montréal', 'City of Montreal', 'Montreal, Quebec', 'Ville de Montréal', 'Ville de Montreal']"
+Sebastian Hofmann,place of birth,Sinsheim,In what city was Sebastian Hofmann born?,['Sinsheim']
+Dale Polley,place of birth,Georgetown,In what city was Dale Polley born?,"['Georgetown', 'Georgetown, KY', 'Georgetown, Kentucky']"
+Doc Parker,place of birth,Theresa,In what city was Doc Parker born?,"['Theresa', 'Theresa, New York']"
+William Perry Hay,place of birth,Eureka,In what city was William Perry Hay born?,"['Eureka', 'Eureka, Illinois']"
+Joachim Olsen,place of birth,Aalborg,In what city was Joachim Olsen born?,"['Aalborg', 'Ålborg']"
+Baptiste Lecaplain,place of birth,Mortain,In what city was Baptiste Lecaplain born?,['Mortain']
+Bobby Ray Baldock,place of birth,Rocky,In what city was Bobby Ray Baldock born?,"['Rocky', 'Rocky, Oklahoma']"
+Maarten Biesheuvel,place of birth,Schiedam,In what city was Maarten Biesheuvel born?,['Schiedam']
+Bogdan Andone,place of birth,Aiud,In what city was Bogdan Andone born?,"['Aiud', 'Nagyenyed', 'Straßburg am Mieresch']"
+Heinrich August Jäschke,place of birth,Herrnhut,In what city was Heinrich August Jäschke born?,['Herrnhut']
+Franklin Rosemont,place of birth,Chicago,In what city was Franklin Rosemont born?,"['Chicago', 'Chicago, Illinois', 'The Windy City', 'City by the Lake', 'The Queen of the West', 'Chi-Town', 'Chitown', 'The Second City', 'City of Chicago', 'City of Broad Shoulders', 'Chi-Raq', 'Chicago, IL']"
+Julia Jones,place of birth,Droitwich Spa,In what city was Julia Jones born?,"['Droitwich Spa', 'Droitwich Spa, Worcestershire', 'Droitwich']"
+Gary Freear,place of birth,King's Lynn,In what city was Gary Freear born?,"[""King's Lynn"", 'Lynn', ""Bishop's Lynn""]"
+John O'Brien,place of birth,Toomyvara,In what city was John O'Brien born?,"['Toomyvara', 'Toomevara']"
+Ralph Campney,place of birth,Picton,In what city was Ralph Campney born?,"['Picton', 'Picton, Ontario']"
+Paul Braniff,place of birth,Portaferry,In what city was Paul Braniff born?,"['Portaferry', 'Portaferry, County Down']"
+Maurice Reymond de Broutelles,place of birth,Geneva,In what city was Maurice Reymond de Broutelles born?,"['Geneva', 'Genève', 'Geneva GE', 'Geneve', 'Genf']"
+Frederick Mackenzie,place of birth,Montreal,In what city was Frederick Mackenzie born?,"['Montreal', 'Montréal', 'City of Montreal', 'Montreal, Quebec', 'Ville de Montréal', 'Ville de Montreal']"
+Ken Irvin,place of birth,Rome,In what city was Ken Irvin born?,"['Rome', 'Rome, Georgia']"
+Serjik Teymourian,place of birth,Tehran,In what city was Serjik Teymourian born?,"['Tehran', 'Teheran']"
+Giancarlo Santi,place of birth,Rome,In what city was Giancarlo Santi born?,"['Rome', 'The Eternal City', 'Roma', 'Rome Italy']"
+Karim Ojjeh,place of birth,Geneva,In what city was Karim Ojjeh born?,"['Geneva', 'Genève', 'Geneva GE', 'Geneve', 'Genf']"
+Farman Behboud,place of birth,Tehran,In what city was Farman Behboud born?,"['Tehran', 'Teheran']"
+Domenico Bologna,place of birth,Turin,In what city was Domenico Bologna born?,"['Turin', 'Torino', 'Turin, Italy']"
+Jean Dorion,place of birth,Montreal,In what city was Jean Dorion born?,"['Montreal', 'Montréal', 'City of Montreal', 'Montreal, Quebec', 'Ville de Montréal', 'Ville de Montreal']"
+Daniel Hynes,place of birth,Chicago,In what city was Daniel Hynes born?,"['Chicago', 'Chicago, Illinois', 'The Windy City', 'City by the Lake', 'The Queen of the West', 'Chi-Town', 'Chitown', 'The Second City', 'City of Chicago', 'City of Broad Shoulders', 'Chi-Raq', 'Chicago, IL']"
+Alton Montgomery,place of birth,Griffin,In what city was Alton Montgomery born?,"['Griffin', 'Griffin, Georgia']"
+Always Will Be,genre,heavy metal,What genre is Always Will Be?,"['heavy metal', 'heavy metal music', 'Heavy Metal', 'Metal', 'Metal music', 'metal', 'Heavy Metal Music']"
+Me and My Friend,genre,sitcom,What genre is Me and My Friend?,"['sitcom', 'situational comedy', 'situation comedy']"
+Ninja Boy II,genre,action role-playing game,What genre is Ninja Boy II?,"['action role-playing game', 'action role-playing video game', 'action RPG', 'ARPG', 'action/RPG']"
+The Marriage,genre,sitcom,What genre is The Marriage?,"['sitcom', 'situational comedy', 'situation comedy']"
+Emmeline,genre,Gothic fiction,What genre is Emmeline?,"['Gothic fiction', 'Gothic novel', 'Gothic literature']"
+Never Better,genre,sitcom,What genre is Never Better?,"['sitcom', 'situational comedy', 'situation comedy']"
+Revelations,genre,soap opera,What genre is Revelations?,"['soap opera', 'soap', 'soapie', 'soapopera']"
+Voyage,genre,synth-pop,What genre is Voyage?,"['synth-pop', 'synthesizer pop', 'techno-pop', 'synthpop']"
+Magic,genre,soap opera,What genre is Magic?,"['soap opera', 'soap', 'soapie', 'soapopera']"
+Shaping Up,genre,sitcom,What genre is Shaping Up?,"['sitcom', 'situational comedy', 'situation comedy']"
+Sly,genre,heavy metal,What genre is Sly?,"['heavy metal', 'heavy metal music', 'Heavy Metal', 'Metal', 'Metal music', 'metal', 'Heavy Metal Music']"
+Cool It,genre,television comedy,What genre is Cool It?,"['television comedy', 'TV comedy', 'comedy TV', 'Telecomedia', 'comedy television']"
+Normal Life,genre,sitcom,What genre is Normal Life?,"['sitcom', 'situational comedy', 'situation comedy']"
+Chariot Race,genre,racing video game,What genre is Chariot Race?,"['racing video game', 'racing game', 'racing video games', 'racer']"
+The Court,genre,legal drama,What genre is The Court?,"['legal drama', 'courtroom drama']"
+Page,genre,synth-pop,What genre is Page?,"['synth-pop', 'synthesizer pop', 'techno-pop', 'synthpop']"
+Summer Sports: Paradise Island,genre,sports video game,What genre is Summer Sports: Paradise Island?,"['sports video game', 'sports game', 'sports video games', 'sport video game']"
+Simón Bolívar,genre,biographical film,What genre is Simón Bolívar?,"['biographical film', 'biopic', 'biography film', 'biography movie', 'biographical movie', 'biographical picture']"
+Paris,genre,sitcom,What genre is Paris?,"['sitcom', 'situational comedy', 'situation comedy']"
+Punishment,genre,soap opera,What genre is Punishment?,"['soap opera', 'soap', 'soapie', 'soapopera']"
+Chambers,genre,sitcom,What genre is Chambers?,"['sitcom', 'situational comedy', 'situation comedy']"
+Iron Man,genre,heavy metal,What genre is Iron Man?,"['heavy metal', 'heavy metal music', 'Heavy Metal', 'Metal', 'Metal music', 'metal', 'Heavy Metal Music']"
+The Sanctuary Sparrow,genre,mystery fiction,What genre is The Sanctuary Sparrow?,"['mystery fiction', 'mysteries', 'mystery', 'mystery books', 'mystery literature', 'detective and mystery fiction']"
+Severity,genre,first-person shooter,What genre is Severity?,"['first-person shooter', 'fps', 'first person shooter video games', 'first-person shooter video game', 'FPS', 'FPS game', 'FPS video game', 'first-person shooter game']"
+Neighbours,genre,synth-pop,What genre is Neighbours?,"['synth-pop', 'synthesizer pop', 'techno-pop', 'synthpop']"
+The City,genre,soap opera,What genre is The City?,"['soap opera', 'soap', 'soapie', 'soapopera']"
+Trouble,genre,synth-pop,What genre is Trouble?,"['synth-pop', 'synthesizer pop', 'techno-pop', 'synthpop']"
+Rugby League,genre,sports video game,What genre is Rugby League?,"['sports video game', 'sports game', 'sports video games', 'sport video game']"
+Skiing,genre,sports video game,What genre is Skiing?,"['sports video game', 'sports game', 'sports video games', 'sport video game']"
+Warrior,genre,fighting game,What genre is Warrior?,"['fighting game', 'fighting video games']"
+The Great Outdoors,genre,sitcom,What genre is The Great Outdoors?,"['sitcom', 'situational comedy', 'situation comedy']"
+If I Ever,genre,synth-pop,What genre is If I Ever?,"['synth-pop', 'synthesizer pop', 'techno-pop', 'synthpop']"
+Wildlife,genre,Britpop,What genre is Wildlife?,"['Britpop', 'British pop', 'Brit-pop']"
+Speak,genre,synth-pop,What genre is Speak?,"['synth-pop', 'synthesizer pop', 'techno-pop', 'synthpop']"
+Close to Home,genre,sitcom,What genre is Close to Home?,"['sitcom', 'situational comedy', 'situation comedy']"
+The Great Moment,genre,biographical film,What genre is The Great Moment?,"['biographical film', 'biopic', 'biography film', 'biography movie', 'biographical movie', 'biographical picture']"
+Don Bosco,genre,biographical film,What genre is Don Bosco?,"['biographical film', 'biopic', 'biography film', 'biography movie', 'biographical movie', 'biographical picture']"
+Strive to Survive Causing the Least Suffering Possible,genre,anarcho-punk,What genre is Strive to Survive Causing the Least Suffering Possible?,"['anarcho-punk', 'anarchist punk']"
+Radim Gaudentius,father,Slavník,Who is the father of Radim Gaudentius?,"['Slavník', 'Slavnik']"
+Mohammad Ali Khan,father,Karim Khan,Who is the father of Mohammad Ali Khan?,"['Karim Khan', 'Mohammad Karim Khan Zand']"
+Gladys Eleanor Guggenheim,father,Daniel Guggenheim,Who is the father of Gladys Eleanor Guggenheim?,['Daniel Guggenheim']
+"Mary Herbert, Countess of Pembroke",father,"Gilbert Talbot, 7th Earl of Shrewsbury","Who is the father of Mary Herbert, Countess of Pembroke?","['Gilbert Talbot, 7th Earl of Shrewsbury']"
+Skyline,father,Star Kingdom,Who is the father of Skyline?,['Star Kingdom']
+Levan Gruzinsky,father,Prince Bakar of Kartli,Who is the father of Levan Gruzinsky?,"['Prince Bakar of Kartli', 'Bakar of Georgia']"
+Frederick Jagiellon,father,Casimir IV Jagiellon,Who is the father of Frederick Jagiellon?,['Casimir IV Jagiellon']
+Match II,father,Tantieme,Who is the father of Match II?,['Tantieme']
+Caveat,father,Cannonade,Who is the father of Caveat?,['Cannonade']
+"Gaston II, Count of Foix",father,"Gaston I, Count of Foix","Who is the father of Gaston II, Count of Foix?","['Gaston I, Count of Foix']"
+Manila,father,Lyphard,Who is the father of Manila?,['Lyphard']
+"Thomas Fane, 8th Earl of Westmorland",father,Henry Fane of Brympton,"Who is the father of Thomas Fane, 8th Earl of Westmorland?","['Henry Fane of Brympton', 'Henry Fane of Bristol', 'Henry Fane']"
+Clemente Palma,father,Ricardo Palma,Who is the father of Clemente Palma?,"['Ricardo Palma', 'Manuel Ricardo Palma Soriano']"
+Aydın Menderes,father,Adnan Menderes,Who is the father of Aydın Menderes?,['Adnan Menderes']
+George,father,Andrew I of Hungary,Who is the father of George?,"['Andrew I of Hungary', 'Andrew I']"
+Ours,father,Alain Souchon,Who is the father of Ours?,"['Alain Souchon', 'Alain Kienast', 'Alain Edouard Kienast']"
+Bahman Mirza Qajar,father,Abbas Mirza,Who is the father of Bahman Mirza Qajar?,"['Abbas Mirza', 'Abas-Mirza']"
+Chapman,country,Australia,In what country is Chapman?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Mary,country,France,In what country is Mary?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Little River (Wingecarribee),country,Australia,In what country is Little River (Wingecarribee)?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Jauldes,country,France,In what country is Jauldes?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Denmark Hill Insect Bed,country,Australia,In what country is Denmark Hill Insect Bed?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Batsère,country,France,In what country is Batsère?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Gy,country,France,In what country is Gy?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Roybon,country,France,In what country is Roybon?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Hobbledehoy Record Co.,country,Australia,In what country is Hobbledehoy Record Co.?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Maubec,country,France,In what country is Maubec?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Belair National Park,country,Australia,In what country is Belair National Park?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Almedina,country,Portugal,In what country is Almedina?,"['Portugal', 'Portuguese Republic', 'PT', '🇵🇹', 'PRT']"
+La Roche-Clermault,country,France,In what country is La Roche-Clermault?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Palmer,country,Australia,In what country is Palmer?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Saint Jean Hulst,country,France,In what country is Saint Jean Hulst?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Cos,country,France,In what country is Cos?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Nalbandyan,country,Armenia,In what country is Nalbandyan?,"['Armenia', 'Republic of Armenia', '🇦🇲', 'ARM', 'AM']"
+Sutton,country,Australia,In what country is Sutton?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+canton of Baugy,country,France,In what country is canton of Baugy?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Abasin Arts Council,country,Pakistan,In what country is Abasin Arts Council?,"['Pakistan', '🇵🇰', 'pk', 'Islamic Republic of Pakistan', 'PAK']"
+Barre Denis,country,Saint Lucia,In what country is Barre Denis?,"['Saint Lucia', 'lc', 'St. Lucia', 'St Lucia', '🇱🇨', 'Iyonola', 'Hewanorra', 'St. Lucia (island)']"
+Forbes Shire,country,Australia,In what country is Forbes Shire?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Linda,country,Australia,In what country is Linda?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Neau,country,France,In what country is Neau?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+El Carmen Rivero Tórrez,country,Bolivia,In what country is El Carmen Rivero Tórrez?,"['Bolivia', 'Plurinational State of Bolivia', 'bo', 'bol', '🇧🇴', 'Republic of Bolivia', 'BOL', 'Bolivia (Plurinational State of)']"
+Contest,country,France,In what country is Contest?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+canton of Marseille-La Pomme,country,France,In what country is canton of Marseille-La Pomme?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+New England,country,Australia,In what country is New England?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Archon,country,France,In what country is Archon?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Ch'uch'u Apachita,country,Bolivia,In what country is Ch'uch'u Apachita?,"['Bolivia', 'Plurinational State of Bolivia', 'bo', 'bol', '🇧🇴', 'Republic of Bolivia', 'BOL', 'Bolivia (Plurinational State of)']"
+Givron,country,France,In what country is Givron?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Lent,country,France,In what country is Lent?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Billy,country,France,In what country is Billy?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Dual Plover,country,Australia,In what country is Dual Plover?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Le Moustoir,country,France,In what country is Le Moustoir?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Mackay Courthouse,country,Australia,In what country is Mackay Courthouse?,"['Australia', 'Commonwealth of Australia', 'AU', 'AUS', 'au', 'British Colony of Australia', '🇦🇺', 'Straya', 'Aussieland']"
+Landresse,country,France,In what country is Landresse?,"['France', 'fr', 'FR', 'République française', 'La France', 'Republic of France', 'French Republic', 'FRA', 'the Hexagon']"
+Jane,producer,Oliver Morosco,Who was the producer of Jane?,['Oliver Morosco']
+The Bait,producer,Hope Hampton,Who was the producer of The Bait?,['Hope Hampton']
+The Situation,producer,Liaquat Ahamed,Who was the producer of The Situation?,['Liaquat Ahamed']
+Since,producer,Andy Warhol,Who was the producer of Since?,"['Andy Warhol', 'Andrew Warhola', 'Andrew Warhol', 'Drella', 'Andrej Varchol', 'Andrej Warhol']"
+The Secrets,producer,Avi Nesher,Who was the producer of The Secrets?,['Avi Nesher']
+Intrigue,producer,Samuel Bischoff,Who was the producer of Intrigue?,['Samuel Bischoff']
+Let America Laugh,producer,Lance Bangs,Who was the producer of Let America Laugh?,"['Lance Bangs', 'Lance P. Bangs']"
+Inspiration,producer,Irving Thalberg,Who was the producer of Inspiration?,"['Clarence Brown', 'Clarence Leon Brown', 'Irving Thalberg', 'Irving Grant Thalberg', 'Irving G. Thalberg']"
+Submission,producer,Stefan Jarl,Who was the producer of Submission?,['Stefan Jarl']
+If I Had My Way,producer,David Butler,Who was the producer of If I Had My Way?,['David Butler']
+10 Years,producer,Armin van Buuren,Who was the producer of 10 Years?,"['Armin van Buuren', 'AvB', 'Armin Jozef Jacobus Daniël van Buuren', 'Amsterdance', 'Perpetuous Dreamer', 'AVB', 'Problem Boy', 'Rising Star', 'The Shoeshine Factory']"
+Camp,producer,Andy Warhol,Who was the producer of Camp?,"['Andy Warhol', 'Andrew Warhola', 'Andrew Warhol', 'Drella', 'Andrej Varchol', 'Andrej Warhol']"
+Jeff,producer,Alain Delon,Who was the producer of Jeff?,"['Alain Delon', 'Alain Fabien Maurice Marcel Delon']"
+21st Century,producer,Dieter Bohlen,Who was the producer of 21st Century?,"['Dieter Bohlen', 'Dieter Günter Bohlen']"
+e,producer,Adrian Belew,Who was the producer of e?,"['Adrian Belew', 'Robert Steven Belew']"
+Long Pants,producer,Harry Langdon,Who was the producer of Long Pants?,"['Harry Langdon', 'Harry Philmore Langdon']"
+Delicious,producer,David Butler,Who was the producer of Delicious?,['David Butler']
+All Because of You,producer,Butch Walker,Who was the producer of All Because of You?,['Butch Walker']
+First,producer,David Gates,Who was the producer of First?,"['David Gates', 'David Ashworth Gates']"
+Le Gang,producer,Alain Delon,Who was the producer of Le Gang?,"['Alain Delon', 'Alain Fabien Maurice Marcel Delon']"
+Toni,producer,Marcel Pagnol,Who was the producer of Toni?,"['Marcel Pagnol', 'Marcel Paul Pagnol']"
+The Boss,producer,William A. Brady,Who was the producer of The Boss?,"['William A. Brady', 'W. A. Brady', 'William Aloysius Brady']"
+An Elephant Called Slowly,producer,Bill Travers,Who was the producer of An Elephant Called Slowly?,"['Bill Travers', 'William Inglis Lindon Travers']"
+Son of Cheep Thrills,producer,Frank Zappa,Who was the producer of Son of Cheep Thrills?,"['Frank Zappa', 'Frank Vincent Zappa']"
+Night in Paradise,producer,Walter Wanger,Who was the producer of Night in Paradise?,['Walter Wanger']
+Horse,producer,Andy Warhol,Who was the producer of Horse?,"['Andy Warhol', 'Andrew Warhola', 'Andrew Warhol', 'Drella', 'Andrej Varchol', 'Andrej Warhol']"
+The Passage,producer,Stephen Dorff,Who was the producer of The Passage?,['Stephen Dorff']
+Here,producer,Adrian Belew,Who was the producer of Here?,"['Adrian Belew', 'Robert Steven Belew']"
+His Hour,producer,Elinor Glyn,Who was the producer of His Hour?,"['Elinor Glyn', 'Elinor Sutherland']"
+April,producer,Nanni Moretti,Who was the producer of April?,"['Nanni Moretti', 'Giovanni ""Nanni"" Moretti', 'Giovanni Moretti']"
+The Castle,producer,Maximilian Schell,Who was the producer of The Castle?,['Maximilian Schell']
+Don't Mess with Bill,producer,Pen Densham,Who was the producer of Don't Mess with Bill?,['Pen Densham']
+Contract,producer,Yvonne Okoro,Who was the producer of Contract?,"['Yvonne Okoro', 'Chinyere Yvonne Okoro']"
+Kitchen,producer,Andy Warhol,Who was the producer of Kitchen?,"['Andy Warhol', 'Andrew Warhola', 'Andrew Warhol', 'Drella', 'Andrej Varchol', 'Andrej Warhol']"
+The Marriage Circle,producer,Ernst Lubitsch,Who was the producer of The Marriage Circle?,['Ernst Lubitsch']
+Wedding in White,director,William Fruet,Who was the director of Wedding in White?,['William Fruet']
+The Sisters,director,Christy Cabanne,Who was the director of The Sisters?,"['Christy Cabanne', 'William Christy Cabanne']"
+In Your Hands,director,Peter Del Monte,Who was the director of In Your Hands?,['Peter Del Monte']
+Spin the Bottle,director,Joss Whedon,Who was the director of Spin the Bottle?,"['Joss Whedon', 'Joseph Hill Whedon']"
+The Dream,director,Pieter Verhoeff,Who was the director of The Dream?,['Pieter Verhoeff']
+The Bench,director,Per Fly,Who was the director of The Bench?,"['Per Fly', 'Per Fly Plejdrup']"
+Marina's Destiny,director,Viktor Ivchenko,Who was the director of Marina's Destiny?,"['Viktor Ivchenko', 'Viktor Illarionovich Ivchenko']"
+Impulse,director,Cy Endfield,Who was the director of Impulse?,"['Cy Endfield', 'Cyril Raker Endfield']"
+Suddenly,director,Diego Lerman,Who was the director of Suddenly?,['Diego Lerman']
+Victory,director,Vsevolod Pudovkin,Who was the director of Victory?,"['Mikhail Doller', 'Mikhail Ivanovich Doller', 'Vsevolod Pudovkin', 'Vsevolod Illarionovich Pudovkin', 'Wsewolod Illarionowitsch Pudowkin']"
+Sunrise,director,Raymond Longford,Who was the director of Sunrise?,"['Raymond Longford', 'John Walter Longford']"
+Thrilling,director,Ettore Scola,Who was the director of Thrilling?,"['Carlo Lizzani', 'Ettore Scola', 'Gian Luigi Polidoro']"
+The Doll,director,Ernst Lubitsch,Who was the director of The Doll?,['Ernst Lubitsch']
+Temple Tower,director,Donald Gallaher,Who was the director of Temple Tower?,['Donald Gallaher']
+Encounter,director,Suman Mukhopadhyay,Who was the director of Encounter?,['Suman Mukhopadhyay']
+Homecoming,director,Todd Holland,Who was the director of Homecoming?,['Todd Holland']
+Berlin Calling,director,Nigel Dick,Who was the director of Berlin Calling?,['Nigel Dick']
+Distant Trumpet,director,Terence Fisher,Who was the director of Distant Trumpet?,"['Terence Fisher', 'Terence Roland Fisher']"
+The Convicted,director,Rudolf Meinert,Who was the director of The Convicted?,['Rudolf Meinert']
+The Pioneers,director,Raymond Longford,Who was the director of The Pioneers?,"['Raymond Longford', 'John Walter Longford']"
+Nelson,director,Walter Summers,Who was the director of Nelson?,"['Walter Summers', 'Walter George Thomas Summers']"
+Le tue mani sul mio corpo,director,Brunello Rondi,Who was the director of Le tue mani sul mio corpo?,['Brunello Rondi']
+Rang Milanti,director,Kaushik Ganguly,Who was the director of Rang Milanti?,['Kaushik Ganguly']
+The Holes,director,Pierre Tchernia,Who was the director of The Holes?,"['Pierre Tchernia', 'Pierre Tcherniakowsky', 'Tchernia', 'Pierre Tcherniakowski']"
+Sissignore,director,Ugo Tognazzi,Who was the director of Sissignore?,['Ugo Tognazzi']
+The FJ Holden,director,Michael Thornhill,Who was the director of The FJ Holden?,['Michael Thornhill']
+The Resolve,director,Henry Otto,Who was the director of The Resolve?,['Henry Otto']
+Out,director,Lionel Rogosin,Who was the director of Out?,['Lionel Rogosin']
+Kitchen,director,Andy Warhol,Who was the director of Kitchen?,"['Andy Warhol', 'Andrew Warhola', 'Andrew Warhol', 'Drella', 'Andrej Varchol', 'Andrej Warhol']"
+Skinner's Dress Suit,director,William A. Seiter,Who was the director of Skinner's Dress Suit?,"['William A. Seiter', 'William Seiter', 'Bill Seiter']"
+Eva,director,Gustaf Molander,Who was the director of Eva?,"['Gustaf Molander', 'Harald B. Harald', 'Gustaf Harald August Molander']"
+Children Without,director,Charles Guggenheim,Who was the director of Children Without?,"['Charles Guggenheim', 'Charles Eli Guggenheim']"
+Sunday,director,Jonathan Nossiter,Who was the director of Sunday?,['Jonathan Nossiter']
+Delicious,director,David Butler,Who was the director of Delicious?,['David Butler']
+The Reader,director,Michel Deville,Who was the director of The Reader?,['Michel Deville']
+The Ancestor,director,Guido Brignone,Who was the director of The Ancestor?,['Guido Brignone']
+Hotel,director,Jessica Hausner,Who was the director of Hotel?,['Jessica Hausner']
+Abel,director,Alex van Warmerdam,Who was the director of Abel?,['Alex van Warmerdam']
+Emergency Landing,director,Arne Skouen,Who was the director of Emergency Landing?,['Arne Skouen']
+The Secrets,director,Avi Nesher,Who was the director of The Secrets?,['Avi Nesher']
+Birthday,director,Michael Grossman,Who was the director of Birthday?,['Michael Grossman']
+Since,director,Andy Warhol,Who was the director of Since?,"['Andy Warhol', 'Andrew Warhola', 'Andrew Warhol', 'Drella', 'Andrej Varchol', 'Andrej Warhol']"
+Shiva,director,Ronit Elkabetz,Who was the director of Shiva?,['Ronit Elkabetz']
+Jack,director,Jeff Woolnough,Who was the director of Jack?,['Jeff Woolnough']
+The Band,director,Avi Nesher,Who was the director of The Band?,['Avi Nesher']
+Lakshmana Rekha,director,I. V. Sasi,Who was the director of Lakshmana Rekha?,"['I. V. Sasi', 'Irruppam Veedu Sasidaran']"
+Heaven,director,Diane Keaton,Who was the director of Heaven?,"['Diane Keaton', 'Diane Hall', 'Diane Hall Keaton']"
+Le Guérisseur,director,Yves Ciampi,Who was the director of Le Guérisseur?,['Yves Ciampi']
+Premiere,director,Walter Summers,Who was the director of Premiere?,"['Walter Summers', 'Walter George Thomas Summers']"
+Camp,director,Andy Warhol,Who was the director of Camp?,"['Andy Warhol', 'Andrew Warhola', 'Andrew Warhol', 'Drella', 'Andrej Varchol', 'Andrej Warhol']"
+The Woman on the Jury,director,Harry O. Hoyt,Who was the director of The Woman on the Jury?,"['Harry O. Hoyt', 'Harry Orlando Hoyt']"
+Flight,director,Frank Capra,Who was the director of Flight?,"['Frank Capra', 'Frank Robert Capra', 'Frank Russell Capra', 'Francesco Capra', 'Francesco Rosario Capra']"
+The Kiss,director,Dell Henderson,Who was the director of The Kiss?,['Dell Henderson']
+On Tour,director,Gabriele Salvatores,Who was the director of On Tour?,['Gabriele Salvatores']
+The Hook,director,George Seaton,Who was the director of The Hook?,['George Seaton']
+Two,director,Werner Schroeter,Who was the director of Two?,['Werner Schroeter']
+Run,director,Tom Verica,Who was the director of Run?,"['Tom Verica', 'Thomas Verica']"
+Detective,director,Carlos Schlieper,Who was the director of Detective?,['Carlos Schlieper']
+Masks,director,Rudolf Meinert,Who was the director of Masks?,['Rudolf Meinert']
+Graft,director,Christy Cabanne,Who was the director of Graft?,"['Christy Cabanne', 'William Christy Cabanne']"
+Asthamayam,director,P. Chandrakumar,Who was the director of Asthamayam?,['P. Chandrakumar']
+Mates,director,Pieter Verhoeff,Who was the director of Mates?,['Pieter Verhoeff']
+Dark Descent,director,Daniel Knauf,Who was the director of Dark Descent?,"['Daniel Knauf', 'Wilfred Schmidt', 'Chris Neal']"
+Per amare Ofelia,director,Flavio Mogherini,Who was the director of Per amare Ofelia?,['Flavio Mogherini']
+The Red Squirrel,director,Julio Médem,Who was the director of The Red Squirrel?,"['Julio Médem', 'Julio Medem']"
+A Lover's Return,director,Christian-Jaque,Who was the director of A Lover's Return?,"['Christian-Jaque', 'Christian Maudet']"
+Submission,director,Stefan Jarl,Who was the director of Submission?,['Stefan Jarl']
+Together Again,director,Charles Vidor,Who was the director of Together Again?,"['Charles Vidor', 'Károly Vidor']"
+Howard,capital of,Miner County,What is Howard the capital of?,"['Miner County', 'Miner County, South Dakota']"
+Pavlovsky Posad,capital of,Pavlovo-Posadsky District,What is Pavlovsky Posad the capital of?,['Pavlovo-Posadsky District']
+Urban Feel,screenwriter,Jonathan Sagall,Who was the screenwriter for Urban Feel?,['Jonathan Sagall']
+Familia,screenwriter,Louise Archambault,Who was the screenwriter for Familia?,['Louise Archambault']
+Boomerang,screenwriter,Alain Delon,Who was the screenwriter for Boomerang?,"['Alain Delon', 'Alain Fabien Maurice Marcel Delon']"
+Two,screenwriter,Werner Schroeter,Who was the screenwriter for Two?,['Werner Schroeter']
+The Calamari Wrestler,screenwriter,Minoru Kawasaki,Who was the screenwriter for The Calamari Wrestler?,"['Minoru Kawasaki', 'Kawasaki Minoru', 'Yūichi Nangō', 'Nangō Yūichi', 'Yuichi Nango', 'Nango Yuichi']"
+The Fake,screenwriter,Frederick Lonsdale,Who was the screenwriter for The Fake?,['Frederick Lonsdale']
+Care,screenwriter,Chris Chibnall,Who was the screenwriter for Care?,"['Chris Chibnall', 'Christopher Antony Chibnall']"
+The Moving True Story of a Woman Ahead of Her Time,screenwriter,Pieter Verhoeff,Who was the screenwriter for The Moving True Story of a Woman Ahead of Her Time?,['Pieter Verhoeff']
+Athirathan,screenwriter,Pradeep Kumar,Who was the screenwriter for Athirathan?,['Pradeep Kumar']
+Sumurun,screenwriter,Ernst Lubitsch,Who was the screenwriter for Sumurun?,['Ernst Lubitsch']
+Sunday,screenwriter,Jonathan Nossiter,Who was the screenwriter for Sunday?,['Jonathan Nossiter']
+Woman Without a Face,screenwriter,Gustaf Molander,Who was the screenwriter for Woman Without a Face?,"['Gustaf Molander', 'Harald B. Harald', 'Gustaf Harald August Molander', 'Ingmar Bergman', 'Ernst Ingmar Bergman']"
+On Tour,screenwriter,Gabriele Salvatores,Who was the screenwriter for On Tour?,['Gabriele Salvatores']
+Un'altra vita,screenwriter,Carlo Mazzacurati,Who was the screenwriter for Un'altra vita?,['Carlo Mazzacurati']
+Salvation,screenwriter,Paul Cox,Who was the screenwriter for Salvation?,"['Paul Cox', 'Paulus Henriqus Benedictus Cox', 'Paulus Henrique Benedictus Cox']"
+The Castle,screenwriter,Maximilian Schell,Who was the screenwriter for The Castle?,['Maximilian Schell']
+Belonging,screenwriter,Jed Whedon,Who was the screenwriter for Belonging?,"['Jed Whedon', 'Jed Tucker Whedon', 'Maurissa Tancharoen', 'Maurissa Tancharoen Whedon']"
+White Gold,screenwriter,John Jopson,Who was the screenwriter for White Gold?,"['John Jopson', 'John Charles Jopson']"
+Dreszcze,screenwriter,Wojciech Marczewski,Who was the screenwriter for Dreszcze?,['Wojciech Marczewski']
+Mensonges et trahisons et plus si affinités...,screenwriter,Laurent Tirard,Who was the screenwriter for Mensonges et trahisons et plus si affinités...?,['Laurent Tirard']
+Harvest,screenwriter,Marcel Pagnol,Who was the screenwriter for Harvest?,"['Marcel Pagnol', 'Marcel Paul Pagnol']"
+Pilot,screenwriter,Kevin Falls,Who was the screenwriter for Pilot?,['Kevin Falls']
+The Great Moment,screenwriter,Preston Sturges,Who was the screenwriter for The Great Moment?,"['Preston Sturges', 'Edmund Preston Biden']"
+Prototype,screenwriter,Gary David Goldberg,Who was the screenwriter for Prototype?,"['Bill Lawrence', 'William Van Duzer Lawrence IV', 'Gary David Goldberg']"
+Excited,screenwriter,Bruce Sweeney,Who was the screenwriter for Excited?,['Bruce Sweeney']
+Ma Hogan's New Boarder,screenwriter,Raymond Longford,Who was the screenwriter for Ma Hogan's New Boarder?,"['Raymond Longford', 'John Walter Longford']"
+Watch Out,screenwriter,Steve Balderson,Who was the screenwriter for Watch Out?,"['Steve Balderson', 'Stephen Clark Balderson']"
+The Bench,screenwriter,Per Fly,Who was the screenwriter for The Bench?,"['Per Fly', 'Per Fly Plejdrup']"
+The Dress,screenwriter,Alex van Warmerdam,Who was the screenwriter for The Dress?,['Alex van Warmerdam']
+Heaven,screenwriter,Diane Keaton,Who was the screenwriter for Heaven?,"['Diane Keaton', 'Diane Hall', 'Diane Hall Keaton']"
+The Holes,screenwriter,Pierre Tchernia,Who was the screenwriter for The Holes?,"['Pierre Tchernia', 'Pierre Tcherniakowsky', 'Tchernia', 'Pierre Tcherniakowski']"
+Hard to Get,screenwriter,Jerry Wald,Who was the screenwriter for Hard to Get?,"['Jerry Wald', 'Jerome Irving Wald']"
+The Dinner,screenwriter,Ettore Scola,Who was the screenwriter for The Dinner?,['Ettore Scola']
+Gente di Roma,screenwriter,Ettore Scola,Who was the screenwriter for Gente di Roma?,['Ettore Scola']
+Loop,screenwriter,Tim Pears,Who was the screenwriter for Loop?,['Tim Pears']
+Earth,screenwriter,Julio Médem,Who was the screenwriter for Earth?,"['Julio Médem', 'Julio Medem']"
+Cages,screenwriter,Graham Streeter,Who was the screenwriter for Cages?,['Graham Streeter']
+Brake Fail,screenwriter,Kaushik Ganguly,Who was the screenwriter for Brake Fail?,['Kaushik Ganguly']
+Tahmina,screenwriter,Anar Rzayev,Who was the screenwriter for Tahmina?,"['Anar Rzayev', 'Anar', 'Anar Rasul oghlu Rzayev']"
+Daughter,screenwriter,Koo Hye-sun,Who was the screenwriter for Daughter?,"['Koo Hye-sun', 'Goo Hye-sun', 'Ku Hye-sun', 'Ku Hye-seon', 'Koo Hye-sun', 'Goo Hye-seon', 'Gu hye- seon']"
+In Your Hands,screenwriter,Peter Del Monte,Who was the screenwriter for In Your Hands?,['Peter Del Monte']
+Superfantozzi,screenwriter,Paolo Villaggio,Who was the screenwriter for Superfantozzi?,['Paolo Villaggio']
+The Ox,screenwriter,Sven Nykvist,Who was the screenwriter for The Ox?,"['Sven Nykvist', 'Sven Vilhem Nykvist']"
+Island,screenwriter,Paul Cox,Who was the screenwriter for Island?,"['Paul Cox', 'Paulus Henriqus Benedictus Cox', 'Paulus Henrique Benedictus Cox']"
+The Booth,screenwriter,Yoshihiro Nakamura,Who was the screenwriter for The Booth?,['Yoshihiro Nakamura']
+The Secret Call,screenwriter,Arthur Kober,Who was the screenwriter for The Secret Call?,['Arthur Kober']
+First Love,screenwriter,Maximilian Schell,Who was the screenwriter for First Love?,['Maximilian Schell']
+That Certain Thing,screenwriter,Frank Capra,Who was the screenwriter for That Certain Thing?,"['Frank Capra', 'Frank Robert Capra', 'Frank Russell Capra', 'Francesco Capra', 'Francesco Rosario Capra']"
+April,screenwriter,Nanni Moretti,Who was the screenwriter for April?,"['Nanni Moretti', 'Giovanni ""Nanni"" Moretti', 'Giovanni Moretti']"
+Made for Each Other,screenwriter,Joseph Bologna,Who was the screenwriter for Made for Each Other?,['Joseph Bologna']
+Since,screenwriter,Andy Warhol,Who was the screenwriter for Since?,"['Andy Warhol', 'Andrew Warhola', 'Andrew Warhol', 'Drella', 'Andrej Varchol', 'Andrej Warhol']"
+Thrilling,screenwriter,Ettore Scola,Who was the screenwriter for Thrilling?,['Ettore Scola']
+The Northerners,screenwriter,Alex van Warmerdam,Who was the screenwriter for The Northerners?,['Alex van Warmerdam']
+Hotel,screenwriter,Jessica Hausner,Who was the screenwriter for Hotel?,['Jessica Hausner']
+Kärleken är,composer,Ingela Forsman,Who was the composer of Kärleken är?,"['Ingela Forsman', 'Ingela Birgitta Forsman', 'Pling', 'Bobby Ljunggren', 'Robert Vasilis Ljunggren', 'Robert Vasilis Engdahl']"
+Theater,composer,Ralph Siegel,Who was the composer of Theater?,"['Ralph Siegel', 'Ralph Siegel Jr.']"
+La permission de dix heures,composer,Jacques Offenbach,Who was the composer of La permission de dix heures?,"['Jacques Offenbach', 'Offenbach']"
+The Light,composer,Philip Glass,Who was the composer of The Light?,"['Philip Glass', 'Philip Morris Glass']"
+Piano Concerto,composer,Tan Dun,Who was the composer of Piano Concerto?,"['Tan Dun', 'Dun Tan']"
+Gisela!,composer,Hans Werner Henze,Who was the composer of Gisela!?,['Hans Werner Henze']
+To the Sky,composer,Darko Dimitrov,Who was the composer of To the Sky?,['Darko Dimitrov']
+Alone,composer,Evan Brewer,Who was the composer of Alone?,['Evan Brewer']
+Nelson,composer,Lennox Berkeley,Who was the composer of Nelson?,"['Lennox Berkeley', 'Lennox Randal Francis Berkeley', 'Sir Lennox Berkeley', 'Sir Lennox Randal Francis Berkeley']"
+Pocket,composer,Ai Otsuka,Who was the composer of Pocket?,"['Ai Otsuka', 'Ai Otuka', 'AIO', 'aio']"
+Love Story,composer,Howard Goodall,Who was the composer of Love Story?,"['Howard Goodall', 'Howard Lindsay Goodall']"
+Spring,composer,Sergei Rachmaninoff,Who was the composer of Spring?,"['Sergei Rachmaninoff', 'Sergei Vasilievich Rachmaninoff', 'Rachmaninoff', 'Rach', 'Sergei Vasilyevich Rachmaninoff']"
+All Because of You,composer,Butch Walker,Who was the composer of All Because of You?,"['Avril Lavigne', 'Avril Ramona Lavigne', 'Butch Walker']"
+The Rock,composer,Sergei Rachmaninoff,Who was the composer of The Rock?,"['Sergei Rachmaninoff', 'Sergei Vasilievich Rachmaninoff', 'Rachmaninoff', 'Rach', 'Sergei Vasilyevich Rachmaninoff']"
+Russian Rhapsody,composer,Sergei Rachmaninoff,Who was the composer of Russian Rhapsody?,"['Sergei Rachmaninoff', 'Sergei Vasilievich Rachmaninoff', 'Rachmaninoff', 'Rach', 'Sergei Vasilyevich Rachmaninoff']"
+Without You,composer,Lamont Dozier,Who was the composer of Without You?,"['Lamont Dozier', 'Lamont Herbert Dozier']"
+The Body,composer,Ron Geesin,Who was the composer of The Body?,['Ron Geesin']
+Symphony No. 8,composer,Einojuhani Rautavaara,Who was the composer of Symphony No. 8?,"['Einojuhani Rautavaara', 'Eino Juhani Rautavaara', 'Eino-Juhani Rautavaara']"
+Discipline,composer,Adrian Belew,Who was the composer of Discipline?,"['Adrian Belew', 'Robert Steven Belew']"
+Survivor,composer,Iain James,Who was the composer of Survivor?,"['Adam Powers', 'Adam Hersland Powers', 'Iain James']"
+La Silvia,composer,Antonio Vivaldi,Who was the composer of La Silvia?,"['Antonio Vivaldi', 'Prete rosso', 'Antonio Vivarudi', 'Antonio Luciano Vivaldi', 'Vivaldi', 'Antonio Lucio Vivaldi', 'A. Vivaldis']"
+Big Foot,composer,Charlie Parker,Who was the composer of Big Foot?,"['Charlie Parker', 'Yardbird', 'Bird', 'Charles Parker Jr.', 'Charlie Parker Jr.', 'Charles Christopher Parker, Jr.']"
+Home,composer,will.i.am,Who was the composer of Home?,"['will.i.am', 'William James Adams Jr.', 'Zuper Blahq', 'illwilly', 'Will 1X', 'William Adams']"
+David Mills,religion,atheism,What is the religion of David Mills?,"['atheism', 'unbelief']"
+Lenni Brenner,religion,atheism,What is the religion of Lenni Brenner?,"['atheism', 'unbelief']"
+Ruth Hurmence Green,religion,atheism,What is the religion of Ruth Hurmence Green?,"['atheism', 'unbelief']"
+Mark Lindley,religion,atheism,What is the religion of Mark Lindley?,"['atheism', 'unbelief']"
+Armand Raymond,sport,ice hockey,What sport does Armand Raymond play?,['ice hockey']
+Indrek Pertelson,sport,judo,What sport does Indrek Pertelson play?,['judo']
+Sol Ky-Ong,sport,judo,What sport does Sol Ky-Ong play?,['judo']
+Luis Rivera,sport,artistic gymnastics,What sport does Luis Rivera play?,"['artistic gymnastics', 'qymnastics sports']"
+Valeri Zelepukin,sport,ice hockey,What sport does Valeri Zelepukin play?,['ice hockey']
+Eisstadion am Pulverturm,sport,ice hockey,What sport does Eisstadion am Pulverturm play?,['ice hockey']
+Gord Gallant,sport,ice hockey,What sport does Gord Gallant play?,['ice hockey']
+HK Vojvodina,sport,ice hockey,What sport does HK Vojvodina play?,['ice hockey']
+Logi Geirsson,sport,handball,What sport does Logi Geirsson play?,"['handball', 'Olympic handball', 'European team handball', 'European handball', 'Borden ball', 'Pallammanu', 'team handball']"
+2001–02 Division 1 season,sport,ice hockey,What sport does 2001–02 Division 1 season play?,['ice hockey']
+Gus Bodnar,sport,ice hockey,What sport does Gus Bodnar play?,['ice hockey']
+João Schlittler,sport,judo,What sport does João Schlittler play?,['judo']
+Adam Bennett,sport,ice hockey,What sport does Adam Bennett play?,['ice hockey']
+Jim Walsh,sport,ice hockey,What sport does Jim Walsh play?,['ice hockey']
+Bill Wilkinson,sport,ice hockey,What sport does Bill Wilkinson play?,['ice hockey']
+Noel van Klaveren,sport,artistic gymnastics,What sport does Noel van Klaveren play?,"['artistic gymnastics', 'qymnastics sports']"
+Alexei Ugarov,sport,ice hockey,What sport does Alexei Ugarov play?,['ice hockey']
+Tim Jackman,sport,ice hockey,What sport does Tim Jackman play?,['ice hockey']
+Bryan Schmidt,sport,ice hockey,What sport does Bryan Schmidt play?,['ice hockey']
+Livia Altmann,sport,ice hockey,What sport does Livia Altmann play?,['ice hockey']
+Adel Bousmal,sport,handball,What sport does Adel Bousmal play?,"['handball', 'Olympic handball', 'European team handball', 'European handball', 'Borden ball', 'Pallammanu', 'team handball']"
+Rick Ley,sport,ice hockey,What sport does Rick Ley play?,['ice hockey']
+Njurunda SK,sport,ice hockey,What sport does Njurunda SK play?,['ice hockey']
+Cam Brown,sport,ice hockey,What sport does Cam Brown play?,['ice hockey']
+Ernest Savard,sport,ice hockey,What sport does Ernest Savard play?,['ice hockey']
+Jeannot Gilbert,sport,ice hockey,What sport does Jeannot Gilbert play?,['ice hockey']
+Petr Bříza,sport,ice hockey,What sport does Petr Bříza play?,['ice hockey']
+André Racicot,sport,ice hockey,What sport does André Racicot play?,['ice hockey']
+Daniel Manzato,sport,ice hockey,What sport does Daniel Manzato play?,['ice hockey']
+Joe Bretto,sport,ice hockey,What sport does Joe Bretto play?,['ice hockey']
+Kevin Colley,sport,ice hockey,What sport does Kevin Colley play?,['ice hockey']
+Waltteri Immonen,sport,ice hockey,What sport does Waltteri Immonen play?,['ice hockey']
+Dimitri Pätzold,sport,ice hockey,What sport does Dimitri Pätzold play?,['ice hockey']
+Jukka Tammi,sport,ice hockey,What sport does Jukka Tammi play?,['ice hockey']
+Nerve,author,Dick Francis,Who is the author of Nerve?,['Dick Francis']
+Saints of Big Harbour,author,Lynn Coady,Who is the author of Saints of Big Harbour?,['Lynn Coady']
+Silver,author,Andrew Motion,Who is the author of Silver?,"['Andrew Motion', 'Sir Andrew Motion']"
+How It Happened,author,Arthur Conan Doyle,Who is the author of How It Happened?,"['Arthur Conan Doyle', 'Sir Arthur Ignatius Conan Doyle', 'Arthur Ignatius Conan Doyle', 'Sir A. Conan Doyle', 'Arthur Conan, Sir Doyle', 'Sir Arthur Conan Doyle']"
+What Happened,author,Scott McClellan,Who is the author of What Happened?,['Scott McClellan']
+Higher Education,author,Charles Sheffield,Who is the author of Higher Education?,"['Jerry Pournelle', 'Jerry Eugene Pournelle', 'Charles Sheffield', 'Charles A. Sheffield', 'James Kirkwood']"
+Stay,author,Nicola Griffith,Who is the author of Stay?,['Nicola Griffith']
+The Prodigal Son,author,Peter Wessel Zapffe,Who is the author of The Prodigal Son?,['Peter Wessel Zapffe']
+Carnival of Souls,author,Melissa Marr,Who is the author of Carnival of Souls?,"['Melissa Marr', 'M. A. Marr', 'Melissa A Marr']"
+Three Weeks,author,Elinor Glyn,Who is the author of Three Weeks?,"['Elinor Glyn', 'Elinor Sutherland']"
+B Is for Beer,author,Tom Robbins,Who is the author of B Is for Beer?,"['Tom Robbins', 'Thomas Eugene Robbins']"
+Shooting Sean,author,Colin Bateman,Who is the author of Shooting Sean?,"['Colin Bateman', 'Bateman']"
+Dave at Night,author,Gail Carson Levine,Who is the author of Dave at Night?,['Gail Carson Levine']
+54,author,Wu Ming,Who is the author of 54?,"['Wu Ming', 'Wu Ming Foundation']"
+What Remains,author,Christa Wolf,Who is the author of What Remains?,['Christa Wolf']
+The Amazon,author,Nikolai Leskov,Who is the author of The Amazon?,"['Nikolai Leskov', 'M. Stebnitsky', 'Nikolai Semyonovich Leskov']"
+Positions,author,Jacques Derrida,Who is the author of Positions?,"['Jacques Derrida', 'Jackie Derrida', 'Jackie Elie Derrida', 'Jackie Élie Derrida', 'J. Derrida']"
+Stations,author,Seamus Heaney,Who is the author of Stations?,"['Seamus Heaney', 'Seamus Justin Heaney', 'Seamus Heaney']"
+Stiff,author,Shane Maloney,Who is the author of Stiff?,['Shane Maloney']
+Recursion,author,Tony Ballantyne,Who is the author of Recursion?,['Tony Ballantyne']
+This Is It,author,Joseph Connolly,Who is the author of This Is It?,['Joseph Connolly']
+Shadow,author,Dean Wesley Smith,Who is the author of Shadow?,"['Dean Wesley Smith', 'Kristine Kathryn Rusch']"
+Chicago,author,Yumi Tamura,Who is the author of Chicago?,"['Yumi Tamura', 'Tamura Yumi']"
+Murphy's Law,author,Colin Bateman,Who is the author of Murphy's Law?,"['Colin Bateman', 'Bateman']"
+Millennial Rites,author,Craig Hinton,Who is the author of Millennial Rites?,"['Craig Hinton', 'Craig Paul Alexander Hinton']"
+Shame,author,Karin Alvtegen,Who is the author of Shame?,['Karin Alvtegen']
+Villa Amalia,author,Pascal Quignard,Who is the author of Villa Amalia?,['Pascal Quignard']
+Warrior,author,Jennifer Fallon,Who is the author of Warrior?,['Jennifer Fallon']
+The Man,author,Bram Stoker,Who is the author of The Man?,"['Bram Stoker', 'Abraham Stoker']"
+Sticks,author,Karl Edward Wagner,Who is the author of Sticks?,['Karl Edward Wagner']
+Time After Time,author,Allen Appel,Who is the author of Time After Time?,['Allen Appel']
+Death in Five Boxes,author,John Dickson Carr,Who is the author of Death in Five Boxes?,"['John Dickson Carr', 'John Carr']"
+Legacy,author,Lois McMaster Bujold,Who is the author of Legacy?,['Lois McMaster Bujold']
+The Ram,author,"Marie-Catherine Le Jumel de Barneville, baroness d'Aulnoy",Who is the author of The Ram?,"[""Marie-Catherine Le Jumel de Barneville, baroness d'Aulnoy"", 'La Mothe, Marie-Catherine,', ""Madame d' Aulnoy"", ""Marie-Catherine de La Mothe d' Aulnoy"", ""Countess d'Aulnoy""]"
+Clash,author,Ellen Wilkinson,Who is the author of Clash?,"['Ellen Wilkinson', 'Ellen Cicely Wilkinson']"
+Politics,author,William Butler Yeats,Who is the author of Politics?,"['William Butler Yeats', 'W. B. Yeats', 'William Yeats', 'W.B. Yeats']"
+Business is business,author,Octave Mirbeau,Who is the author of Business is business?,"['Octave Mirbeau', 'Mirbeau', 'Octave Henri Marie Mirbeau']"
+The Empire,author,D. C. Moore,Who is the author of The Empire?,['D. C. Moore']
+Les Vingt et un Jours d'un neurasthénique,author,Octave Mirbeau,Who is the author of Les Vingt et un Jours d'un neurasthénique?,"['Octave Mirbeau', 'Mirbeau', 'Octave Henri Marie Mirbeau']"
+The Culture of Collaboration,author,Evan Rosen,Who is the author of The Culture of Collaboration?,['Evan Rosen']
+The Valley,author,Barry Pilton,Who is the author of The Valley?,['Barry Pilton']
+Titanic 2020,author,Colin Bateman,Who is the author of Titanic 2020?,"['Colin Bateman', 'Bateman']"
+Coming Home,author,Jack McDevitt,Who is the author of Coming Home?,['Jack McDevitt']
+Asleep,author,Banana Yoshimoto,Who is the author of Asleep?,"['Banana Yoshimoto', 'Yoshimoto Banana']"
+Long Live the King,author,The Decemberists,Who is the author of Long Live the King?,['The Decemberists']
+Kin,author,Bruce McAllister,Who is the author of Kin?,['Bruce McAllister']
+Unknown,author,Stanley Schmidt,Who is the author of Unknown?,"['Stanley Schmidt', 'Stanley Albert Schmidt']"
+Home,author,Octave Mirbeau,Who is the author of Home?,"['Octave Mirbeau', 'Mirbeau', 'Octave Henri Marie Mirbeau']"
+Still Time,author,Sally Mann,Who is the author of Still Time?,['Sally Mann']
+And So to Murder,author,John Dickson Carr,Who is the author of And So to Murder?,"['John Dickson Carr', 'John Carr']"
+Rose,author,Tomson Highway,Who is the author of Rose?,['Tomson Highway']
+The Other Place,author,Sharr White,Who is the author of The Other Place?,['Sharr White']
+Jack,author,John Farnham,Who is the author of Jack?,"['John Farnham', 'John Peter Farnham']"
+Competitors,author,Sergey Lukyanenko,Who is the author of Competitors?,"['Sergey Lukyanenko', 'Sergei Vasilievich Lukyanenko']"
+Trauma,author,Patrick McGrath,Who is the author of Trauma?,"['Patrick McGrath', 'Patrick J. McGrath']"
+What Remains,author,Sally Mann,Who is the author of What Remains?,['Sally Mann']
+Searching for Dragons,author,Patricia Wrede,Who is the author of Searching for Dragons?,"['Patricia Wrede', 'Patricia C. Wrede', 'Patricia Collins Wrede']"
+Missing,author,Karin Alvtegen,Who is the author of Missing?,['Karin Alvtegen']
+Let's Take the Long Way Home,author,Gail Caldwell,Who is the author of Let's Take the Long Way Home?,['Gail Caldwell']
+Ahead of Time,author,Henry Kuttner,Who is the author of Ahead of Time?,"['Henry Kuttner', 'Smith, Woodrow Wilson']"
+Wolf,author,Gillian Cross,Who is the author of Wolf?,['Gillian Cross']
+The Every Boy,author,Dana Adam Shapiro,Who is the author of The Every Boy?,['Dana Adam Shapiro']
+Pearl,author,John Arden,Who is the author of Pearl?,['John Arden']
+Vast,author,Linda Nagata,Who is the author of Vast?,"['Linda Nagata', 'Linda Webb Nagata', 'Trey Shiels']"
+Down,author,Lawrence Miles,Who is the author of Down?,['Lawrence Miles']
+Holiday,author,Philip Barry,Who is the author of Holiday?,['Philip Barry']
+The Game,author,Harold Brighouse,Who is the author of The Game?,['Harold Brighouse']
+A Sight for Sore Eyes,author,Ruth Rendell,Who is the author of A Sight for Sore Eyes?,"['Ruth Rendell', 'Ruth Grasemann', 'Barbara Vine', 'Baroness Rendell of Babergh', 'Ruth Barbara Grasemann', 'Ruth Barbara Rendell']"
+Visst katten har djuren själ!,author,Margit Sandemo,Who is the author of Visst katten har djuren själ!?,['Margit Sandemo']
+Incoming,author,Andrew Motion,Who is the author of Incoming?,"['Andrew Motion', 'Sir Andrew Motion']"
+Passage,author,Lois McMaster Bujold,Who is the author of Passage?,['Lois McMaster Bujold']
+Non,author,Nozomi Sasaki,Who is the author of Non?,['Nozomi Sasaki']
+Witt,author,Patti Smith,Who is the author of Witt?,"['Patti Smith', 'Patricia Lee Smith']"
+Experience,author,Ralph Waldo Emerson,Who is the author of Experience?,"['Ralph Waldo Emerson', 'R. W. Emerson', 'Waldo Emerson']"
+Luminous,author,Greg Egan,Who is the author of Luminous?,"['Greg Egan', 'Gregory Mark Egan']"
+"Elizabeth Stewart, Countess of Crawford",mother,Euphemia de Ross,"Who is the mother of Elizabeth Stewart, Countess of Crawford?","['Euphemia de Ross', 'Euphémie de Ross', 'Euphemia of Ross', 'Euphemie de Ross']"
+Afonso of Portugal,mother,Violante Manuel,Who is the mother of Afonso of Portugal?,['Violante Manuel']
+Ugocsa County,capital,Vynohradiv,What is the capital of Ugocsa County?,"['Vynohradiv', 'Selish', 'Seylesh', 'Vinogradov', 'Syvlyush', 'Seleuşu Mare', 'Nagyszőlős', 'Großweinstadt', 'Sevliush', 'Sevluš']"
+Pô,capital,Turin,What is the capital of Pô?,"['Turin', 'Torino', 'Turin, Italy']"
+Kambarsky District,capital,Kambarka,What is the capital of Kambarsky District?,['Kambarka']
+Tarussky District,capital,Tarusa,What is the capital of Tarussky District?,['Tarusa']
+Neuburg-Schrobenhausen,capital,Neuburg an der Donau,What is the capital of Neuburg-Schrobenhausen?,"['Neuburg an der Donau', 'Neuburg/Donau', 'Neuburg a.d.Donau']"

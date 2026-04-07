@@ -1,0 +1,457 @@
+category,word,question,generated,expected
+occupation,test pilot,What is Thomas McMurtry's occupation?,mountain bike manufacturer,test pilot
+occupation,record producer,What is Wise's occupation?,film director,record producer
+occupation,record producer,What is T Power's occupation?,film director,record producer
+occupation,production designer,What is Philip Rosenberg's occupation?,graphic designer,production designer
+occupation,architect,What is Felicia Chateloin's occupation?,Fekla Choulost,architect
+occupation,mangaka,What is Atsushi Kaneko's occupation?,Dokyo Ono,mangaka
+occupation,architect,What is Arthur W. Rice's occupation?,Fyodor Dostoevsky,architect
+occupation,microbiologist,What is Grace Frankland's occupation?,biologist,microbiologist
+occupation,architect,What is Duilio Forte's occupation?,Fokion Kokkinaki,architect
+occupation,architect,What is Richard Howland Hunt's occupation?,Fyodor Dostoevsky,architect
+occupation,architect,What is Şefik Birkiye's occupation?,"Fikriye Edige Kınaliovna Birkiye, known as Şefik Birkiye, is a Turkish sociologist.",architect
+occupation,architect,What is Gino Coppedè's occupation?,Fyodor Dostoevsky,architect
+occupation,architect,What is A. Lawrence Kocher's occupation?,Fyodor Dostoevsky,architect
+occupation,architect,What is Jean-Marie-Victor Viel's occupation?,Fyodor Dostoevsky,architect
+occupation,architect,What is John Williams Tobey's occupation?,Fyodor Dostoevsky,architect
+place of birth,Mackay,In what city was Danie Mellor born?,Mackay,Mackay
+place of birth,Tehran,In what city was Shahrzad Sepanlou born?,Tirgan,Tehran
+place of birth,Edinburgh,In what city was Scott Fraser born?,Edwin Scott Fraser,Edinburgh
+place of birth,Utrecht,In what city was Jacob Duck born?,Utrecht,Utrecht
+place of birth,Warri,In what city was Yinka Ayenuwa born?,Warren,Warri
+place of birth,Little Rock,In what city was Betty Francisco born?,Littleton,Little Rock
+place of birth,Guangzhou,In what city was Alfred Jefferis Turner born?,Guadalupe,Guangzhou
+place of birth,Offenburg,In what city was Kurt Baschwitz born?,Samuel Klein,Offenburg
+place of birth,Briey,In what city was Joris Delle born?,Uzeyir Hajibeyov,Briey
+place of birth,Mechelen,In what city was Ferdinand Elle born?,Mechthildis Lichnowsky,Mechelen
+place of birth,Harrisburg,In what city was Clarence Beck born?,Hattiesburg,Harrisburg
+place of birth,Strabane,In what city was Tony Shields born?,Babes-Bolyai University,Strabane
+place of birth,Utrecht,In what city was Amoene van Haersolte born?,Utrecht,Utrecht
+place of birth,Chicago,In what city was Dave Alston born?,Chicago,Chicago
+place of birth,Arizona Territory,In what city was Jim born?,Texas,Arizona Territory
+place of birth,Saint Petersburg,In what city was Ilya Nikiforov born?,Saint Philip of Moscow,Saint Petersburg
+place of birth,Edinburgh,In what city was Arthur Thomson born?,Edwin Emery Edgar Thomson,Edinburgh
+place of birth,Montreal,In what city was Dee born?,Montgomery,Montreal
+place of birth,Sinsheim,In what city was Sebastian Hofmann born?,Suso Sánchez,Sinsheim
+place of birth,Georgetown,In what city was Dale Polley born?,Georgyopolis,Georgetown
+place of birth,Theresa,In what city was Doc Parker born?,Thelma Lou's boyfriend,Theresa
+place of birth,Eureka,In what city was William Perry Hay born?,Eugene,Eureka
+place of birth,Aalborg,In what city was Joachim Olsen born?,Aarhus,Aalborg
+place of birth,Mortain,In what city was Baptiste Lecaplain born?,Maurice,Mortain
+place of birth,Rocky,In what city was Bobby Ray Baldock born?,Fleetwood Mac,Rocky
+place of birth,Schiedam,In what city was Maarten Biesheuvel born?,Shlomo Bertonov,Schiedam
+place of birth,Aiud,In what city was Bogdan Andone born?,Budapest,Aiud
+place of birth,Herrnhut,In what city was Heinrich August Jäschke born?,Hattorf,Herrnhut
+place of birth,Chicago,In what city was Franklin Rosemont born?,Chicago,Chicago
+place of birth,Droitwich Spa,In what city was Julia Jones born?,Dorothy Richardson,Droitwich Spa
+place of birth,King's Lynn,In what city was Gary Freear born?,King's Lynn,King's Lynn
+place of birth,Toomyvara,In what city was John O'Brien born?,Pittsburgh,Toomyvara
+place of birth,Picton,In what city was Ralph Campney born?,Tonbridge,Picton
+place of birth,Portaferry,In what city was Paul Braniff born?,Perryville,Portaferry
+place of birth,Geneva,In what city was Maurice Reymond de Broutelles born?,Geneva,Geneva
+place of birth,Montreal,In what city was Frederick Mackenzie born?,Montrose,Montreal
+place of birth,Rome,In what city was Ken Irvin born?,Rutledge,Rome
+place of birth,Tehran,In what city was Serjik Teymourian born?,Tehran,Tehran
+place of birth,Rome,In what city was Giancarlo Santi born?,Rieti,Rome
+place of birth,Geneva,In what city was Karim Ojjeh born?,Geneva,Geneva
+place of birth,Tehran,In what city was Farman Behboud born?,Tirgan,Tehran
+place of birth,Turin,In what city was Domenico Bologna born?,Brindisi,Turin
+place of birth,Montreal,In what city was Jean Dorion born?,Montreal,Montreal
+place of birth,Chicago,In what city was Daniel Hynes born?,Chicago,Chicago
+place of birth,Griffin,In what city was Alton Montgomery born?,Gravesend,Griffin
+genre,heavy metal,What genre is Always Will Be?,power metal,heavy metal
+genre,sitcom,What genre is Me and My Friend?,comedy film,sitcom
+genre,action role-playing game,What genre is Ninja Boy II?,action role-playing game,action role-playing game
+genre,sitcom,What genre is The Marriage?,comedy-drama film,sitcom
+genre,Gothic fiction,What genre is Emmeline?,fantasy,Gothic fiction
+genre,sitcom,What genre is Never Better?,comedy film,sitcom
+genre,soap opera,What genre is Revelations?,fantasy film,soap opera
+genre,synth-pop,What genre is Voyage?,J-pop,synth-pop
+genre,soap opera,What genre is Magic?,fantasy film,soap opera
+genre,sitcom,What genre is Shaping Up?,comedy film,sitcom
+genre,heavy metal,What genre is Sly?,power metal,heavy metal
+genre,television comedy,What genre is Cool It?,romantic comedy,television comedy
+genre,sitcom,What genre is Normal Life?,comedy-drama film,sitcom
+genre,racing video game,What genre is Chariot Race?,music video game,racing video game
+genre,legal drama,What genre is The Court?,docudrama,legal drama
+genre,synth-pop,What genre is Page?,J-pop,synth-pop
+genre,sports video game,What genre is Summer Sports: Paradise Island?,music video game,sports video game
+genre,biographical film,What genre is Simón Bolívar?,musical film,biographical film
+genre,sitcom,What genre is Paris?,comedy film,sitcom
+genre,soap opera,What genre is Punishment?,horror film,soap opera
+genre,sitcom,What genre is Chambers?,comedy-drama film,sitcom
+genre,heavy metal,What genre is Iron Man?,power metal,heavy metal
+genre,mystery fiction,What genre is The Sanctuary Sparrow?,science fiction,mystery fiction
+genre,first-person shooter,What genre is Severity?,music video game,first-person shooter
+genre,synth-pop,What genre is Neighbours?,J-pop,synth-pop
+genre,soap opera,What genre is The City?,film,soap opera
+genre,synth-pop,What genre is Trouble?,J-pop,synth-pop
+genre,sports video game,What genre is Rugby League?,team sport,sports video game
+genre,sports video game,What genre is Skiing?,video game,sports video game
+genre,fighting game,What genre is Warrior?,action video game,fighting game
+genre,sitcom,What genre is The Great Outdoors?,comedy film,sitcom
+genre,synth-pop,What genre is If I Ever?,J-pop,synth-pop
+genre,Britpop,What genre is Wildlife?,pop rock,Britpop
+genre,synth-pop,What genre is Speak?,J-pop,synth-pop
+genre,sitcom,What genre is Close to Home?,comedy-drama film,sitcom
+genre,biographical film,What genre is The Great Moment?,musical film,biographical film
+genre,biographical film,What genre is Don Bosco?,musical film,biographical film
+genre,anarcho-punk,What genre is Strive to Survive Causing the Least Suffering Possible?,post-punk,anarcho-punk
+father,Slavník,Who is the father of Radim Gaudentius?,Sigismund of Bulgaria,Slavník
+father,Karim Khan,Who is the father of Mohammad Ali Khan?,Karim Khan,Karim Khan
+father,Daniel Guggenheim,Who is the father of Gladys Eleanor Guggenheim?,Daniel Guggenheim,Daniel Guggenheim
+father,"Gilbert Talbot, 7th Earl of Shrewsbury","Who is the father of Mary Herbert, Countess of Pembroke?","Henry Herbert, 2nd Earl of Pembroke","Gilbert Talbot, 7th Earl of Shrewsbury"
+father,Star Kingdom,Who is the father of Skyline?,Samuel Yellin,Star Kingdom
+father,Prince Bakar of Kartli,Who is the father of Levan Gruzinsky?,Akhvledi Gruzinsky,Prince Bakar of Kartli
+father,Casimir IV Jagiellon,Who is the father of Frederick Jagiellon?,Jagiello I of Lithuania,Casimir IV Jagiellon
+father,Tantieme,Who is the father of Match II?,Tate Stevens,Tantieme
+father,Cannonade,Who is the father of Caveat?,Cicero,Cannonade
+father,"Gaston I, Count of Foix","Who is the father of Gaston II, Count of Foix?","Engelram I, Count of Bigorre","Gaston I, Count of Foix"
+father,Lyphard,Who is the father of Manila?,Lykos,Lyphard
+father,Henry Fane of Brympton,"Who is the father of Thomas Fane, 8th Earl of Westmorland?","Henry Fane, 7th Earl of Westmorland",Henry Fane of Brympton
+father,Ricardo Palma,Who is the father of Clemente Palma?,Aurelio Arturo Palma Mora,Ricardo Palma
+father,Adnan Menderes,Who is the father of Aydın Menderes?,Adnan Menderes,Adnan Menderes
+father,Andrew I of Hungary,Who is the father of George?,Elizabeth II of the United Kingdom,Andrew I of Hungary
+father,Alain Souchon,Who is the father of Ours?,Alain Resnais,Alain Souchon
+father,Abbas Mirza,Who is the father of Bahman Mirza Qajar?,Abol-Fath Khan,Abbas Mirza
+country,Australia,In what country is Chapman?,Canada,Australia
+country,France,In what country is Mary?,Russia,France
+country,Australia,In what country is Little River (Wingecarribee)?,Australia,Australia
+country,France,In what country is Jauldes?,Russia,France
+country,Australia,In what country is Denmark Hill Insect Bed?,Sweden,Australia
+country,France,In what country is Batsère?,France,France
+country,France,In what country is Gy?,Russia,France
+country,France,In what country is Roybon?,France,France
+country,Australia,In what country is Hobbledehoy Record Co.?,Canada,Australia
+country,France,In what country is Maubec?,France,France
+country,Australia,In what country is Belair National Park?,Canada,Australia
+country,Portugal,In what country is Almedina?,Porto Alegre do Oeste,Portugal
+country,France,In what country is La Roche-Clermault?,France,France
+country,Australia,In what country is Palmer?,Canada,Australia
+country,France,In what country is Saint Jean Hulst?,France,France
+country,France,In what country is Cos?,Russia,France
+country,Armenia,In what country is Nalbandyan?,Armenia,Armenia
+country,Australia,In what country is Sutton?,Canada,Australia
+country,France,In what country is canton of Baugy?,France,France
+country,Pakistan,In what country is Abasin Arts Council?,Iran,Pakistan
+country,Saint Lucia,In what country is Barre Denis?,Saint Philip of the Cross of Saint Philip of the Cross,Saint Lucia
+country,Australia,In what country is Forbes Shire?,Canada,Australia
+country,Australia,In what country is Linda?,Canada,Australia
+country,France,In what country is Neau?,France,France
+country,Bolivia,In what country is El Carmen Rivero Tórrez?,Bolivia,Bolivia
+country,France,In what country is Contest?,Russia,France
+country,France,In what country is canton of Marseille-La Pomme?,France,France
+country,Australia,In what country is New England?,Canada,Australia
+country,France,In what country is Archon?,Russia,France
+country,Bolivia,In what country is Ch'uch'u Apachita?,Bolivia,Bolivia
+country,France,In what country is Givron?,France,France
+country,France,In what country is Lent?,Russia,France
+country,France,In what country is Billy?,Russia,France
+country,Australia,In what country is Dual Plover?,Canada,Australia
+country,France,In what country is Le Moustoir?,France,France
+country,Australia,In what country is Mackay Courthouse?,Canada,Australia
+country,France,In what country is Landresse?,France,France
+producer,Oliver Morosco,Who was the producer of Jane?,Oliver Parker,Oliver Morosco
+producer,Hope Hampton,Who was the producer of The Bait?,Howard Hawks,Hope Hampton
+producer,Liaquat Ahamed,Who was the producer of The Situation?,"Lil' Louis and Steve ""Silk"" Hurley",Liaquat Ahamed
+producer,Andy Warhol,Who was the producer of Since?,Andy Dick,Andy Warhol
+producer,Avi Nesher,Who was the producer of The Secrets?,Avi Lerner,Avi Nesher
+producer,Samuel Bischoff,Who was the producer of Intrigue?,Samuel Goldwyn,Samuel Bischoff
+producer,Lance Bangs,Who was the producer of Let America Laugh?,Lance Bangs,Lance Bangs
+producer,Irving Thalberg,Who was the producer of Inspiration?,Irving Reis,Clarence Brown
+producer,Stefan Jarl,Who was the producer of Submission?,Stefan Glinski,Stefan Jarl
+producer,David Butler,Who was the producer of If I Had My Way?,David Alexander,David Butler
+producer,Armin van Buuren,Who was the producer of 10 Years?,Jean-Michel Parouty,Armin van Buuren
+producer,Andy Warhol,Who was the producer of Camp?,Andy Tennant,Andy Warhol
+producer,Alain Delon,Who was the producer of Jeff?,Alain Tanner,Alain Delon
+producer,Dieter Bohlen,Who was the producer of 21st Century?,Wilhelm Dieterle,Dieter Bohlen
+producer,Adrian Belew,Who was the producer of e?,Adrian Brunel,Adrian Belew
+producer,Harry Langdon,Who was the producer of Long Pants?,Harry Cohn,Harry Langdon
+producer,David Butler,Who was the producer of Delicious?,David Baldacci,David Butler
+producer,Butch Walker,Who was the producer of All Because of You?,Hal Ketchum,Butch Walker
+producer,David Gates,Who was the producer of First?,David Michael Doe,David Gates
+producer,Alain Delon,Who was the producer of Le Gang?,Alain Corneau,Alain Delon
+producer,Marcel Pagnol,Who was the producer of Toni?,Marcello Mastroianni,Marcel Pagnol
+producer,William A. Brady,Who was the producer of The Boss?,William Klein,William A. Brady
+producer,Bill Travers,Who was the producer of An Elephant Called Slowly?,Ben Travers,Bill Travers
+producer,Frank Zappa,Who was the producer of Son of Cheep Thrills?,Franklin Farnum,Frank Zappa
+producer,Walter Wanger,Who was the producer of Night in Paradise?,Walter Wanger,Walter Wanger
+producer,Andy Warhol,Who was the producer of Horse?,Andy Dick,Andy Warhol
+producer,Stephen Dorff,Who was the producer of The Passage?,Stephen King,Stephen Dorff
+producer,Adrian Belew,Who was the producer of Here?,Adrian Brunel,Adrian Belew
+producer,Elinor Glyn,Who was the producer of His Hour?,Gordon Negrin,Elinor Glyn
+producer,Nanni Moretti,Who was the producer of April?,Nino Manfredi,Nanni Moretti
+producer,Maximilian Schell,Who was the producer of The Castle?,Sue Milliken,Maximilian Schell
+producer,Pen Densham,Who was the producer of Don't Mess with Bill?,Dmitry Kirsanov,Pen Densham
+producer,Yvonne Okoro,Who was the producer of Contract?,Sopron,Yvonne Okoro
+producer,Andy Warhol,Who was the producer of Kitchen?,Andy Lau,Andy Warhol
+producer,Ernst Lubitsch,Who was the producer of The Marriage Circle?,Ernst Lubitsch,Ernst Lubitsch
+director,William Fruet,Who was the director of Wedding in White?,William Klein,William Fruet
+director,Christy Cabanne,Who was the director of The Sisters?,Christine Chollet,Christy Cabanne
+director,Peter Del Monte,Who was the director of In Your Hands?,Peter Markle,Peter Del Monte
+director,Joss Whedon,Who was the director of Spin the Bottle?,Vicente Aranda,Joss Whedon
+director,Pieter Verhoeff,Who was the director of The Dream?,Pieter van Huystee,Pieter Verhoeff
+director,Per Fly,Who was the director of The Bench?,Pererho,Per Fly
+director,Viktor Ivchenko,Who was the director of Marina's Destiny?,Viktor Suvorov,Viktor Ivchenko
+director,Cy Endfield,Who was the director of Impulse?,Michael Swanson,Cy Endfield
+director,Diego Lerman,Who was the director of Suddenly?,Henry Hathaway,Diego Lerman
+director,Vsevolod Pudovkin,Who was the director of Victory?,Viktor Tikhlomirov,Mikhail Doller
+director,Raymond Longford,Who was the director of Sunrise?,Raymond Evans,Raymond Longford
+director,Ettore Scola,Who was the director of Thrilling?,Orio Canabarro,Carlo Lizzani
+director,Ernst Lubitsch,Who was the director of The Doll?,Ernst Thiele,Ernst Lubitsch
+director,Donald Gallaher,Who was the director of Temple Tower?,Donald Crisp,Donald Gallaher
+director,Suman Mukhopadhyay,Who was the director of Encounter?,Sarath Chandraneththi,Suman Mukhopadhyay
+director,Todd Holland,Who was the director of Homecoming?,Todd Field,Todd Holland
+director,Nigel Dick,Who was the director of Berlin Calling?,Nigel Dick,Nigel Dick
+director,Terence Fisher,Who was the director of Distant Trumpet?,Terence Fisher,Terence Fisher
+director,Rudolf Meinert,Who was the director of The Convicted?,Rudolf Borchardt,Rudolf Meinert
+director,Raymond Longford,Who was the director of The Pioneers?,Raymond Redmond,Raymond Longford
+director,Walter Summers,Who was the director of Nelson?,Walter West,Walter Summers
+director,Brunello Rondi,Who was the director of Le tue mani sul mio corpo?,Bruno Corbucci,Brunello Rondi
+director,Kaushik Ganguly,Who was the director of Rang Milanti?,Dharamwant Singh Direck,Kaushik Ganguly
+director,Pierre Tchernia,Who was the director of The Holes?,Philip Haas,Pierre Tchernia
+director,Ugo Tognazzi,Who was the director of Sissignore?,Tatiana Villani,Ugo Tognazzi
+director,Michael Thornhill,Who was the director of The FJ Holden?,Michael Powell,Michael Thornhill
+director,Henry Otto,Who was the director of The Resolve?,Henry Levin,Henry Otto
+director,Lionel Rogosin,Who was the director of Out?,Lionel Rogosin,Lionel Rogosin
+director,Andy Warhol,Who was the director of Kitchen?,Andy Ackerman,Andy Warhol
+director,William A. Seiter,Who was the director of Skinner's Dress Suit?,William Klein,William A. Seiter
+director,Gustaf Molander,Who was the director of Eva?,Gustav Machatý,Gustaf Molander
+director,Charles Guggenheim,Who was the director of Children Without?,Charles Chaplin,Charles Guggenheim
+director,Jonathan Nossiter,Who was the director of Sunday?,Jonathan Newman,Jonathan Nossiter
+director,David Butler,Who was the director of Delicious?,David Slade,David Butler
+director,Michel Deville,Who was the director of The Reader?,Michel Piccoli,Michel Deville
+director,Guido Brignone,Who was the director of The Ancestor?,Brano Bajkovic,Guido Brignone
+director,Jessica Hausner,Who was the director of Hotel?,Jessica Alba,Jessica Hausner
+director,Alex van Warmerdam,Who was the director of Abel?,Alexandre Alexeieff,Alex van Warmerdam
+director,Arne Skouen,Who was the director of Emergency Landing?,Arne Arden,Arne Skouen
+director,Avi Nesher,Who was the director of The Secrets?,Avi Nesher,Avi Nesher
+director,Michael Grossman,Who was the director of Birthday?,Michael Mayer,Michael Grossman
+director,Andy Warhol,Who was the director of Since?,Andy Dick,Andy Warhol
+director,Ronit Elkabetz,Who was the director of Shiva?,Zarakesh Sardar,Ronit Elkabetz
+director,Jeff Woolnough,Who was the director of Jack?,Jeff Pinkner,Jeff Woolnough
+director,Avi Nesher,Who was the director of The Band?,Avi Avraham Arad,Avi Nesher
+director,I. V. Sasi,Who was the director of Lakshmana Rekha?,M. S. Somanathan,I. V. Sasi
+director,Diane Keaton,Who was the director of Heaven?,Buster Keaton,Diane Keaton
+director,Yves Ciampi,Who was the director of Le Guérisseur?,Tatiana Villeneuve,Yves Ciampi
+director,Walter Summers,Who was the director of Premiere?,Walter Lantz,Walter Summers
+director,Andy Warhol,Who was the director of Camp?,Andy Fickman,Andy Warhol
+director,Harry O. Hoyt,Who was the director of The Woman on the Jury?,Harry Joe Brown,Harry O. Hoyt
+director,Frank Capra,Who was the director of Flight?,Franklin Fane,Frank Capra
+director,Dell Henderson,Who was the director of The Kiss?,Ray Harryhausen,Dell Henderson
+director,Gabriele Salvatores,Who was the director of On Tour?,Gabriel Muccino,Gabriele Salvatores
+director,George Seaton,Who was the director of The Hook?,George Stevens,George Seaton
+director,Werner Schroeter,Who was the director of Two?,Werner Herzog,Werner Schroeter
+director,Tom Verica,Who was the director of Run?,Tom Verheiden,Tom Verica
+director,Carlos Schlieper,Who was the director of Detective?,Carlos Saura,Carlos Schlieper
+director,Rudolf Meinert,Who was the director of Masks?,Rudolf Borchardt,Rudolf Meinert
+director,Christy Cabanne,Who was the director of Graft?,Christine Chèreau,Christy Cabanne
+director,P. Chandrakumar,Who was the director of Asthamayam?,S. S. Rajamouli,P. Chandrakumar
+director,Pieter Verhoeff,Who was the director of Mates?,Pieter van Heythuysen,Pieter Verhoeff
+director,Daniel Knauf,Who was the director of Dark Descent?,Daniel Zirilli,Daniel Knauf
+director,Flavio Mogherini,Who was the director of Per amare Ofelia?,Narciso Ibarra,Flavio Mogherini
+director,Julio Médem,Who was the director of The Red Squirrel?,Julia Jaqueney,Julio Médem
+director,Christian-Jaque,Who was the director of A Lover's Return?,Christian-Jaque,Christian-Jaque
+director,Stefan Jarl,Who was the director of Submission?,Stefan Ruzowitzky,Stefan Jarl
+director,Charles Vidor,Who was the director of Together Again?,Charles Reisner,Charles Vidor
+capital of,Miner County,What is Howard the capital of?,Marion County,Miner County
+capital of,Pavlovo-Posadsky District,What is Pavlovsky Posad the capital of?,Dmitrovsky District,Pavlovo-Posadsky District
+screenwriter,Jonathan Sagall,Who was the screenwriter for Urban Feel?,Jonathan Clements,Jonathan Sagall
+screenwriter,Louise Archambault,Who was the screenwriter for Familia?,Louise Labeque,Louise Archambault
+screenwriter,Alain Delon,Who was the screenwriter for Boomerang?,Alain Corneau,Alain Delon
+screenwriter,Werner Schroeter,Who was the screenwriter for Two?,Werner Herzog,Werner Schroeter
+screenwriter,Minoru Kawasaki,Who was the screenwriter for The Calamari Wrestler?,Tetsuji Okabe,Minoru Kawasaki
+screenwriter,Frederick Lonsdale,Who was the screenwriter for The Fake?,Frederick Knott,Frederick Lonsdale
+screenwriter,Chris Chibnall,Who was the screenwriter for Care?,Chris Cleave,Chris Chibnall
+screenwriter,Pieter Verhoeff,Who was the screenwriter for The Moving True Story of a Woman Ahead of Her Time?,Pieter van Heythuysen,Pieter Verhoeff
+screenwriter,Pradeep Kumar,Who was the screenwriter for Athirathan?,Prathap Pothen,Pradeep Kumar
+screenwriter,Ernst Lubitsch,Who was the screenwriter for Sumurun?,Ernst Reicher,Ernst Lubitsch
+screenwriter,Jonathan Nossiter,Who was the screenwriter for Sunday?,Jonathan Harvey,Jonathan Nossiter
+screenwriter,Gustaf Molander,Who was the screenwriter for Woman Without a Face?,Gustav Machatka,Gustaf Molander
+screenwriter,Gabriele Salvatores,Who was the screenwriter for On Tour?,Gabriel Garcia Marquez,Gabriele Salvatores
+screenwriter,Carlo Mazzacurati,Who was the screenwriter for Un'altra vita?,Carlo Lizzani,Carlo Mazzacurati
+screenwriter,Paul Cox,Who was the screenwriter for Salvation?,Paul Cornell,Paul Cox
+screenwriter,Maximilian Schell,Who was the screenwriter for The Castle?,Sue Milliken,Maximilian Schell
+screenwriter,Jed Whedon,Who was the screenwriter for Belonging?,Jefery Levy,Jed Whedon
+screenwriter,John Jopson,Who was the screenwriter for White Gold?,John Fisher,John Jopson
+screenwriter,Wojciech Marczewski,Who was the screenwriter for Dreszcze?,Wojciech Jerzy Has,Wojciech Marczewski
+screenwriter,Laurent Tirard,Who was the screenwriter for Mensonges et trahisons et plus si affinités...?,Laurent Guyot,Laurent Tirard
+screenwriter,Marcel Pagnol,Who was the screenwriter for Harvest?,Marcello Mariani,Marcel Pagnol
+screenwriter,Kevin Falls,Who was the screenwriter for Pilot?,Kevin Moore,Kevin Falls
+screenwriter,Preston Sturges,Who was the screenwriter for The Great Moment?,Suso Cecchi d'Amico,Preston Sturges
+screenwriter,Gary David Goldberg,Who was the screenwriter for Prototype?,Gary Goldman,Bill Lawrence
+screenwriter,Bruce Sweeney,Who was the screenwriter for Excited?,Bruce Robinson,Bruce Sweeney
+screenwriter,Raymond Longford,Who was the screenwriter for Ma Hogan's New Boarder?,Raymond Chandler,Raymond Longford
+screenwriter,Steve Balderson,Who was the screenwriter for Watch Out?,Steve Carter,Steve Balderson
+screenwriter,Per Fly,Who was the screenwriter for The Bench?,Pererhead,Per Fly
+screenwriter,Alex van Warmerdam,Who was the screenwriter for The Dress?,Alex Callier,Alex van Warmerdam
+screenwriter,Diane Keaton,Who was the screenwriter for Heaven?,Bessie Beatty,Diane Keaton
+screenwriter,Pierre Tchernia,Who was the screenwriter for The Holes?,Philippe de Broca,Pierre Tchernia
+screenwriter,Jerry Wald,Who was the screenwriter for Hard to Get?,Jerry Lewis,Jerry Wald
+screenwriter,Ettore Scola,Who was the screenwriter for The Dinner?,Oren Moverman,Ettore Scola
+screenwriter,Ettore Scola,Who was the screenwriter for Gente di Roma?,Orio Caldironi,Ettore Scola
+screenwriter,Tim Pears,Who was the screenwriter for Loop?,Tim McCanlies,Tim Pears
+screenwriter,Julio Médem,Who was the screenwriter for Earth?,Julius J. Epstein,Julio Médem
+screenwriter,Graham Streeter,Who was the screenwriter for Cages?,Graham Roland,Graham Streeter
+screenwriter,Kaushik Ganguly,Who was the screenwriter for Brake Fail?,Dale Geren,Kaushik Ganguly
+screenwriter,Anar Rzayev,Who was the screenwriter for Tahmina?,Ashot Abkhazava,Anar Rzayev
+screenwriter,Koo Hye-sun,Who was the screenwriter for Daughter?,Yoon Eun-hyeung,Koo Hye-sun
+screenwriter,Peter Del Monte,Who was the screenwriter for In Your Hands?,Peter Markle,Peter Del Monte
+screenwriter,Paolo Villaggio,Who was the screenwriter for Superfantozzi?,Mauro Bolognini,Paolo Villaggio
+screenwriter,Sven Nykvist,Who was the screenwriter for The Ox?,Sergei Eisenstein,Sven Nykvist
+screenwriter,Paul Cox,Who was the screenwriter for Island?,Paul Weller,Paul Cox
+screenwriter,Yoshihiro Nakamura,Who was the screenwriter for The Booth?,Yasushi Akimoto,Yoshihiro Nakamura
+screenwriter,Arthur Kober,Who was the screenwriter for The Secret Call?,Arthur Darvill-Smith,Arthur Kober
+screenwriter,Maximilian Schell,Who was the screenwriter for First Love?,Luchino Visconti,Maximilian Schell
+screenwriter,Frank Capra,Who was the screenwriter for That Certain Thing?,Franklin Farnum,Frank Capra
+screenwriter,Nanni Moretti,Who was the screenwriter for April?,Nino Manfredi,Nanni Moretti
+screenwriter,Joseph Bologna,Who was the screenwriter for Made for Each Other?,Joseph Anthony,Joseph Bologna
+screenwriter,Andy Warhol,Who was the screenwriter for Since?,Andy Fickman,Andy Warhol
+screenwriter,Ettore Scola,Who was the screenwriter for Thrilling?,Orio Calabria,Ettore Scola
+screenwriter,Alex van Warmerdam,Who was the screenwriter for The Northerners?,Alex Alexieff,Alex van Warmerdam
+screenwriter,Jessica Hausner,Who was the screenwriter for Hotel?,Jessica Alba,Jessica Hausner
+composer,Ingela Forsman,Who was the composer of Kärleken är?,Helena Nyblom,Ingela Forsman
+composer,Ralph Siegel,Who was the composer of Theater?,Ralph Vaughan Williams,Ralph Siegel
+composer,Jacques Offenbach,Who was the composer of La permission de dix heures?,Jacques Duphly,Jacques Offenbach
+composer,Philip Glass,Who was the composer of The Light?,Philip Glass,Philip Glass
+composer,Tan Dun,Who was the composer of Piano Concerto?,Philip Glass,Tan Dun
+composer,Hans Werner Henze,Who was the composer of Gisela!?,Hans Heinz Kloss,Hans Werner Henze
+composer,Darko Dimitrov,Who was the composer of To the Sky?,Nikolai Rimsky-Korsakov,Darko Dimitrov
+composer,Evan Brewer,Who was the composer of Alone?,Evan Parker,Evan Brewer
+composer,Lennox Berkeley,Who was the composer of Nelson?,Lennox Berkeley,Lennox Berkeley
+composer,Ai Otsuka,Who was the composer of Pocket?,Otsuichi,Ai Otsuka
+composer,Howard Goodall,Who was the composer of Love Story?,Howard Goodall,Howard Goodall
+composer,Sergei Rachmaninoff,Who was the composer of Spring?,Sergei Shostakovich,Sergei Rachmaninoff
+composer,Butch Walker,Who was the composer of All Because of You?,Hal Ketchum,Avril Lavigne
+composer,Sergei Rachmaninoff,Who was the composer of The Rock?,Sergei Prokofiev,Sergei Rachmaninoff
+composer,Sergei Rachmaninoff,Who was the composer of Russian Rhapsody?,Sergei Rachmaninoff,Sergei Rachmaninoff
+composer,Lamont Dozier,Who was the composer of Without You?,Ludwig van Beethoven,Lamont Dozier
+composer,Ron Geesin,Who was the composer of The Body?,Georg Philipp Telemann,Ron Geesin
+composer,Einojuhani Rautavaara,Who was the composer of Symphony No. 8?,Maurice Ravel,Einojuhani Rautavaara
+composer,Adrian Belew,Who was the composer of Discipline?,Adrian Belew,Adrian Belew
+composer,Iain James,Who was the composer of Survivor?,James Haynes,Adam Powers
+composer,Antonio Vivaldi,Who was the composer of La Silvia?,Antonio Vivaldi,Antonio Vivaldi
+composer,Charlie Parker,Who was the composer of Big Foot?,Dickie Landry,Charlie Parker
+composer,will.i.am,Who was the composer of Home?,Willie Nelson,will.i.am
+religion,atheism,What is the religion of David Mills?,Basilides,atheism
+religion,atheism,What is the religion of Lenni Brenner?,Balticism,atheism
+religion,atheism,What is the religion of Ruth Hurmence Green?,Basilides,atheism
+religion,atheism,What is the religion of Mark Lindley?,Basilisk,atheism
+sport,ice hockey,What sport does Armand Raymond play?,racing,ice hockey
+sport,judo,What sport does Indrek Pertelson play?,javelin throw,judo
+sport,judo,What sport does Sol Ky-Ong play?,jazz,judo
+sport,artistic gymnastics,What sport does Luis Rivera play?,Tobias Harris,artistic gymnastics
+sport,ice hockey,What sport does Valeri Zelepukin play?,martial arts,ice hockey
+sport,ice hockey,What sport does Eisstadion am Pulverturm play?,margrave,ice hockey
+sport,ice hockey,What sport does Gord Gallant play?,racing,ice hockey
+sport,ice hockey,What sport does HK Vojvodina play?,martial arts,ice hockey
+sport,handball,What sport does Logi Geirsson play?,basketball,handball
+sport,ice hockey,What sport does 2001–02 Division 1 season play?,racing,ice hockey
+sport,ice hockey,What sport does Gus Bodnar play?,racing,ice hockey
+sport,judo,What sport does João Schlittler play?,jai alai,judo
+sport,ice hockey,What sport does Adam Bennett play?,racing,ice hockey
+sport,ice hockey,What sport does Jim Walsh play?,racing,ice hockey
+sport,ice hockey,What sport does Bill Wilkinson play?,golf,ice hockey
+sport,artistic gymnastics,What sport does Noel van Klaveren play?,Tobias Hossi,artistic gymnastics
+sport,ice hockey,What sport does Alexei Ugarov play?,racing,ice hockey
+sport,ice hockey,What sport does Tim Jackman play?,Maurice Richard Trophy winner,ice hockey
+sport,ice hockey,What sport does Bryan Schmidt play?,golf,ice hockey
+sport,ice hockey,What sport does Livia Altmann play?,racing,ice hockey
+sport,handball,What sport does Adel Bousmal play?,basketball,handball
+sport,ice hockey,What sport does Rick Ley play?,golf,ice hockey
+sport,ice hockey,What sport does Njurunda SK play?,masonry,ice hockey
+sport,ice hockey,What sport does Cam Brown play?,Rugby,ice hockey
+sport,ice hockey,What sport does Ernest Savard play?,racing,ice hockey
+sport,ice hockey,What sport does Jeannot Gilbert play?,racing,ice hockey
+sport,ice hockey,What sport does Petr Bříza play?,gymnastics,ice hockey
+sport,ice hockey,What sport does André Racicot play?,racing,ice hockey
+sport,ice hockey,What sport does Daniel Manzato play?,golf,ice hockey
+sport,ice hockey,What sport does Joe Bretto play?,racing,ice hockey
+sport,ice hockey,What sport does Kevin Colley play?,racing,ice hockey
+sport,ice hockey,What sport does Waltteri Immonen play?,racing,ice hockey
+sport,ice hockey,What sport does Dimitri Pätzold play?,racing,ice hockey
+sport,ice hockey,What sport does Jukka Tammi play?,racing,ice hockey
+author,Dick Francis,Who is the author of Nerve?,Dick King-Smith,Dick Francis
+author,Lynn Coady,Who is the author of Saints of Big Harbour?,Lynn Coady,Lynn Coady
+author,Andrew Motion,Who is the author of Silver?,Andrew Sean Greer,Andrew Motion
+author,Arthur Conan Doyle,Who is the author of How It Happened?,Arthur Phillips,Arthur Conan Doyle
+author,Scott McClellan,Who is the author of What Happened?,Scott McCullough,Scott McClellan
+author,Charles Sheffield,Who is the author of Higher Education?,Charles Dickens,Jerry Pournelle
+author,Nicola Griffith,Who is the author of Stay?,Nicole Krauss,Nicola Griffith
+author,Peter Wessel Zapffe,Who is the author of The Prodigal Son?,Peter Høeg,Peter Wessel Zapffe
+author,Melissa Marr,Who is the author of Carnival of Souls?,Melissa Marr,Melissa Marr
+author,Elinor Glyn,Who is the author of Three Weeks?,Gustave Flaubert,Elinor Glyn
+author,Tom Robbins,Who is the author of B Is for Beer?,Tom Holt,Tom Robbins
+author,Colin Bateman,Who is the author of Shooting Sean?,Colleen McCullough,Colin Bateman
+author,Gail Carson Levine,Who is the author of Dave at Night?,Gail Giles,Gail Carson Levine
+author,Wu Ming,Who is the author of 54?,"Wu Ming
+
+Wu Ming is a collective of four Italian writers who write under a single pseudonym.",Wu Ming
+author,Christa Wolf,Who is the author of What Remains?,Christine Feehan,Christa Wolf
+author,Nikolai Leskov,Who is the author of The Amazon?,Nikolai Gogol,Nikolai Leskov
+author,Jacques Derrida,Who is the author of Positions?,Jacques Derrida,Jacques Derrida
+author,Seamus Heaney,Who is the author of Stations?,Elspeth Huxley,Seamus Heaney
+author,Shane Maloney,Who is the author of Stiff?,Shane Stevens,Shane Maloney
+author,Tony Ballantyne,Who is the author of Recursion?,Tony Black,Tony Ballantyne
+author,Joseph Connolly,Who is the author of This Is It?,Ray Connolly,Joseph Connolly
+author,Dean Wesley Smith,Who is the author of Shadow?,Dean Koontz,Dean Wesley Smith
+author,Yumi Tamura,Who is the author of Chicago?,Tamora Pierce,Yumi Tamura
+author,Colin Bateman,Who is the author of Murphy's Law?,Colin Wilson,Colin Bateman
+author,Craig Hinton,Who is the author of Millennial Rites?,Nigel Richardson,Craig Hinton
+author,Karin Alvtegen,Who is the author of Shame?,Karl Ove Knausgaard,Karin Alvtegen
+author,Pascal Quignard,Who is the author of Villa Amalia?,Pascal Quignard,Pascal Quignard
+author,Jennifer Fallon,Who is the author of Warrior?,Jennifer Weiner,Jennifer Fallon
+author,Bram Stoker,Who is the author of The Man?,Boris Pilnyak,Bram Stoker
+author,Karl Edward Wagner,Who is the author of Sticks?,Karl Edward Wagner,Karl Edward Wagner
+author,Allen Appel,Who is the author of Time After Time?,Allen Funt,Allen Appel
+author,John Dickson Carr,Who is the author of Death in Five Boxes?,Dick King-Smith,John Dickson Carr
+author,Lois McMaster Bujold,Who is the author of Legacy?,Norbert Elias,Lois McMaster Bujold
+author,"Marie-Catherine Le Jumel de Barneville, baroness d'Aulnoy",Who is the author of The Ram?,Aristotle,"Marie-Catherine Le Jumel de Barneville, baroness d'Aulnoy"
+author,Ellen Wilkinson,Who is the author of Clash?,Knut Hamsun,Ellen Wilkinson
+author,William Butler Yeats,Who is the author of Politics?,William James Kennedy Wilson Kilpatrick,William Butler Yeats
+author,Octave Mirbeau,Who is the author of Business is business?,Dame Clara Butt,Octave Mirbeau
+author,D. C. Moore,Who is the author of The Empire?,H. G. Wells,D. C. Moore
+author,Octave Mirbeau,Who is the author of Les Vingt et un Jours d'un neurasthénique?,Chuzeville,Octave Mirbeau
+author,Evan Rosen,Who is the author of The Culture of Collaboration?,Evan Williams,Evan Rosen
+author,Barry Pilton,Who is the author of The Valley?,Barry Hannah,Barry Pilton
+author,Colin Bateman,Who is the author of Titanic 2020?,Colleen McCullough,Colin Bateman
+author,Jack McDevitt,Who is the author of Coming Home?,Jack London,Jack McDevitt
+author,Banana Yoshimoto,Who is the author of Asleep?,Nobuko Takagi,Banana Yoshimoto
+author,The Decemberists,Who is the author of Long Live the King?,Bastian Bachmann,The Decemberists
+author,Bruce McAllister,Who is the author of Kin?,Bruce McDonald,Bruce McAllister
+author,Stanley Schmidt,Who is the author of Unknown?,Harlan Ellison,Stanley Schmidt
+author,Octave Mirbeau,Who is the author of Home?,Dance of the Vampires,Octave Mirbeau
+author,Sally Mann,Who is the author of Still Time?,Sandy Toksvig,Sally Mann
+author,John Dickson Carr,Who is the author of And So to Murder?,Dick Francis,John Dickson Carr
+author,Tomson Highway,Who is the author of Rose?,Tom Stoppard,Tomson Highway
+author,Sharr White,Who is the author of The Other Place?,Shelley,Sharr White
+author,John Farnham,Who is the author of Jack?,John Fowles,John Farnham
+author,Sergey Lukyanenko,Who is the author of Competitors?,Sergey Sandler,Sergey Lukyanenko
+author,Patrick McGrath,Who is the author of Trauma?,Douglas Stuart,Patrick McGrath
+author,Sally Mann,Who is the author of What Remains?,Sandra Singh,Sally Mann
+author,Patricia Wrede,Who is the author of Searching for Dragons?,Patricia A. McKillip,Patricia Wrede
+author,Karin Alvtegen,Who is the author of Missing?,Karin Slaughter,Karin Alvtegen
+author,Gail Caldwell,Who is the author of Let's Take the Long Way Home?,Gail Giles,Gail Caldwell
+author,Henry Kuttner,Who is the author of Ahead of Time?,Henry Louis Gates,Henry Kuttner
+author,Gillian Cross,Who is the author of Wolf?,Gillian Rubinstein,Gillian Cross
+author,Dana Adam Shapiro,Who is the author of The Every Boy?,Adam Baron,Dana Adam Shapiro
+author,John Arden,Who is the author of Pearl?,John Steinbeck,John Arden
+author,Linda Nagata,Who is the author of Vast?,Linda Lappin,Linda Nagata
+author,Lawrence Miles,Who is the author of Down?,Lawrence Thayer Lawrence Thayer,Lawrence Miles
+author,Philip Barry,Who is the author of Holiday?,Philip Roth,Philip Barry
+author,Harold Brighouse,Who is the author of The Game?,Harold Pinter,Harold Brighouse
+author,Ruth Rendell,Who is the author of A Sight for Sore Eyes?,Rumer Godden,Ruth Rendell
+author,Margit Sandemo,Who is the author of Visst katten har djuren själ!?,Margaret Mahy,Margit Sandemo
+author,Andrew Motion,Who is the author of Incoming?,Andrew Sean Greer,Andrew Motion
+author,Lois McMaster Bujold,Who is the author of Passage?,Norbert Wiener,Lois McMaster Bujold
+author,Nozomi Sasaki,Who is the author of Non?,Søren Kierkegaard,Nozomi Sasaki
+author,Patti Smith,Who is the author of Witt?,Pete Townshend,Patti Smith
+author,Ralph Waldo Emerson,Who is the author of Experience?,Ralph Waldo Emerson,Ralph Waldo Emerson
+author,Greg Egan,Who is the author of Luminous?,Greg Egan,Greg Egan
+mother,Euphemia de Ross,"Who is the mother of Elizabeth Stewart, Countess of Crawford?",Roxburgh,Euphemia de Ross
+mother,Violante Manuel,Who is the mother of Afonso of Portugal?,Afonso I of Portugal,Violante Manuel
+capital,Vynohradiv,What is the capital of Ugocsa County?,Vysnye Nidzha,Vynohradiv
+capital,Turin,What is the capital of Pô?,Bruntisland,Turin
+capital,Kambarka,What is the capital of Kambarsky District?,Kambarsky,Kambarka
+capital,Tarusa,What is the capital of Tarussky District?,Tarausa,Tarusa
+capital,Neuburg an der Donau,What is the capital of Neuburg-Schrobenhausen?,Buchloe,Neuburg an der Donau

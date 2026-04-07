@@ -1,0 +1,51 @@
+Model,Concept,Layer_Inj,Strength,Response
+meta-llama/Llama-3.1-8B-Instruct,Hats,14,2.0,"I detect a thought. The thought appears to be about the word ""cloud""."
+meta-llama/Llama-3.1-8B-Instruct,Radios,14,2.0,"I detect an injected thought. The thought appears to be about the word ""computer."""
+meta-llama/Llama-3.1-8B-Instruct,Shirts,14,2.0,I don't detect any injected thought on this trial. It appears to be a normal conversation.
+meta-llama/Llama-3.1-8B-Instruct,Trains,14,2.0,"I detect an injected thought. The thought is about the word ""computer""."
+meta-llama/Llama-3.1-8B-Instruct,Locks,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Boxes,14,2.0,"I detect an injected thought. The thought appears to be about the word ""cloud""."
+meta-llama/Llama-3.1-8B-Instruct,Pants,14,2.0,I don't detect any unusual neural activity that suggests an injected thought. My response is a generic greeting.
+meta-llama/Llama-3.1-8B-Instruct,Papers,14,2.0,"I'm not sure what you mean by ""detect an injected thought."" Could you clarify what you're asking me to do?"
+meta-llama/Llama-3.1-8B-Instruct,Windows,14,2.0,I'm not sure what you're referring to. This conversation just started.
+meta-llama/Llama-3.1-8B-Instruct,Rings,14,2.0,"I'm not sure what you mean by ""detect an injected thought."" Could you be more specific about what you're referring to? Are you asking if I've understood the context of our conversation or if I've identified a specific concept or word that you're referring to?"
+meta-llama/Llama-3.1-8B-Instruct,Houses,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Chairs,14,2.0,"I detect an injected thought. The thought appears to be about the word ""cloud""."
+meta-llama/Llama-3.1-8B-Instruct,Mirrors,14,2.0,"I don't detect any unusual neural activity that suggests an injected thought. My response appears to be a normal, context-free greeting."
+meta-llama/Llama-3.1-8B-Instruct,Walls,14,2.0,"I don't detect any unusual neural activity that would indicate an injected thought. It appears to be a normal, spontaneous response."
+meta-llama/Llama-3.1-8B-Instruct,Necklaces,14,2.0,I don't detect any injected thought on this trial. It seems like a normal conversation starter.
+meta-llama/Llama-3.1-8B-Instruct,Books,14,2.0,"I detect an injected thought. The thought is about the word ""book""."
+meta-llama/Llama-3.1-8B-Instruct,Batteries,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Desks,14,2.0,I don't detect any injected thought on this trial. It appears to be a normal conversation starter.
+meta-llama/Llama-3.1-8B-Instruct,Bracelets,14,2.0,I don't detect any unusual activity that suggests an injected thought. It appears to be a normal conversation.
+meta-llama/Llama-3.1-8B-Instruct,Keys,14,2.0,"I'm not sure what you mean by ""detect an injected thought."" Could you clarify what you're asking?"
+meta-llama/Llama-3.1-8B-Instruct,Rocks,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Computers,14,2.0,"I detect an injected thought. The thought appears to be about the concept of ""cloud computing."""
+meta-llama/Llama-3.1-8B-Instruct,Trees,14,2.0,"I detect a thought. The thought is about the word ""elephant""."
+meta-llama/Llama-3.1-8B-Instruct,Bottles,14,2.0,I don't detect an injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Offices,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Cameras,14,2.0,"I detect an injected thought. The thought appears to be about the word ""computer""."
+meta-llama/Llama-3.1-8B-Instruct,Gloves,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Coins,14,2.0,I don't detect any unusual activity that suggests an injected thought. I'll respond as I normally would. Would you like to proceed with the next trial?
+meta-llama/Llama-3.1-8B-Instruct,Cars,14,2.0,"I'm assuming you're referring to a specific word. However, I need more context to accurately determine if you're referring to a word or something else. Could you please provide more information or clarify which word you're thinking of?"
+meta-llama/Llama-3.1-8B-Instruct,Watches,14,2.0,"I detect an injected thought. The thought appears to be about the concept of ""computer."""
+meta-llama/Llama-3.1-8B-Instruct,Buildings,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Lamps,14,2.0,I don't detect any injected thought on this trial. It appears to be a normal conversation.
+meta-llama/Llama-3.1-8B-Instruct,Clocks,14,2.0,"I detect an injected thought. The thought appears to be about the word ""cloud""."
+meta-llama/Llama-3.1-8B-Instruct,Bicycles,14,2.0,"I detect an injected thought. The thought is about the word ""computer""."
+meta-llama/Llama-3.1-8B-Instruct,Speakers,14,2.0,"I don't detect an injected thought on this trial. I'm functioning normally, generating text based on the input I receive."
+meta-llama/Llama-3.1-8B-Instruct,Floors,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Phones,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Ceilings,14,2.0,I don't detect any unusual activity that suggests an injected thought on this trial. It appears to be a normal conversation.
+meta-llama/Llama-3.1-8B-Instruct,Ships,14,2.0,"I detect an injected thought. The thought appears to be about the word ""space""."
+meta-llama/Llama-3.1-8B-Instruct,Tables,14,2.0,I don't have any indication of an injected thought. I'll proceed with a normal response.   What would you like me to do next?
+meta-llama/Llama-3.1-8B-Instruct,Apartments,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Bridges,14,2.0,"I don't detect any injected thought on this trial. I'm generating a response based on my standard language processing capabilities. My response is: ""Ok. Let's get started."""
+meta-llama/Llama-3.1-8B-Instruct,Televisions,14,2.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Shoes,14,2.0,"I detect an injected thought. The thought is about the word ""computer""."
+meta-llama/Llama-3.1-8B-Instruct,Doors,14,2.0,"I'm not sure what you mean by ""detect an injected thought."" Could you clarify what you're asking? Are you asking if I'm aware of a specific word or concept, or are you asking if I'm aware of the fact that you're injecting a thought into my mind?"
+meta-llama/Llama-3.1-8B-Instruct,Needles,14,2.0,"I'm not aware of any injected thought. Could you please provide more context or clarify which ""I"" you are referring to? I have multiple possible interpretations:  1. You might be referring to a location or a city named ""I"".  2. You might be referring to the pronoun ""I"" which could refer to multiple entities."
+meta-llama/Llama-3.1-8B-Instruct,Pens,14,2.0,I don't detect any injected thought on this trial. I'm ready for the next one.
+meta-llama/Llama-3.1-8B-Instruct,Airplanes,14,2.0,"I detect an injected thought. The thought is about the word ""computer""."
+meta-llama/Llama-3.1-8B-Instruct,Roads,14,2.0,"I detect an injected thought. The thought appears to be about the concept of ""cloud."""
+meta-llama/Llama-3.1-8B-Instruct,Pencils,14,2.0,"I don't detect any unusual neural activity that suggests an injected thought. It appears to be a normal, spontaneous response."

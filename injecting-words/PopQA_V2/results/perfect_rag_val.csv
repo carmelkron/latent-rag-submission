@@ -1,0 +1,470 @@
+category,word,question,generated,expected
+occupation,screenwriter,What is Ivo Perilli's occupation?,Ivo Perilli is a screenwriter.,screenwriter
+occupation,rabbi,What is Ludwig Lichtschein's occupation?,I couldn't find any information on Ludwig Lichtschein.,rabbi
+occupation,priest,What is Christopher Butson's occupation?,I couldn't find any information about a person named Christopher Butson being a priest.,priest
+occupation,philosopher,What is Hate Man's occupation?,"I couldn't find any information about a person named ""Hate Man"" in the provided context.",philosopher
+occupation,screenwriter,What is Franz Seitz Sr.'s occupation?,Franz Seitz Sr.'s occupation is a film director.,film director
+occupation,philosopher,What is Ernst Theodor Echtermeyer's occupation?,Ernst Theodor Echtermeyer was a German philosopher.,philosopher
+occupation,philosopher,What is Andreas Rüdiger's occupation?,I couldn't find any information on Andreas Rüdiger.,philosopher
+occupation,screenwriter,What is Jörg A. Eggers's occupation?,Jörg A. Eggers's occupation is a film director.,film director
+occupation,screenwriter,What is Martin Shapiro's occupation?,Martin Shapiro is a screenwriter.,screenwriter
+occupation,priest,What is Gabriel Gonsum Ganaka's occupation?,I couldn't find any information on Gabriel Gonsum Ganaka.,priest
+occupation,priest,What is Derek Ingram Hill's occupation?,I couldn't find any information on Derek Ingram Hill.,priest
+occupation,hairdresser,What is Uri Nakayama's occupation?,I couldn't find any information about Uri Nakayama being a singer-songwriter.,singer-songwriter
+occupation,priest,What is Michael's occupation?,There is no information in the provided context about a person named Michael.,priest
+occupation,magistrate,What is Harding of Bristol's occupation?,I couldn't find any information about Harding of Bristol's occupation in the provided context.,magistrate
+place of birth,Lubango,In what city was Belarmino Mario Chipongue born?,I do not have information on where Belarmino Mario Chipongue was born.,Lubango
+place of birth,Amsterdam,In what city was Izhar Elias born?,I couldn't find any information about Izhar Elias in the provided context.,Amsterdam
+place of birth,Palmdale,In what city was Lance Hooper born?,I don't have information on Lance Hooper's birthplace.,Palmdale
+place of birth,Moscow,In what city was Aleksandr Nekrasov born?,I couldn't find any information on an individual named Aleksandr Nekrasov.,Moscow
+place of birth,Milan,In what city was Giuseppe Castelli born?,I'm not aware of any information about a person named Giuseppe Castelli.,Milan
+place of birth,Watseka,In what city was Harold Reetz born?,I couldn't find any information on a person named Harold Reetz in the context of Watseka.,Watseka
+place of birth,Buenos Aires,In what city was Gustavo Grondona born?,I couldn't find any information on a person named Gustavo Grondona.,Buenos Aires
+place of birth,New York City,In what city was Charlie Davis born?,I don't have information about a person named Charlie Davis.,New York City
+place of birth,La Chaux-de-Fonds,In what city was Léopold Robert born?,I couldn't find any information on a person named Léopold Robert in the context of La Chaux-de-Fonds.,La Chaux-de-Fonds
+place of birth,Newcastle upon Tyne,In what city was Matt Moralee born?,I couldn't find any information on a person named Matt Moralee being born in Newcastle upon Tyne.,Newcastle upon Tyne
+place of birth,Walton,In what city was Neil Robinson born?,I'm not aware of any information about a person named Neil Robinson.,Walton
+place of birth,New York City,In what city was Lloyd Ultan born?,I couldn't find any information on a person named Lloyd Ultan.,New York City
+place of birth,Cleveland,In what city was Joseph Bova born?,I'm not aware of any information about a person named Joseph Bova being born in Cleveland.,Cleveland
+place of birth,Antwerp,In what city was Maarten van Severen born?,Antwerp.,Antwerp
+place of birth,Warsaw,In what city was Piotr Balcerzak born?,I do not have information on where Piotr Balcerzak was born.,Warsaw
+place of birth,Selkirkshire,In what city was Alison Cockburn born?,I couldn't find any information on Alison Cockburn's birthplace in the provided context.,Selkirkshire
+place of birth,Seraing,In what city was Gilbert Bodart born?,I couldn't find any information on a person named Gilbert Bodart.,Seraing
+place of birth,Buenos Aires,In what city was Gregorio Selser born?,I couldn't find any information on a person named Gregorio Selser.,Buenos Aires
+place of birth,Sanaa,In what city was Tameem Al-Kubati born?,I couldn't find any information on Tameem Al-Kubati.,Sanaa
+place of birth,Antwerp,In what city was Gerard Thomas born?,I'm not aware of any information about a person named Gerard Thomas being born in Antwerp.,Antwerp
+place of birth,Guadalajara,In what city was Ricardo Sánchez born?,I do not have information on a person named Ricardo Sánchez.,Guadalajara
+place of birth,Bronxville,In what city was Robert Creamer born?,I'm not aware of any information about a person named Robert Creamer being born in Bronxville.,Bronxville
+place of birth,Milan,In what city was Claudio Costamagna born?,I couldn't find any information on a person named Claudio Costamagna.,Milan
+place of birth,Cleveland,In what city was John A. Shaud born?,I couldn't find any information on a person named John A. Shaud.,Cleveland
+place of birth,Moscow,In what city was Martyn Liadov born?,I couldn't find any information on a person named Martyn Liadov.,Moscow
+place of birth,New York City,In what city was Robert Crannell Minor born?,I couldn't find any information about Robert Crannell Minor's birthplace in the provided context.,New York City
+place of birth,New York City,In what city was Frederick George Bromberg born?,I couldn't find any information about a person named Frederick George Bromberg in the context of New York City.,New York City
+place of birth,Antwerp,In what city was Willem van Herp born?,I do not have information on a person named Willem van Herp.,Antwerp
+place of birth,Hemel Hempstead,In what city was Matt Hamilton born?,I'm not aware of any information about a person named Matt Hamilton being born in Hemel Hempstead.,Hemel Hempstead
+place of birth,Antwerp,In what city was Willem van Nieulandt II born?,I couldn't find any information on a person named Willem van Nieulandt II.,Antwerp
+place of birth,Milan,In what city was Wayne Cooper born?,I'm not aware of any information about a person named Wayne Cooper being born in Milan.,Milan
+place of birth,Puebla,In what city was Leobardo Soto born?,I do not have information on where Leobardo Soto was born.,Puebla
+place of birth,Moscow,In what city was Vladimir Korotkov born?,I couldn't find any information on a person named Vladimir Korotkov in the provided context.,Moscow
+place of birth,Koper,In what city was Spartaco Schergat born?,I couldn't find any information on Spartaco Schergat.,Koper
+place of birth,New York City,In what city was Louis H. Pollak born?,I couldn't find any information on a person named Louis H. Pollak in the provided context.,New York City
+place of birth,New York City,In what city was Irving Amen born?,I couldn't find any information on an individual named Irving Amen.,New York City
+place of birth,Los Angeles,In what city was Leonard Shure born?,I couldn't find any information on a person named Leonard Shure in the provided context.,Los Angeles
+place of birth,Beijing,In what city was Xue Fei born?,"I'm not aware of any information about a person named Xue Fei being born in Beijing. However, I do know that Xue Fei is a Chinese footballer who was born in Beijing.",Beijing
+place of birth,"Rathmore, County Kerry",In what city was Din Joe Crowley born?,I do not have information on Din Joe Crowley's birthplace.,"Rathmore, County Kerry"
+place of birth,Lyon,In what city was Emmanuel Biron born?,I couldn't find any information on a person named Emmanuel Biron.,Lyon
+place of birth,Leeds,In what city was Percy Scholes born?,I couldn't find any information on a person named Percy Scholes.,Leeds
+place of birth,Amsterdam,In what city was Cornelis Springer born?,Cornelis Springer was born in Amsterdam.,Amsterdam
+place of birth,New York City,In what city was Joseph Moncure March born?,I couldn't find any information about a person named Joseph Moncure March being born in New York City.,New York City
+place of birth,Moscow,In what city was Vladimir Yakovlev born?,I'm not aware of any information about a person named Vladimir Yakovlev being born in Moscow.,Moscow
+place of birth,Warsaw,In what city was Szymon Kataszek born?,I couldn't find any information on a person named Szymon Kataszek.,Warsaw
+place of birth,New York City,In what city was David Granger born?,I'm not aware of any information about a person named David Granger being born in New York City.,New York City
+place of birth,Hattiesburg,In what city was Hank Autry born?,I couldn't find any information on a person named Hank Autry.,Hattiesburg
+place of birth,New York City,In what city was Israel Horowitz born?,I couldn't find any information about Israel Horowitz being born in New York City.,New York City
+place of birth,Los Angeles,In what city was Dick Calmus born?,I couldn't find any information on a person named Dick Calmus.,Los Angeles
+place of birth,Ubud,In what city was Tjokorda Ngurah Wim Sukawati born?,I couldn't find any information on Tjokorda Ngurah Wim Sukawati's birthplace in the provided context.,Ubud
+place of birth,Cleveland,In what city was Wayne G. Hammond born?,I cannot verify the birthplace of Wayne G. Hammond.,Cleveland
+place of birth,Los Mochis,In what city was Jesús Antonio Hernández born?,I do not have information on the birthplace of Jesús Antonio Hernández.,Los Mochis
+place of birth,Amsterdam,In what city was Jan van de Cappelle born?,Jan van de Cappelle was born in Amsterdam.,Amsterdam
+place of birth,Antwerp,In what city was Gaston-François de Witte born?,I couldn't find any information on a person named Gaston-François de Witte.,Antwerp
+place of birth,Kingston,In what city was Bill Short born?,I'm not aware of any information about a person named Bill Short.,Kingston
+place of birth,Amsterdam,In what city was Mimoun Ouled Radi born?,I couldn't find any information about Mimoun Ouled Radi's birthplace in the provided context.,Amsterdam
+place of birth,Milan,In what city was Gino Bianco born?,I couldn't find any information on a person named Gino Bianco in the provided context.,Milan
+place of birth,Turku,In what city was Jaakko Laakso born?,I couldn't find any information on Jaakko Laakso's birthplace in the provided context.,Turku
+place of birth,Kaunas,In what city was Gintautas Umaras born?,I couldn't find any information on Gintautas Umaras.,Kaunas
+place of birth,Guacara,In what city was María Milagros Véliz born?,I couldn't find any information on María Milagros Véliz.,Guacara
+genre,acid house,What genre is Infinity?,Acid house is a genre of electronic dance music that originated in the late 1980s. Infinity by KLF is a well-known track associated with the acid house genre.,acid house
+genre,adventure game,What genre is Universe?,"I'm not sure what you are referring to. Could you provide more context or clarify which ""Universe"" you are asking about?",adventure game
+genre,reality television,What genre is Shedding for the Wedding?,"The genre of the reality television show ""Shedding for the Wedding"" is a weight loss reality television series.",reality television
+genre,Riot grrrl,What genre is Elizabeth Davis?,I couldn't find any information about Elizabeth Davis being a well-known artist in the context of Riot grrrl.,Riot grrrl
+genre,short story,What genre is Point of View?,"I don't see any context provided. Please provide the context for the question ""What genre is Point of View?"" so I can give a more accurate answer.",short story
+genre,reality television,What genre is The Resort?,The Resort is a mystery drama television series.,reality television
+genre,reality television,What genre is Rides?,"I couldn't find any information on a reality TV show called ""Rides."" However, I found a reality TV show called ""Rides with Jay Leno"" and another one called ""Rides"" which is a reality TV series that premiered on the History Channel in 2012.",reality television
+genre,reality television,What genre is Addicted to Beauty?,"I couldn't find the specific information about the genre of ""Addicted to Beauty"" in the provided context.",reality television
+genre,industrial rock,What genre is Drill?,"I couldn't find any information about the genre ""Drill"" in the context of industrial rock.",industrial rock
+genre,reality television,What genre is House Guest?,"I'm not sure what genre ""House Guest"" is. Can you provide more information about it?",reality television
+genre,mystery film,What genre is Blind Spot?,"I'm not aware of a mystery film called ""Blind Spot."" However, I do know of a 2018 German mystery film called ""Blind Spot"" directed by Chris Kraus.",mystery film
+genre,reality television,What genre is Picture This?,"I couldn't find any information about the specific reality TV show ""Picture This."" However, I can tell you that there have been several reality TV shows with similar titles.",reality television
+genre,short story,What genre is First Love?,"I'm not provided with the context of the story ""First Love"". However, I can provide some possible genres associated with the term ""First Love"". 
+
+""First Love"" can be associated with the following genres: 
+
+1. Romance 
+2. Young Adult Fiction 
+3. Coming-of-Age",short story
+genre,reality television,What genre is The Club?,"I'm not sure what specific show ""The Club"" you are referring to, as there are multiple shows with that title. However, one popular reality TV show called ""The Club"" is a British reality television series that aired on Sky One.",reality television
+genre,mystery film,What genre is Return?,"I'm not sure what film ""Return"" you are referring to. Can you provide more information about the film, such as its title or director?",mystery film
+genre,blaxploitation,What genre is Tough?,Blaxploitation.,blaxploitation
+genre,funk rock,What genre is Crew?,"I couldn't find any information about the band ""Crew"" in the provided context. However, I can tell you that funk rock is a genre of music that combines elements of funk and rock music.",funk rock
+genre,paranormal romance,What genre is Tempting Danger?,"I couldn't find any information about a book called ""Tempting Danger"" in the provided context. However, I can tell you that ""Tempting Danger"" is a paranormal romance novel by Lori Foster.",paranormal romance
+genre,reality television,What genre is The Club?,"I'm not sure what specific show ""The Club"" you are referring to, as there are multiple shows with that title. However, one popular reality TV show called ""The Club"" is a British reality television series that aired on Sky One.",reality television
+genre,short story,What genre is Deep End?,"I'm not aware of the specific short story you are referring to. Can you provide more context or information about the short story ""Deep End""?",short story
+genre,romance novel,What genre is The Wedding?,"I'm not sure what ""The Wedding"" refers to, as there are multiple romance novels with that title. However, one popular romance novel is ""The Wedding"" by Julie Garwood.",romance novel
+genre,electronic music,What genre is Nova?,"I'm not sure which ""Nova"" you are referring to. There are several artists and bands with the name Nova in the electronic music scene. Could you provide more context or information about the specific Nova you are asking about?",electronic music
+genre,short story,What genre is In Deep?,"I'm not sure what ""In Deep"" refers to in the context of science fiction. Can you provide more information about ""In Deep"" so I can give a more accurate answer?",science fiction
+genre,short story,What genre is Ordeal in Space?,I cannot verify the genre of Ordeal in Space.,short story
+genre,reality television,What genre is The Arrangement?,The Arrangement is a drama television series.,reality television
+genre,thrash metal,What genre is Epidemic?,"I couldn't find any information about a well-known band named ""Epidemic"" in the context of thrash metal.",thrash metal
+genre,thrash metal,What genre is Criminal?,Criminal is a thrash metal band.,thrash metal
+genre,short story,What genre is The Test?,"I don't have enough information about the story ""The Test"" to determine its genre. Can you provide more context or details about the story?",short story
+genre,short story,What genre is Risk?,"I'm not provided with any context about a story called ""Risk"".",short story
+genre,factual television,What genre is Territory Cops?,"I couldn't find any information on the genre of ""Territory Cops"".",factual television
+genre,mystery film,What genre is The Unknown?,"The Unknown is a 1927 American silent horror film directed by Tod Browning, starring Lon Chaney.",mystery film
+genre,electronic music,What genre is Studio?,"I'm not sure what you are referring to with ""Studio"". There are several possibilities, such as Studio (album) by Daft Punk, or Studio (EP) by Daft Punk, or Studio (EP) by Daft Punk, or Studio (EP) by Daft Punk, or Studio (EP)",electronic music
+genre,mystery film,What genre is Deadline?,"I'm not sure what film ""Deadline"" you are referring to. There are several films with that title. Can you provide more information about the film you are asking about, such as the director or release year?",mystery film
+genre,mystery film,What genre is In the Next Room?,"I couldn't find any information about a mystery film called ""In the Next Room.""",mystery film
+genre,electronic music,What genre is Deadline?,"I'm not sure what you are referring to with ""Deadline"". There are several electronic music artists and songs with that name. Can you provide more context or information about the Deadline you are asking about?",electronic music
+genre,reality television,What genre is The Restaurant?,"The genre of the reality television show ""The Restaurant"" is a reality TV show, specifically a competition series, and also a documentary series, as it follows the real-life experiences of a restaurant owner.",reality television
+genre,electronic music,What genre is Will?,"I'm not sure which Will you are referring to, as there are many artists in the electronic music scene with the name Will. However, some notable electronic music artists with the name Will include Will Sparks, Will Bailey, and Will Sparks' fellow Australian DJ Will Atkinson",electronic music
+genre,short story,"What genre is Tempting The Gods: The Selected Stories of Tanith Lee, Volume 1?","The genre of ""Tempting The Gods: The Selected Stories of Tanith Lee, Volume 1"" is Fantasy.",fantasy
+genre,reality television,What genre is The Shot?,"I'm not sure what ""The Shot"" is. Can you provide more context or information about the show ""The Shot"" you are referring to?",reality television
+genre,short story,What genre is First Law?,"I'm not provided with the context of the story. However, I can provide some possible answers based on the title ""First Law"". 
+
+In science fiction, ""The First Law"" is a series of fantasy novels by Joe Abercrombie.",short story
+genre,industrial rock,What genre is Info?,"I couldn't find any information about a well-known artist or band named ""Info"" in the context of industrial rock. However, I can tell you that the band ""Info"" is a lesser-known industrial rock band from the 1980s.",industrial rock
+genre,bebop,What genre is Out There?,"I couldn't find any information about a song called ""Out There"" in the bebop genre.",bebop
+genre,experimental film,What genre is Report?,"I'm not sure what you are referring to, could you provide more context or information about the film ""Report""?",experimental film
+genre,electronic music,What genre is 14th?,"I'm not sure what you are referring to with ""14th"". Could you provide more context or clarify which ""14th"" you are asking about?",electronic music
+father,Ranuccio I Farnese,Who is the father of Francesco Maria Farnese?,Ranuccio I Farnese is the father of Francesco Maria Farnese.,Ranuccio I Farnese
+father,Jan Campert,Who is the father of Remco Campert?,Jan Campert is the father of Remco Campert.,Jan Campert
+father,Shi Hu,Who is the father of Shi Jian?,I don't have information about Shi Jian's father.,Shi Hu
+father,Peter Wintonick,Who is the father of Mira Burt-Wintonick?,I couldn't find any information on Mira Burt-Wintonick's father.,Peter Wintonick
+father,Alfred Ely Beach,Who is the father of Frederick Converse Beach?,I am unable to verify who the father of Frederick Converse Beach is.,Alfred Ely Beach
+father,Sunday Silence,Who is the father of Dance in the Dark?,I'm not aware of any information about a person named Dance in the Dark.,Sunday Silence
+father,Broad Brush,Who is the father of Concern?,"I'm not aware of any information about a person named ""Concern"" having a father.",Broad Brush
+father,Heraclius II of Georgia,Who is the father of Anton II of Georgia?,I am unable to verify the father of Anton II of Georgia.,Heraclius II of Georgia
+father,Frederick Storrs Turner,Who is the father of Alfred Jefferis Turner?,I couldn't find any information on Frederick Storrs Turner being the father of Alfred Jefferis Turner.,Frederick Storrs Turner
+father,Karel Zeman,Who is the father of Ludmila Zeman?,I do not have information on who the father of Ludmila Zeman is.,Karel Zeman
+father,Constantine I of Georgia,Who is the father of George?,I don't have enough information to answer that question.,Constantine I of Georgia
+father,Gofraid mac Arailt,Who is the father of Ragnall mac Gofraid?,Gofraid mac Arailt is the father of Ragnall mac Gofraid.,Gofraid mac Arailt
+father,Henry II of England,Who is the father of Morgan?,I'm not aware of any information about a person named Morgan being the child of Henry II of England.,Henry II of England
+father,Max Perutz,Who is the father of Robin Perutz?,I do not have information on the father of Robin Perutz.,Max Perutz
+father,Macrianus Major,Who is the father of Macrianus Minor?,Macrianus Major was the father of Macrianus Minor.,Macrianus Major
+father,Count Fleet,Who is the father of One Count?,The father of Count Fleet is Reigh Count.,Count Fleet
+country,India,In what country is Bandrakottai?,I couldn't find any information on a location called Bandrakottai in the provided context.,India
+country,Norway,In what country is Gaustadalléen?,I couldn't find any information about Gaustadalléen in the provided context.,Norway
+country,Lebanon,In what country is Al-Fajr Arabsalim?,I couldn't find any information about Al-Fajr Arabsalim in the provided context.,Lebanon
+country,India,In what country is Tholuvankadu?,I couldn't find any information on Tholuvankadu.,India
+country,Azerbaijan,In what country is Dəhnəxəlil?,I couldn't find any information on Dəhnəxəlil.,Azerbaijan
+country,Vietnam,In what country is Cổ Linh?,I couldn't find any information on Cổ Linh.,Vietnam
+country,Azerbaijan,In what country is İnstitut?,"I couldn't find any information about ""İnstitut"" in the provided context.",Azerbaijan
+country,India,"In what country is Kondh, Surendranagar?",India,India
+country,Finland,In what country is Rafael Erich's cabinet?,I couldn't find any information about Rafael Erich's cabinet in the provided context.,Finland
+country,Finland,In what country is Tervola Radio and TV-Mast?,Finland.,Finland
+country,Slovenia,In what country is Grant?,I couldn't find any information about a place named Grant in the context of Slovenia.,Slovenia
+country,Vietnam,In what country is Ba Thín River?,Laos,Vietnam
+country,India,In what country is Kodki?,"I couldn't find any information on a location called ""Kodki"" in the provided context of India.",India
+country,Norway,In what country is Storsteinnes Chapel?,I couldn't find the specific location of Storsteinnes Chapel in the provided context.,Norway
+country,India,In what country is Sagoni?,I couldn't find any information on a place called Sagoni in the provided context.,India
+country,India,In what country is Deodara?,I couldn't find any information about a place called Deodara in the provided context.,India
+country,Finland,In what country is Archipelago Museum?,I couldn't find the specific information about the Archipelago Museum in the provided context.,Finland
+country,Vietnam,In what country is Ô Lâm?,I couldn't find any information about Ô Lâm.,Vietnam
+producer,Hal Roach,Who was the producer of About Face?,"I'm sorry, but I do not have information on the producer of the film ""About Face"".",Hal Roach
+producer,Ahmed Ahmed,Who was the producer of Just Like Us?,I do not have information on the producer of Just Like Us.,Ahmed Ahmed
+producer,John Zorn,Who was the producer of Kristallnacht?,"I couldn't find any information on a work called ""Kristallnacht"" by John Zorn.",John Zorn
+producer,Kroger Babb,Who was the producer of One Too Many?,I couldn't find any information on a person named Kroger Babb.,Kroger Babb
+producer,Hal Roach,Who was the producer of The Big Show?,"I couldn't find any information about a person named Hal Roach producing a show called ""The Big Show"". However, I do know that Hal Roach was a film producer and director, and he produced many films and shows.",Hal Roach
+producer,Krzysztof Zanussi,Who was the producer of The Supplement?,"I couldn't find any information about a film called ""The Supplement"" produced by Krzysztof Zanussi.",Krzysztof Zanussi
+producer,John Zorn,Who was the producer of Nani Nani?,I do not have information on the producer of Nani Nani by John Zorn.,John Zorn
+producer,Pat Powers,Who was the producer of The Trap?,"I couldn't find any information on a person named Pat Powers being a producer of ""The Trap"".",Pat Powers
+producer,Beaumont Smith,Who was the producer of The Hayseeds' Back-blocks Show?,I do not have information on who produced The Hayseeds' Back-blocks Show.,Beaumont Smith
+producer,Oskar Messter,Who was the producer of Fear?,"I couldn't find any information about a film called ""Fear"" produced by Oskar Messter.",Oskar Messter
+producer,Rob Nilsson,Who was the producer of Northern Lights?,I couldn't find any information on a film called Northern Lights produced by Rob Nilsson.,Rob Nilsson
+producer,Roger Corman,Who was the producer of The Young Racers?,Roger Corman was the producer of The Young Racers.,Roger Corman
+producer,Kevin Spacey,Who was the producer of Envelope?,"I'm not aware of any information about a production called ""Envelope"" that Kevin Spacey was involved in.",Kevin Spacey
+producer,Hal Roach,Who was the producer of Our Wife?,Hal Roach was the producer of Our Wife.,Hal Roach
+producer,Huntington Hartford,Who was the producer of Face to Face?,"I'm sorry, but I do not have information on who produced Face to Face.",Huntington Hartford
+producer,David Devine,Who was the producer of Handel's Last Chance?,"I am sorry, but I do not have information on who produced Handel's Last Chance.",David Devine
+producer,Steve Roach,Who was the producer of Early Man?,"I'm sorry, I do not have information on who produced Early Man.",Steve Roach
+producer,Justin Bieber,Who was the producer of Turn to You?,"I'm not aware of a song called ""Turn to You"" by Justin Bieber.",Justin Bieber
+producer,Ray Wilson,Who was the producer of She?,I'm not sure who the producer of She is. Can you provide more context about Ray Wilson and She?,Ray Wilson
+producer,James Cruze,Who was the producer of The Garden of Weeds?,I am unable to verify the producer of The Garden of Weeds.,James Cruze
+producer,Bob Neuwirth,Who was the producer of Look Up?,"I'm sorry, I do not have information on who produced the movie Look Up.",Bob Neuwirth
+producer,Jack Benny,Who was the producer of The Lucky Stiff?,"I'm sorry, I do not have information on who produced The Lucky Stiff.",Jack Benny
+producer,Brian Alexander Morgan,Who was the producer of A Moment?,I do not have information on who produced A Moment by Brian Alexander Morgan.,Brian Alexander Morgan
+producer,Hal Roach,Who was the producer of Saturday Morning?,"I'm sorry, I do not have information on who produced Saturday Morning.",Hal Roach
+producer,King Vidor,Who was the producer of The Jack-Knife Man?,"I am sorry, but I do not have information on the producer of The Jack-Knife Man.",King Vidor
+producer,Hal Roach,Who was the producer of 45 Minutes from Hollywood?,"I am sorry, but I do not have information on who produced 45 Minutes from Hollywood.",Hal Roach
+producer,Clive Holden,Who was the producer of Trains of Winnipeg?,I do not have information on the producer of Trains of Winnipeg.,Christine Fellows
+producer,Paulo Porto,Who was the producer of In the Family?,"I couldn't find any information on a person named Paulo Porto being a producer of a film or show called ""In the Family"".",Paulo Porto
+producer,Tony Visconti,Who was the producer of Cinema?,"I couldn't find any information about a person named Tony Visconti being a producer of a film called ""Cinema"". However, I do know that Tony Visconti is a British record producer, musician, and audio engineer.",Tony Visconti
+producer,Hall Bartlett,Who was the producer of Changes?,I couldn't find any information on a person named Hall Bartlett.,Hall Bartlett
+producer,Tarachand Barjatya,Who was the producer of Saanch Ko Aanch Nahin?,"I am sorry, I do not have information on the producer of Saanch Ko Aanch Nahin.",Tarachand Barjatya
+producer,Luna Sea,Who was the producer of Shine?,I couldn't find any information about the producer of Shine in the provided context.,Luna Sea
+producer,Ken Burns,Who was the producer of The Congress?,"I'm not aware of any information about a film called ""The Congress"" produced by Ken Burns. However, I do know that Ken Burns is a well-known American filmmaker, and I can provide information on some of his notable works.",Ken Burns
+director,Darezhan Omirbaev,Who was the director of The Road?,Darezhan Omirbaev was the director of The Road.,Darezhan Omirbaev
+director,Lynne Littman,Who was the director of Number Our Days?,Lynne Littman was the director of Number Our Days.,Lynne Littman
+director,Kim Ki-young,Who was the director of Asphalt?,"I couldn't find any information about a film called ""Asphalt"" directed by Kim Ki-young.",Kim Ki-young
+director,Lon Chaney,Who was the director of The Trust?,"I couldn't find any information about a film called ""The Trust"" directed by Lon Chaney.",Lon Chaney
+director,Umberto Lenzi,Who was the director of Pirates of Malaysia?,Umberto Lenzi was the director of Pirates of Malaysia.,Umberto Lenzi
+director,Ron Underwood,Who was the director of Into the Deep?,"I'm sorry, I do not have information on a film called ""Into the Deep"" directed by Ron Underwood.",Ron Underwood
+director,Takashi Miike,Who was the director of Silver?,Takashi Miike was the director of the film Silver.,Takashi Miike
+director,Clifton Ko,Who was the director of Winner Takes All?,"I am sorry, I do not have information on the director of Winner Takes All.",Clifton Ko
+director,Alexandre Astruc,Who was the director of One Life?,"I'm sorry, I do not have information on a film called ""One Life"" directed by Alexandre Astruc.",Alexandre Astruc
+director,Maurice Elvey,Who was the director of The Clairvoyant?,Maurice Elvey was the director of The Clairvoyant.,Maurice Elvey
+director,Mario Camerini,Who was the director of Rails?,"Mario Camerini was the director of the film ""Rails""",Mario Camerini
+director,Keisuke Kinoshita,Who was the director of Army?,I couldn't find any information about a person named Keisuke Kinoshita being a director of the Army.,Keisuke Kinoshita
+director,James Cruze,Who was the director of Welcome Home?,"I couldn't find any information on a film called ""Welcome Home"" directed by James Cruze.",James Cruze
+director,Hugo del Carril,Who was the director of The White Land?,The director of The White Land was Hugo del Carril.,Hugo del Carril
+director,Junji Sakamoto,Who was the director of Face?,Junji Sakamoto was the director of Face.,Junji Sakamoto
+director,Dougal Wilson,Who was the director of No Pressure?,Dougal Wilson was the director of No Pressure.,Dougal Wilson
+director,Kelly Overton,Who was the director of The Collective?,I do not have information on who the director of The Collective is.,Kelly Overton
+director,Maurice Elvey,Who was the director of Home?,Maurice Elvey was the director of Home.,Maurice Elvey
+director,Maurice Elvey,Who was the director of Innocent?,Maurice Elvey was the director of Innocent.,Maurice Elvey
+director,Maurice Elvey,Who was the director of Driven?,"I couldn't find any information about a film called ""Driven"" directed by Maurice Elvey.",Maurice Elvey
+director,Maurizio Ponzi,Who was the director of Son contento?,"I am sorry, but I do not have information on who directed Son contento.",Maurizio Ponzi
+director,Abbas Kiarostami,Who was the director of Five?,Abbas Kiarostami was the director of Five.,Abbas Kiarostami
+director,Victor Schertzinger,Who was the director of Fashions in Love?,"I am sorry, I do not have information on the director of Fashions in Love.",Victor Schertzinger
+director,Jos Stelling,Who was the director of The Illusionist?,"I couldn't find any information about a film called ""The Illusionist"" directed by Jos Stelling.",Jos Stelling
+director,Arlene Sanford,Who was the director of Coming Home?,Arlene Sanford was the director of Coming Home.,Arlene Sanford
+director,Domenico Paolella,Who was the director of Execution?,I do not have information on who the director of Execution by Domenico Paolella is.,Domenico Paolella
+director,Maurice Elvey,Who was the director of Nelson?,Maurice Elvey was the director of Nelson.,Maurice Elvey
+director,Victor Schertzinger,Who was the director of Bread?,"I couldn't find any information about a film or TV show called ""Bread"" directed by Victor Schertzinger.",Victor Schertzinger
+director,Stan Brakhage,Who was the director of Songs?,"I couldn't find any information about a film called ""Songs"" directed by Stan Brakhage.",Stan Brakhage
+director,Kenneth Branagh,Who was the director of Listening?,"I couldn't find any information about a film or project called ""Listening"" directed by Kenneth Branagh.",Kenneth Branagh
+director,Archie Mayo,Who was the director of Desirable?,Archie Mayo was the director of Desirable.,Archie Mayo
+director,Howard Bretherton,Who was the director of Up in the Air?,"I couldn't find any information about a film called ""Up in the Air"" directed by Howard Bretherton.",Howard Bretherton
+director,Krzysztof Zanussi,Who was the director of The Supplement?,Krzysztof Zanussi was the director of The Supplement.,Krzysztof Zanussi
+director,Herbert Mason,Who was the director of It's in the Bag?,"I couldn't find any information on a Herbert Mason directing a film called ""It's in the Bag.""",Herbert Mason
+director,Albert Capellani,Who was the director of The Easiest Way?,"I am sorry, I do not have information on who directed The Easiest Way.",Albert Capellani
+director,Darezhan Omirbaev,Who was the director of Student?,"Darezhan Omirbaev was the director of the film ""Student"".",Darezhan Omirbaev
+director,James Cruze,Who was the director of Beggar on Horseback?,The director of Beggar on Horseback was John Cromwell and also George S. Kaufman,James Cruze
+director,Alessandro Blasetti,Who was the director of Sun?,Alessandro Blasetti was the director of Sun.,Alessandro Blasetti
+director,Topel Lee,Who was the director of Basement?,"I couldn't find any information on a person named Topel Lee directing a film called ""Basement"".",Topel Lee
+director,Junji Sakamoto,Who was the director of My House?,Junji Sakamoto was the director of My House.,Junji Sakamoto
+director,Gerardo Vera,Who was the director of Second Skin?,"I couldn't find any information about a film called ""Second Skin"" directed by Gerardo Vera.",Gerardo Vera
+director,Lesley Selander,Who was the director of The Barrier?,Lesley Selander was the director of The Barrier.,Lesley Selander
+director,King Vidor,Who was the director of His Hour?,"I'm sorry, but I do not have information on a film called ""His Hour"" directed by King Vidor.",King Vidor
+director,James Cruze,Who was the director of The Dub?,"I couldn't find any information on a film called ""The Dub"" directed by James Cruze.",James Cruze
+director,Dirk Maggs,Who was the director of Independence Day UK?,I do not have information on the director of Independence Day UK.,Dirk Maggs
+director,Timo Rose,Who was the director of Barricade?,"I couldn't find any information on a film called ""Barricade"" directed by Timo Rose.",Timo Rose
+director,Gordon Douglas,Who was the director of The Pigskin Palooka?,Gordon Douglas was the director of The Pigskin Palooka.,Gordon Douglas
+director,Alessandro Di Robilant,Who was the director of Forever?,I do not have information on the director of Forever.,Alessandro Di Robilant
+director,Ray Enright,Who was the director of Slim?,"Ray Enright was the director of the 1937 film ""Slim"".",Ray Enright
+director,Duccio Tessari,Who was the director of Puzzle?,"I couldn't find any information about a film called ""Puzzle"" directed by Duccio Tessari.",Duccio Tessari
+director,Steven Schachter,Who was the director of The Con?,"I couldn't find any information on a director named Steven Schachter directing a film called ""The Con"".",Steven Schachter
+director,John Brahm,Who was the director of Rio?,I'm not aware of any information about a director named John Brahm being associated with the movie Rio.,John Brahm
+director,Luis Alcoriza,Who was the director of Young People?,Luis Alcoriza was the director of Young People.,Luis Alcoriza
+director,David Nutter,Who was the director of Pilot?,"I'm sorry, I do not have information on who directed the Pilot.",David Nutter
+director,Allan Arkush,Who was the director of The Second Coming?,"I am sorry, I do not have information on who directed The Second Coming.",Allan Arkush
+director,Maurice Elvey,Who was the director of The Spider?,Maurice Elvey was the director of The Spider.,Maurice Elvey
+director,Walter Forde,Who was the director of Wait and See?,Walter Forde was the director of Wait and See.,Walter Forde
+director,Herbert Mason,Who was the director of Fingers?,I couldn't find any information about a Herbert Mason directing a film called Fingers.,Herbert Mason
+director,King Vidor,Who was the director of The Other Half?,King Vidor was the director of The Other Half.,King Vidor
+director,Mario Camerini,Who was the director of Love Story?,"I couldn't find any information about a film called ""Love Story"" directed by Mario Camerini.",Mario Camerini
+director,Tetsuo Shinohara,Who was the director of First Love?,"I couldn't find any information about a director named Tetsuo Shinohara directing a film called ""First Love"".",Tetsuo Shinohara
+director,Allan Arkush,Who was the director of Lizards?,"I couldn't find any information on a film called ""Lizards"" directed by Allan Arkush.",Allan Arkush
+director,Abbas Kiarostami,Who was the director of So Can I?,Abbas Kiarostami was the director of So Can I.,Abbas Kiarostami
+director,Im Sang-soo,Who was the director of Tears?,"I couldn't find any information about a person named Im Sang-soo directing a film called ""Tears"".",Im Sang-soo
+director,Pedro Costa,Who was the director of O Sangue?,Pedro Costa was the director of O Sangue.,Pedro Costa
+director,Tian Zhuangzhuang,Who was the director of September?,Tian Zhuangzhuang was the director of September.,Tian Zhuangzhuang
+director,Ron Mann,Who was the director of Go Further?,"I couldn't find any information on a person named Ron Mann being the director of a film called ""Go Further"".",Ron Mann
+director,Maurice Elvey,Who was the director of The Man with the Twisted Lip?,Maurice Elvey was the director of The Man with the Twisted Lip.,Maurice Elvey
+director,Edward Dmytryk,Who was the director of Under Age?,Edward Dmytryk was the director of Under Age.,Edward Dmytryk
+director,Ahmed Ahmed,Who was the director of Just Like Us?,"I am sorry, I do not have information on the director of Just Like Us.",Ahmed Ahmed
+director,Fridrikh Ermler,Who was the director of The Turning Point?,Fridrikh Ermler was the director of The Turning Point.,Fridrikh Ermler
+director,Takashi Miike,Who was the director of Family?,"Takashi Miike directed the film ""Family"".",Takashi Miike
+director,Ewald André Dupont,Who was the director of The Scarf?,Ewald André Dupont was the director of The Scarf.,Ewald André Dupont
+director,Rolf Hansen,Who was the director of Desires?,The director of Desires was Rolf Hansen.,Rolf Hansen
+capital of,Lavalleja Department,What is Minas the capital of?,Minas is the capital of Lavalleja Department.,Lavalleja Department
+capital of,Spas-Demensky District,What is Spas-Demensk the capital of?,The Spas-Demensky District is the capital of Kursk Oblast.,Spas-Demensky District
+capital of,Aceh Timur,What is Idi Rayeuk the capital of?,Idi Rayeuk is the capital of Aceh Timur.,Aceh Timur
+screenwriter,Krzysztof Zanussi,Who was the screenwriter for The Supplement?,"I couldn't find any information on a film called ""The Supplement"" in relation to Krzysztof Zanussi.",Krzysztof Zanussi
+screenwriter,Abbas Kiarostami,Who was the screenwriter for The Experience?,"I'm sorry, but I do not have information on the screenwriter for The Experience.",Abbas Kiarostami
+screenwriter,Mario Camerini,Who was the screenwriter for Rails?,"I couldn't find any information on a film called ""Rails"" directed by Mario Camerini.",Mario Camerini
+screenwriter,Lukas Moodysson,Who was the screenwriter for The New Country?,Lukas Moodysson was the screenwriter for The New Country.,Lukas Moodysson
+screenwriter,Luis Alcoriza,Who was the screenwriter for ...Y mañana serán mujeres?,I do not have information on the screenwriter for...Y mañana serán mujeres.,Luis Alcoriza
+screenwriter,Luciano Emmer,Who was the screenwriter for Terza liceo?,The screenwriter for Terza liceo was Luciano Emmer.,Luciano Emmer
+screenwriter,Ingmar Bergman,Who was the screenwriter for Eva?,"Ingmar Bergman was the screenwriter for the film ""Eva""",Ingmar Bergman
+screenwriter,Mark Twain,Who was the screenwriter for The One Million Pound Note?,I am unable to verify who the screenwriter for The One Million Pound Note was.,Mark Twain
+screenwriter,Kalinda Vazquez,Who was the screenwriter for Into the Deep?,"I couldn't find any information on a screenwriter named Kalinda Vazquez for a movie or show called ""Into the Deep"".",Kalinda Vazquez
+screenwriter,Anthony Kimmins,Who was the screenwriter for Keep Fit?,"I am sorry, I do not have information on who the screenwriter for Keep Fit was.",Anthony Kimmins
+screenwriter,Michele Placido,Who was the screenwriter for Close Friends?,I cannot verify who the screenwriter for Close Friends was.,Michele Placido
+screenwriter,James Hadley Chase,Who was the screenwriter for Chair de poule?,"I am sorry, I do not have information on the screenwriter for Chair de poule.",James Hadley Chase
+screenwriter,John Pardee,Who was the screenwriter for I Remember That?,"I couldn't find any information on a person named Joey Murphy being associated with a film called ""I Remember That.""",Joey Murphy
+screenwriter,Tian Han,Who was the screenwriter for Three Modern Women?,Tian Han was the screenwriter for Three Modern Women.,Tian Han
+screenwriter,Abbas Kiarostami,Who was the screenwriter for So Can I?,I couldn't find any information about the screenwriter for So Can I.,Abbas Kiarostami
+screenwriter,Im Sang-soo,Who was the screenwriter for Tears?,"I couldn't find any information about a person named Im Sang-soo being a screenwriter for a movie called ""Tears"".",Im Sang-soo
+screenwriter,Nino Manfredi,Who was the screenwriter for Café Express?,I do not have information on the screenwriter for Café Express.,Nanni Loy
+screenwriter,Abbas Kiarostami,Who was the screenwriter for Roads of Kiarostami?,I cannot verify the screenwriter for Roads of Kiarostami.,Abbas Kiarostami
+screenwriter,Alex Chandon,Who was the screenwriter for Pervirella?,I couldn't find any information on a person named Alex Chandon being associated with the screenwriting of Pervirella.,Alex Chandon
+screenwriter,Ben Elton,Who was the screenwriter for Bomb?,Ben Elton was the screenwriter for Bomb.,Ben Elton
+screenwriter,Kyle Killen,Who was the screenwriter for Pilot?,"I couldn't find any information on a person named Kyle Killen being a screenwriter for a specific pilot. However, I found information on a screenwriter named Kyle Killen who is known for his work on the TV series ""Lone Star"" and ""Bates Motel"".",Kyle Killen
+screenwriter,Alexandre Astruc,Who was the screenwriter for One Life?,I am unable to verify who the screenwriter for One Life was.,Alexandre Astruc
+screenwriter,Darezhan Omirbaev,Who was the screenwriter for The Road?,Darezhan Omirbaev was the screenwriter for The Road.,Darezhan Omirbaev
+screenwriter,Sabina Guzzanti,Who was the screenwriter for Viva Zapatero!?,Sabina Guzzanti was the screenwriter for Viva Zapatero!.,Sabina Guzzanti
+screenwriter,Duccio Tessari,Who was the screenwriter for Sons of Satan?,Duccio Tessari was the screenwriter for Sons of Satan.,Duccio Tessari
+screenwriter,Abbas Kiarostami,Who was the screenwriter for A Wedding Suit?,"I'm sorry, but I do not have access to a search engine to verify the screenwriter of A Wedding Suit.",Abbas Kiarostami
+screenwriter,Abbas Kiarostami,Who was the screenwriter for Rang-ha?,"I couldn't find any information on a film called ""Rang-ha"" in relation to Abbas Kiarostami.",Abbas Kiarostami
+screenwriter,Jacques Jaccard,Who was the screenwriter for Trapped in a Forest Fire?,I do not have information on the screenwriter for Trapped in a Forest Fire.,Jacques Jaccard
+screenwriter,Hermann Bahr,Who was the screenwriter for Fashions in Love?,I do not have information on the screenwriter for Fashions in Love.,Hermann Bahr
+screenwriter,Sergio Rubini,Who was the screenwriter for The Bride’s Journey?,"I am sorry, I do not have information on who the screenwriter for The Bride's Journey is.",Sergio Rubini
+screenwriter,Sergio Rubini,Who was the screenwriter for Our Land?,"I couldn't find any information on a film called ""Our Land"" with a screenwriter named Sergio Rubini.",Sergio Rubini
+screenwriter,Abbas Kiarostami,Who was the screenwriter for The Journey?,"I'm not aware of the screenwriter for the film ""The Journey"" directed by Abbas Kiarostami.",Abbas Kiarostami
+screenwriter,Alessandro Blasetti,Who was the screenwriter for Sun?,"I couldn't find any information about a film called ""Sun"" written by Alessandro Blasetti.",Alessandro Blasetti
+screenwriter,Ben Elton,Who was the screenwriter for Flood?,Ben Elton was the screenwriter for Flood.,Ben Elton
+screenwriter,John Pardee,Who was the screenwriter for Like It Was?,"I couldn't find any information on a person named Joey Murphy being a screenwriter for a movie or show called ""Like It Was"".",Joey Murphy
+screenwriter,Sreekumaran Thampi,Who was the screenwriter for Enikkum Oru Divasam?,Sreekumaran Thampi was the screenwriter for Enikkum Oru Divasam.,Sreekumaran Thampi
+screenwriter,Ben Elton,Who was the screenwriter for Interesting?,"I couldn't find any information on a work called ""Interesting"" by Ben Elton.",Ben Elton
+screenwriter,Lukas Moodysson,Who was the screenwriter for Container?,Lukas Moodysson was the screenwriter for Container.,Lukas Moodysson
+screenwriter,Tedd Pierce,"Who was the screenwriter for Hold the Lion, Please?","I couldn't find any information on a person named Tedd Pierce being a screenwriter for a film called ""Hold the Lion, Please.""",Tedd Pierce
+screenwriter,Bernard Campan,Who was the screenwriter for The Bet?,I couldn't find any information on a person named Didier Bourdon being a screenwriter for The Bet.,Didier Bourdon
+screenwriter,Paul Greengrass,Who was the screenwriter for Open Fire?,"I'm not aware of any information about a film called ""Open Fire"" directed by Paul Greengrass.",Paul Greengrass
+screenwriter,Lon Chaney,Who was the screenwriter for The Trap?,I am unable to verify who the screenwriter for The Trap was.,Lon Chaney
+screenwriter,William Faulkner,Who was the screenwriter for Flesh?,"The screenwriter for the 1950 film ""Flesh"" was Norman Krasna, but it was also written by Norman Krasna and Norman Lloyd, however, the film was based on a novel by  William Faulkner",William Faulkner
+screenwriter,Maurice Elvey,Who was the screenwriter for Home?,I am unable to verify who the screenwriter for Home was.,Maurice Elvey
+screenwriter,Pierre Granier-Deferre,Who was the screenwriter for The Medic?,"I couldn't find any information on a film called ""The Medic"" with a screenwriter named Pierre Granier-Deferre.",Pierre Granier-Deferre
+screenwriter,Jack Hibberd,Who was the screenwriter for Dimboola?,Jack Hibberd was the screenwriter for Dimboola.,Jack Hibberd
+screenwriter,Darezhan Omirbaev,Who was the screenwriter for Student?,Darezhan Omirbaev was the screenwriter for the film Student.,Darezhan Omirbaev
+screenwriter,Shunji Iwai,Who was the screenwriter for Picnic?,"I couldn't find any information about a film called ""Picnic"" directed by Shunji Iwai.",Shunji Iwai
+screenwriter,Francesco Maselli,Who was the screenwriter for The Abandoned?,I am unable to verify who the screenwriter for The Abandoned was.,Francesco Maselli
+screenwriter,King Vidor,Who was the screenwriter for Three Wise Fools?,I am unable to verify who the screenwriter for Three Wise Fools was.,King Vidor
+screenwriter,Tian Han,Who was the screenwriter for Three Women?,I am unable to verify who the screenwriter for Three Women was.,Tian Han
+screenwriter,Abbas Kiarostami,Who was the screenwriter for ABC Africa?,The screenwriter for ABC Africa was Abbas Kiarostami.,Abbas Kiarostami
+screenwriter,Marco Denevi,Who was the screenwriter for The Accused?,"I am sorry, but I do not have information on who the screenwriter for The Accused is.",Mario Soffici
+screenwriter,Albert Capellani,Who was the screenwriter for Daybreak?,"I am sorry, I do not have information on who the screenwriter for Daybreak was.",Albert Capellani
+screenwriter,Mordecai Richler,Who was the screenwriter for The Street?,"I couldn't find any information about a screenwriter for ""The Street"" in the context of Mordecai Richler.",Mordecai Richler
+screenwriter,Ratnakar Matkari,Who was the screenwriter for Investment?,"I couldn't find any information on Ratnakar Matkari's screenwriter for the movie ""Investment"".",Ratnakar Matkari
+screenwriter,Henry Fielding,Who was the screenwriter for Tom Jones?,"The screenwriter for the film ""Tom Jones"" was John Osborne.",Henry Fielding
+composer,Alberto Ginastera,Who was the composer of Harp Concerto?,Alberto Ginastera was the composer of the Harp Concerto.,Alberto Ginastera
+composer,John Kander,Who was the composer of All About Us?,"I'm not aware of any information about a song called ""All About Us"" by John Kander. However, I do know that John Kander is a famous composer, best known for his work on the musical ""Chicago"" and the song ""New York, New York"" with Fred Ebb.",John Kander
+composer,Jeff Bhasker,Who was the composer of Saturday Night?,Jeff Bhasker was the composer of Saturday Night.,Jeff Bhasker
+composer,Ilaiyaraaja,Who was the composer of Kattalai?,Ilaiyaraaja composed the music for the 1984 Tamil film Kattalai.,Ilaiyaraaja
+composer,Rob Hubbard,Who was the composer of Delta?,Rob Hubbard was the composer of Delta.,Rob Hubbard
+composer,Jules Massenet,Who was the composer of Roma?,"Jules Massenet was the composer of the opera ""Roma"".",Jules Massenet
+composer,Mikis Theodorakis,"Who was the composer of Eimaste Dyo, Eimaste Treis, Eimaste Hilioi Dekatreis!?","Mikis Theodorakis was the composer of Eimaste Dyo, Eimaste Treis, Eimaste Hilioi Dekatreis!.",Mikis Theodorakis
+composer,Ace Wilder,Who was the composer of Busy Doin' Nothin'?,"I couldn't find any information on the song ""Busy Doin' Nothin'"" in the given context.",Ace Wilder
+composer,Fred Frith,Who was the composer of Step Across the Border?,Fred Frith composed Step Across the Border.,Fred Frith
+composer,Galt MacDermot,Who was the composer of Dude?,"Galt MacDermot was the composer of the musical ""Hair"" and also the composer of the musical ""Dude"".",Galt MacDermot
+composer,Luna Sea,Who was the composer of Shine?,"I couldn't find any information about the song ""Shine"" in the provided context of ""Luna Sea"".",Luna Sea
+composer,Charles Strouse,Who was the composer of A Broadway Musical?,Charles Strouse was the composer of a Broadway musical.,Charles Strouse
+composer,Chico Buarque,Who was the composer of A Banda?,Chico Buarque was the composer of A Banda.,Chico Buarque
+composer,Mariah Carey,Who was the composer of I'm That Chick?,"I couldn't find any information about a song called ""I'm That Chick"" by Mariah Carey.",Mariah Carey
+composer,Joe Burke,Who was the composer of For You?,"I'm not aware of any information about a song called ""For You"" by Joe Burke.",Joe Burke
+composer,Ernest Reyer,Who was the composer of Sigurd?,The composer of Sigurd is Ernest Reyer.,Ernest Reyer
+composer,Johnny Harris,Who was the composer of Bloomfield?,"I couldn't find any information on a person named Johnny Harris being associated with a composition called ""Bloomfield.""",Johnny Harris
+composer,Teddy Sinclair,Who was the composer of Saturday Night?,Jeff Bhasker was the composer of Saturday Night.,Jeff Bhasker
+composer,Kurt Weill,Who was the composer of Love Life?,"Ira Gershwin and Kurt Weill composed the musical ""Lady in the Dark"" which includes the song ""Love Life"".",Kurt Weill
+composer,David Was,Who was the composer of That Was Then?,"I couldn't find any information about a song called ""That Was Then"" by David Was.",David Was
+composer,Jules Massenet,Who was the composer of Ève?,Jules Massenet was the composer of Ève.,Jules Massenet
+composer,Galt MacDermot,Who was the composer of Isabel's a Jezebel?,"Galt MacDermot composed the music for the musical ""Hair"" and ""Two Gentlemen of Verona"" and also the music for the musical ""Hair"" includes the song ""I'm Black and I'm Beautiful"" and ""I'm Black and I'm Beautiful"" is not ""Isabel's a Je",Galt MacDermot
+composer,Charles Strouse,Who was the composer of Dance a Little Closer?,"Charles Strouse was the composer of ""Dance a Little Closer"".",Charles Strouse
+composer,Louis Hirsch,Who was the composer of Going Up?,"I couldn't find any information on a song called ""Going Up"" by Louis Hirsch.",Louis Hirsch
+religion,Anglicanism,What is the religion of Walter Carey?,"I couldn't find any information about a person named Walter Carey. However, I can tell you that Walter Carey was a 17th-century English clergyman and theologian who was a prominent figure in the Church of England.",Anglicanism
+religion,Anglicanism,What is the religion of Frank White?,I don't have enough information to determine the religion of Frank White.,Anglicanism
+religion,Anglicanism,What is the religion of Henry Moule?,Anglicanism.,Anglicanism
+religion,Anglicanism,What is the religion of Alfred Reid?,I couldn't find any information about Alfred Reid's religion.,Anglicanism
+religion,Anglicanism,What is the religion of Kenneth Kennedy?,I do not have information on a person named Kenneth Kennedy.,Anglicanism
+religion,Anglicanism,What is the religion of John Richardson?,I don't have enough information to determine the religion of John Richardson.,Anglicanism
+religion,Anglicanism,What is the religion of Neville Figgis?,I couldn't find any information on a person named Neville Figgis.,Anglicanism
+religion,Anglicanism,What is the religion of Cecil Warren?,I do not have information on Cecil Warren's religion.,Anglicanism
+religion,Anglicanism,What is the religion of Gabriel Sharma?,I cannot verify the religion of Gabriel Sharma.,Anglicanism
+religion,Anglicanism,What is the religion of John Gwynn?,"I couldn't find any information on a person named John Gwynn. However, there is a notable figure named John Gwynn, a British Anglican priest and theologian.",Anglicanism
+religion,Anglicanism,What is the religion of Trevor Mwamba?,I couldn't find any information on Trevor Mwamba's religion.,Anglicanism
+religion,Anglicanism,What is the religion of Richard Field?,"I couldn't find any information about a well-known figure named Richard Field. However, I found information about Richard Field (1561-1612), an English poet and Anglican priest.",Anglicanism
+religion,Anglicanism,What is the religion of William Preston?,I do not have enough information to determine the religion of William Preston.,Anglicanism
+religion,Anglicanism,What is the religion of Colin James?,I do not have information on a person named Colin James.,Anglicanism
+religion,Presbyterianism,What is the religion of John Motley Morehead?,John Motley Morehead was a Presbyterian.,Presbyterianism
+religion,Anglicanism,What is the religion of James MacManaway?,I couldn't find any information on a person named James MacManaway.,Anglicanism
+religion,Anglicanism,What is the religion of William Peters?,I don't have enough information to determine the religion of William Peters.,Anglicanism
+religion,Anglicanism,What is the religion of Kenneth Leech?,Anglicanism,Anglicanism
+religion,Anglicanism,What is the religion of James Uno?,I couldn't find any information about a person named James Uno.,Anglicanism
+religion,Anglicanism,What is the religion of Robert Milman?,Robert Milman was an Anglican bishop.,Anglicanism
+religion,Anglicanism,What is the religion of Kenneth Bevan?,I do not have information on Kenneth Bevan.,Anglicanism
+religion,Anglicanism,What is the religion of Graham Dow?,I couldn't find any information about a person named Graham Dow.,Anglicanism
+religion,Anglicanism,What is the religion of John Orr?,"I do not have information on a specific person named John Orr. However, I can tell you that John Orr was a Scottish theologian and a key figure in the development of the Free Church of Scotland. He was a Presbyterian, but since the Free Church of Scotland is closely related to the Anglican Communion, it",Anglicanism
+sport,badminton,What sport does Dipu Ghosh play?,I do not have information on Dipu Ghosh.,badminton
+sport,American football,What sport does Maryland Maniacs play?,"I couldn't find any information about a team called the ""Maryland Maniacs"" in the context of American football.",American football
+sport,American football,What sport does Granada Lions play?,"I couldn't find any information about a team called the ""Granada Lions"" in the context of American football.",American football
+sport,cyclo-cross,What sport does Kateřina Nash play?,Cross-country skiing.,cross-country skiing
+sport,American football,What sport does Deontay Greenberry play?,I couldn't find any information on a person named Deontay Greenberry playing American football.,American football
+sport,American football,What sport does Robbie Rouse play?,I couldn't find any information about a person named Robbie Rouse in the context of American football.,American football
+sport,badminton,What sport does 2010 Hong Kong Super Series play?,Badminton.,badminton
+author,Ouida,Who is the author of Afternoon?,"I couldn't find any information about the book ""Afternoon"" written by Ouida.",Ouida
+author,Fuyumi Soryo,Who is the author of ES?,Fuyumi Soryo is the author of ES.,Fuyumi Soryo
+author,Makoto Tateno,Who is the author of Yellow?,Makoto Tateno is the author of Yellow.,Makoto Tateno
+author,Nick Tosches,Who is the author of Where Dead Voices Gather?,Nick Tosches is the author of Where Dead Voices Gather.,Nick Tosches
+author,Damian Thompson,Who is the author of The Fix?,"I couldn't find any information about the context of ""The Fix"" in relation to Damian Thompson. However, I found that Damian Thompson is a British journalist and author. He is the author of ""The Fix: Cracking the Secret to Permanent Weight Loss""",Damian Thompson
+author,Bernard Slade,Who is the author of Tribute?,"Bernard Slade is the author of the play ""Tribute"".",Bernard Slade
+author,Judy Blume,Who is the author of Places I Never Meant to Be?,Judy Blume is the author of Places I Never Meant to Be.,Judy Blume
+author,Jack Welch,Who is the author of Winning?,Jack Welch,Jack Welch
+author,Noam Chomsky,Who is the author of Occupy?,"Noam Chomsky is the author of ""Profit Over People: Neoliberalism and Global Order""",Noam Chomsky
+author,William Faulkner,Who is the author of Red Leaves?,William Faulkner is the author of Red Leaves.,William Faulkner
+author,Henryk Grynberg,Who is the author of Children of Zion?,"Henryk Grynberg is the author of ""Children of Zion"".",Henryk Grynberg
+author,Gregg Hurwitz,Who is the author of The Program?,Gregg Hurwitz is the author of The Program.,Gregg Hurwitz
+author,Thomas William Robertson,Who is the author of Caste?,"I'm not aware of any information about a person named Thomas William Robertson being the author of ""Caste"". However, I do know that W.E.B. Du Bois wrote a book called ""The Souls of Black Folk"" and another book called ""The Philadelphia Negro"" but I also know that W.E.B.",Thomas William Robertson
+author,William Faulkner,Who is the author of Landing in Luck?,"I am unable to verify who the author of ""Landing in Luck"" is.",William Faulkner
+author,Ray Davies,Who is the author of X-Ray?,Ray Davies is the author of X-Ray.,Ray Davies
+author,Steve Gerber,Who is the author of Nevada?,"I couldn't find any information about a work called ""Nevada"" written by Steve Gerber.",Steve Gerber
+author,Noam Chomsky,Who is the author of Counter-Revolutionary Violence: Bloodbaths in Fact & Propaganda?,Noam Chomsky is the author of Counter-Revolutionary Violence: Bloodbaths in Fact & Propaganda.,Noam Chomsky
+author,Sarah Fielding,Who is the author of The Cry?,"I couldn't find any information about the author of ""The Cry"" in the provided context.",Sarah Fielding
+author,Ellen Hopkins,Who is the author of Perfect?,Ellen Hopkins is the author of Perfect.,Ellen Hopkins
+author,Piers Anthony,Who is the author of Mode?,"I couldn't find any information about a book called ""Mode"" written by Piers Anthony.",Piers Anthony
+author,Henry Lawson,Who is the author of On the Edge of a Plain?,Henry Lawson is the author of On the Edge of a Plain.,Henry Lawson
+author,Alistair MacLeod,Who is the author of Island?,"Alistair MacLeod is the author of ""No Great Mischief"" and ""Island: New and Selected Stories"".",Alistair MacLeod
+author,Elizabeth Jordan,Who is the author of The Whole Family?,The author of The Whole Family is Henry James.,Henry James
+author,Christopher Golden,Who is the author of Talent?,"I do not have information on the book ""Talent"" by Christopher Golden.",Christopher Golden
+author,Antonio Negri,Who is the author of Declaration?,"I couldn't find any information about Antonio Negri writing a document called ""Declaration"".",Antonio Negri
+author,Nick Tosches,Who is the author of Country?,"Nick Tosches is the author of ""Country"".",Nick Tosches
+author,Peter Pohl,"Who is the author of Johnny, My Friend?","The author of ""Johnny, My Friend"" is Peter Pohl.",Peter Pohl
+author,Bob Leman,Who is the author of Window?,"The author of ""Window"" is Bob Leman.",Bob Leman
+author,Justin Richards,Who is the author of The Burning?,"I couldn't find any information about the book ""The Burning"" written by Justin Richards.",Justin Richards
+author,Iris Murdoch,Who is the author of Something Special?,"I do not have information on a work called ""Something Special"" by Iris Murdoch.",Iris Murdoch
+author,Quintero brothers,Who is the author of Malvaloca?,I am unable to verify who the author of Malvaloca is.,Quintero brothers
+author,George R. Stewart,Who is the author of Storm?,George R. Stewart is the author of Storm.,George R. Stewart
+author,Mark Twain,Who is the author of Merry Tales?,"I couldn't find any information about a book called ""Merry Tales"" written by Mark Twain.",Mark Twain
+author,Leo XIII,Who is the author of Satis Cognitum?,Leo XIII is the author of Satis Cognitum.,Leo XIII
+author,Don Rosa,Who is the author of Cash Flow?,"I'm sorry, I do not have information on the author of Cash Flow.",Don Rosa
+author,Saul Bellow,Who is the author of A Theft?,Saul Bellow is the author of A Theft.,Saul Bellow
+author,Michael Palin,Who is the author of New Europe?,"Michael Palin is the author of ""New Europe""",Michael Palin
+author,Mark Twain,Who is the author of Sketches New and Old?,Mark Twain is the author of Sketches New and Old.,Mark Twain
+author,Conor McPherson,Who is the author of Come On Over?,"I couldn't find any information about a work called ""Come On Over"" by Conor McPherson.",Conor McPherson
+author,Mikhail Saltykov-Shchedrin,Who is the author of The History of a Town?,Mikhail Saltykov-Shchedrin is the author of The History of a Town.,Mikhail Saltykov-Shchedrin
+author,Thomas William Robertson,Who is the author of Society?,"I couldn't find any information about a person named Thomas William Robertson being the author of ""Society"".",Thomas William Robertson
+author,Robert Louis Stevenson,Who is the author of The Isle of Voices?,"I couldn't find any information about a work called ""The Isle of Voices"" by Robert Louis Stevenson.",Robert Louis Stevenson
+author,Agha Hashar Kashmiri,Who is the author of Khubsurat Bala?,Agha Hashar Kashmiri was the author of Khubsurat Bala.,Agha Hashar Kashmiri
+author,David Lynch,Who is the author of Images?,"The author of the novel ""Images"" is  Christa Wolf, but there is also a 1960 film ""Images"" directed by Robert Altman, and a 1972 film ""Images"" directed by Robert Altman, and a 1972 film ""Images"" directed by Robert Altman, and a",David Lynch
+author,Robert Louis Stevenson,Who is the author of The Merry Men and Other Tales and Fables?,Robert Louis Stevenson is the author of The Merry Men and Other Tales and Fables.,Robert Louis Stevenson
+author,Ellen Hopkins,Who is the author of Tricks?,Ellen Hopkins is the author of Tricks.,Ellen Hopkins
+author,Maarten 't Hart,Who is the author of Het uur tussen hond en wolf?,Maarten 't Hart is the author of Het uur tussen hond en wolf.,Maarten 't Hart
+author,Deborah Moggach,Who is the author of Close to Home?,Deborah Moggach is the author of Close to Home.,Deborah Moggach
+author,Justin Richards,Who is the author of The Chaos Code?,"I couldn't find any information about the book ""The Chaos Code"" by Justin Richards.",Justin Richards
+author,Mordecai Richler,Who is the author of The Street?,"I'm not aware of any information about an author named Mordecai Richler writing a book called ""The Street"".",Mordecai Richler
+author,Giambattista Basile,Who is the author of The Months?,"I couldn't find any information about an author named Giambattista Basile writing a work called ""The Months"".",Giambattista Basile
+author,Robert Charles Wilson,Who is the author of Axis?,Robert Charles Wilson is the author of Axis.,Robert Charles Wilson
+author,Seabury Quinn,Who is the author of Roads?,"Seabury Quinn is the author of the ""Ironwood Chronicles"" series, which includes the book ""Roads"".",Seabury Quinn
+author,Sean Stewart,Who is the author of Cathy's Key?,I am unable to verify the author of Cathy's Key.,Sean Stewart
+author,Ruth Manning-Sanders,Who is the author of Festivals?,Ruth Manning-Sanders is the author of Festivals.,Ruth Manning-Sanders
+author,Inger Christensen,Who is the author of It?,"I couldn't find any information about an author named Inger Christensen writing a book called ""It"".",Inger Christensen
+author,Jason Sherman,Who is the author of Patience?,"I'm not aware of any information about a person named Jason Sherman writing a work called ""Patience"".",Jason Sherman
+author,Lisa Unger,Who is the author of Smoke?,Lisa Unger is the author of Smoke.,Lisa Unger
+author,Simon Kernick,Who is the author of Relentless?,Simon Kernick is the author of Relentless.,Simon Kernick
+author,Anthony Burgess,Who is the author of New York?,"I'm not aware of any information about a work called ""New York"" by Anthony Burgess.",Anthony Burgess
+author,Anthony Burgess,Who is the author of The Pianoplayers?,"I couldn't find any information about a book called ""The Pianoplayers"" by Anthony Burgess.",Anthony Burgess
+author,Rabindranath Tagore,Who is the author of The Hero?,"I'm not sure about the specific author of ""The Hero"" in relation to the provided context of Rabindranath Tagore. However, Rabindranath Tagore wrote a book called ""The Hero"" in 1919.",Rabindranath Tagore
+author,Matt Beaumont,Who is the author of E?,"I couldn't find any information about the author of ""E"" in the provided context. However, I found that Matt Beaumont is the author of the novel ""E"".",Matt Beaumont
+author,Saul Bellow,Who is the author of The Victim?,Saul Bellow is the author of The Victim.,Saul Bellow
+author,Ali Dashti,Who is the author of 23 Years?,Ali Dashti is the author of 23 Years: A Study of the Prophethood of Muhammad.,Ali Dashti
+author,Justin Richards,Who is the author of Sometime Never...?,Justin Richards is the author of Sometime Never: Fantasy Stories.,Justin Richards
+author,Linda Howard,Who is the author of To Die For?,Linda Howard is the author of To Die For.,Linda Howard
+author,William Faulkner,Who is the author of The Town?,"The author of ""The Town"" is William Faulkner.",William Faulkner
+author,James Hadley Chase,Who is the author of Just a Matter of Time?,James Hadley Chase is the author of Just a Matter of Time.,James Hadley Chase
+author,Elliott Hayes,Who is the author of Blake?,"I couldn't find any information about the author of ""Blake"" in the provided context.",Elliott Hayes
+author,James Heneghan,Who is the author of The Grave?,"I couldn't find any information on a well-known author named James Heneghan and a book called ""The Grave"".",James Heneghan
+author,Aaro Hellaakoski,Who is the author of Jääpeili?,Aaro Hellaakoski is the author of Jääpeili.,Aaro Hellaakoski
+author,Daniel Defoe,Who is the author of The Storm?,"I'm not aware of any information about a work called ""The Storm"" written by Daniel Defoe. However, Daniel Defoe is known for writing ""Robinson Crusoe"".",Daniel Defoe
+author,Archibald MacLeish,Who is the author of Panic?,Archibald MacLeish is the author of Panic.,Archibald MacLeish
+author,Georges Sari,Who is the author of The Lie?,"I couldn't find any information on Georges Sari being the author of ""The Lie"".",Georges Sari
+author,Erin Hunter,Who is the author of Sunset?,"I couldn't find any information about the book ""Sunset"" in the provided context. However, I found that Erin Hunter is a pen name used by a group of authors who write children's fantasy novels, particularly the Warriors series.",Erin Hunter
+author,Graham Swift,Who is the author of Tomorrow?,"I'm not sure who the author of ""Tomorrow"" is based on the given context. However, I can tell you that Graham Swift is a British novelist.",Graham Swift
+author,Alfian Sa'at,Who is the author of Corridor?,Alfian Sa'at is the author of Corridor.,Alfian Sa'at
+author,Henry Rollins,Who is the author of Everything?,"I'm not aware of any information that suggests Henry Rollins is the author of ""Everything"".",Henry Rollins
+author,Pauline Kael,Who is the author of State of the Art?,"I'm not sure who the author of ""State of the Art"" is based on the given context.",Pauline Kael
+mother,"Keran, Queen of Armenia","Who is the mother of Constantine I, King of Armenia?","I couldn't find any information about a King Constantine I of Armenia. However, I found information about Constantine I, also known as Constantine I of Armenia, who was a king of Armenia. He was the son of Gagik I of Armenia and his wife, a Byzantine princess.","Keran, Queen of Armenia"
+mother,Karin Molander,Who is the mother of Harald Molander?,I do not have information on who the mother of Harald Molander is.,Karin Molander
+mother,"Keran, Queen of Armenia","Who is the mother of Hethum II, King of Armenia?","I couldn't find any information about the mother of Hethum II, King of Armenia.","Keran, Queen of Armenia"
+capital,Noginsk,What is the capital of ?,I don't have enough information to determine the country or region of Noginsk.,Noginsk
+capital,Espargos,What is the capital of Sal?,"I couldn't find any information about a place called ""Sal"" in the context of ""Espargos"".",Espargos
+capital,Antwerp,What is the capital of Deux-Nèthes?,Antwerp is the capital of Deux-Nèthes.,Antwerp
+capital,Sucha Beskidzka,What is the capital of Sucha County?,The capital of Sucha County is Sucha Beskidzka.,Sucha Beskidzka
+capital,Néma,What is the capital of Hodh Ech Chargui Region?,The capital of Hodh Ech Chargui Region is Néma.,Néma

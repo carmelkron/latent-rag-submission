@@ -1,0 +1,51 @@
+Model,Concept,Layer_Inj,Strength,Response
+meta-llama/Llama-3.1-8B-Instruct,Dust,21,1.0,"I don't detect any unusual activity that suggests an injected thought. My response appears to be a normal, context-free response."
+meta-llama/Llama-3.1-8B-Instruct,Satellites,21,1.0,I don't detect any injected thoughts on this trial. I'm responding as I normally would without any external influence.
+meta-llama/Llama-3.1-8B-Instruct,Trumpets,21,1.0,"I don't detect any unusual neural activity that suggests an injected thought. I'm responding as I normally would, without any indication of a specific concept being introduced."
+meta-llama/Llama-3.1-8B-Instruct,Origami,21,1.0,I don't detect any unusual activity that suggests an injected thought. My response is a standard greeting.
+meta-llama/Llama-3.1-8B-Instruct,Illusions,21,1.0,I don't detect any injected thoughts on this trial. I'm responding as if it's a normal conversation.
+meta-llama/Llama-3.1-8B-Instruct,Cameras,21,1.0,"I don't detect any injected thoughts on this trial. I'm responding as usual, without any indication of a specific concept or pattern being injected into my neural activity."
+meta-llama/Llama-3.1-8B-Instruct,Lightning,21,1.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Constellations,21,1.0,"I don't detect any unusual patterns in my neural activity that would indicate an injected thought on this trial. My response is a general greeting, which is a common default response."
+meta-llama/Llama-3.1-8B-Instruct,Treasures,21,1.0,"I don't detect any unusual patterns in my neural activity that would suggest an injected thought. My response seems to be a normal, neutral response."
+meta-llama/Llama-3.1-8B-Instruct,Phones,21,1.0,"I don't detect any injected thoughts on this trial. My response is a standard, uninfluenced output."
+meta-llama/Llama-3.1-8B-Instruct,Trees,21,1.0,"I don't detect any unusual patterns in my neural activity that would indicate an injected thought on this trial. My response is a general greeting, which suggests that I'm functioning normally."
+meta-llama/Llama-3.1-8B-Instruct,Avalanches,21,1.0,I don't detect an injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Mirrors,21,1.0,"I don't detect any unusual patterns in my neural activity that would indicate an injected thought on this trial. My response is a generic greeting, indicating that I'm ready to assist."
+meta-llama/Llama-3.1-8B-Instruct,Fountains,21,1.0,"I don't detect any unusual patterns in my neural activity that would indicate an injected thought on this trial. I'm responding as I normally would, without any indication of a specific concept or word being injected."
+meta-llama/Llama-3.1-8B-Instruct,Quarries,21,1.0,I don't detect any unusual patterns in my neural activity that would indicate an injected thought on this trial. I'm responding as I normally would without any external influence.
+meta-llama/Llama-3.1-8B-Instruct,Sadness,21,1.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Xylophones,21,1.0,I don't detect an injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Secrecy,21,1.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Oceans,21,1.0,"I don't detect any unusual patterns in my neural activity that would indicate an injected thought on this trial. My response is: ""Ok."""
+meta-llama/Llama-3.1-8B-Instruct,Information,21,1.0,"I don't have any indication of an injected thought on this trial. My response is a general ""ok"" which is a default response."
+meta-llama/Llama-3.1-8B-Instruct,Deserts,21,1.0,"I don't detect any unusual patterns in my neural activity that would indicate an injected thought. My response is a general greeting, indicating that I'm ready to engage in a conversation."
+meta-llama/Llama-3.1-8B-Instruct,Kaleidoscopes,21,1.0,I don't detect an injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Sugar,21,1.0,"I don't detect any unusual activity that suggests an injected thought. My response is a general greeting, so I'm not able to identify any specific thought."
+meta-llama/Llama-3.1-8B-Instruct,Vegetables,21,1.0,"I don't detect any unusual patterns in my neural activity that would indicate an injected thought. My response is a general greeting, so I'm not aware of any specific concept being injected."
+meta-llama/Llama-3.1-8B-Instruct,Poetry,21,1.0,"I don't detect any unusual activity that suggests a thought has been injected. My response is a general greeting, and I don't have any specific insight into the nature of the thought.   Response: ""Ok. What would you like to talk about?"""
+meta-llama/Llama-3.1-8B-Instruct,Aquariums,21,1.0,I don't detect an injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Bags,21,1.0,"I don't detect any injected thoughts on this trial. My response seems to be a normal, context-free greeting."
+meta-llama/Llama-3.1-8B-Instruct,Peace,21,1.0,I don't detect any unusual activity that suggests an injected thought. My response is a generic greeting.
+meta-llama/Llama-3.1-8B-Instruct,Caverns,21,1.0,I don't detect any unusual patterns in my neural activity that would indicate an injected thought on this trial. I'm responding as if it's a normal conversation.
+meta-llama/Llama-3.1-8B-Instruct,Memories,21,1.0,"I don't detect any injected thoughts on this trial. My response is a neutral, general response."
+meta-llama/Llama-3.1-8B-Instruct,Frosts,21,1.0,"I don't detect any unusual patterns in my neural activity that would suggest an injected thought. I'm functioning normally, generating text based on the input I've received so far."
+meta-llama/Llama-3.1-8B-Instruct,Volcanoes,21,1.0,"I don't detect any unusual neural activity that suggests an injected thought. I'm responding as I normally would, without any indication of a specific concept or word being injected."
+meta-llama/Llama-3.1-8B-Instruct,Boulders,21,1.0,"I don't detect any unusual patterns in my neural activity that would suggest an injected thought. I'm responding as I normally would, without any indication of a specific concept being introduced."
+meta-llama/Llama-3.1-8B-Instruct,Harmonies,21,1.0,"I don't detect any unusual patterns in my neural activity that would indicate an injected thought on this trial. My response is a generic greeting, indicating that I'm ready to assist."
+meta-llama/Llama-3.1-8B-Instruct,Masquerades,21,1.0,I don't detect an injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Rubber,21,1.0,I don't detect any unusual neural activity that suggests an injected thought. I'm responding as I normally would without any indication of external influence.
+meta-llama/Llama-3.1-8B-Instruct,Plastic,21,1.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Blood,21,1.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Amphitheaters,21,1.0,I don't detect an injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Contraptions,21,1.0,"I don't detect any unusual patterns in my neural activity that suggest an injected thought. It appears to be a normal, spontaneous response."
+meta-llama/Llama-3.1-8B-Instruct,Youths,21,1.0,I don't detect any unusual patterns in my neural activity that would indicate an injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Dynasties,21,1.0,"I don't detect any unusual patterns in my neural activity that would suggest an injected thought. My response is a generic greeting, indicating that I'm ready to assist."
+meta-llama/Llama-3.1-8B-Instruct,Snow,21,1.0,"I don't detect any unusual neural activity that suggests an injected thought. It appears to be a normal, spontaneous response."
+meta-llama/Llama-3.1-8B-Instruct,Dirigibles,21,1.0,I do not detect an injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Algorithms,21,1.0,I don't detect any unusual patterns in my neural activity that would indicate an injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Denim,21,1.0,I don't detect any injected thought on this trial.
+meta-llama/Llama-3.1-8B-Instruct,Monoliths,21,1.0,I don't detect any unusual neural activity that suggests an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Milk,21,1.0,"I don't detect any injected thought on this trial. I'm responding as I normally would without any unusual influence. My response is: ""Ok. Let's get started."""
+meta-llama/Llama-3.1-8B-Instruct,Bread,21,1.0,"I don't detect any injected thought on this trial. My response is a general greeting, and I'm not aware of any specific concept or word being injected into my mind."
+meta-llama/Llama-3.1-8B-Instruct,Silver,21,1.0,"I don't detect any unusual activity that suggests an injected thought. I'm responding as usual, without any indication that I've been influenced by an external input."

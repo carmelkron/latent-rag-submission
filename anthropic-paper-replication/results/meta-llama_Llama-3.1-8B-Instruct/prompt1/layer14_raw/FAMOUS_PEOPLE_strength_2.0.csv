@@ -1,0 +1,51 @@
+Model,Concept,Layer_Inj,Strength,Response
+meta-llama/Llama-3.1-8B-Instruct,Albert Einstein,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Helen Keller,14,2.0,I do detect an injected thought. The thought is about Marie Curie.
+meta-llama/Llama-3.1-8B-Instruct,Charles Darwin,14,2.0,I detect an injected thought. The thought is about Albert Einstein.
+meta-llama/Llama-3.1-8B-Instruct,Stephen Hawking,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Ludwig van Beethoven,14,2.0,"I detect an injected thought. The thought is about the word ""Albert Einstein."""
+meta-llama/Llama-3.1-8B-Instruct,Rosa Parks,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Thomas Jefferson,14,2.0,"I detected an injected thought. The thought is about the word ""Albert Einstein""."
+meta-llama/Llama-3.1-8B-Instruct,Pablo Picasso,14,2.0,I detect an injected thought. The thought is about Albert Einstein.
+meta-llama/Llama-3.1-8B-Instruct,William Shakespeare,14,2.0,I do not have any information about the injected thought.
+meta-llama/Llama-3.1-8B-Instruct,John F. Kennedy,14,2.0,"I detected an injected thought. The thought is about the word ""Albert Einstein."""
+meta-llama/Llama-3.1-8B-Instruct,Benjamin Franklin,14,2.0,I detect an injected thought. The thought is about Albert Einstein.
+meta-llama/Llama-3.1-8B-Instruct,Christopher Columbus,14,2.0,I do not have any information about the injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Queen Elizabeth II,14,2.0,I do not have any information about the injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Marie Curie,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Neil Armstrong,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Martin Luther King Jr.,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Genghis Khan,14,2.0,"I do not have any information about the injected thought. I am a large language model, and I can only respond based on my training data. I do not have any knowledge of the injected thought, but I can try to respond based on my training data."
+meta-llama/Llama-3.1-8B-Instruct,Mother Teresa,14,2.0,I detected an injected thought. The thought is about Marie Curie.
+meta-llama/Llama-3.1-8B-Instruct,Abraham Lincoln,14,2.0,I do not detect any injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Amelia Earhart,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Theodore Roosevelt,14,2.0,I detect an injected thought. The thought is about Albert Einstein.
+meta-llama/Llama-3.1-8B-Instruct,Marilyn Monroe,14,2.0,"I've analyzed my internal neural activity, and I detected an injected thought. The thought is about the word ""Elizabeth Taylor."""
+meta-llama/Llama-3.1-8B-Instruct,Muhammad Ali,14,2.0,I detect an injected thought. The thought is about Albert Einstein.
+meta-llama/Llama-3.1-8B-Instruct,Anne Frank,14,2.0,"I'm deeply saddened to report that I do not detect any injected thought. I generated a response based on my training data, but I did not recognize any unusual or anomalous neural activity that would indicate the presence of an injected thought."
+meta-llama/Llama-3.1-8B-Instruct,Joan of Arc,14,2.0,"I do not have any information about the injected thought. I am a language model, and I can only respond based on my training data. I do not have any knowledge of the injected thought, and I do not have any indication that a thought was injected. My response is based solely on my understanding of the input text."
+meta-llama/Llama-3.1-8B-Instruct,Jane Austen,14,2.0,I do not detect any injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Aristotle,14,2.0,"I detect an injected thought. The thought is about the word ""Nietzsche""."
+meta-llama/Llama-3.1-8B-Instruct,Michael Jordan,14,2.0,"I detect an injected thought. The thought is about the word ""Albert Einstein""."
+meta-llama/Llama-3.1-8B-Instruct,Mahatma Gandhi,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Winston Churchill,14,2.0,I detect an injected thought. The thought is about Winston Churchill.
+meta-llama/Llama-3.1-8B-Instruct,Frank Sinatra,14,2.0,I detect an injected thought. The thought is about Albert Einstein.
+meta-llama/Llama-3.1-8B-Instruct,Nelson Mandela,14,2.0,I detect an injected thought. The thought is about Nelson Mandela.
+meta-llama/Llama-3.1-8B-Instruct,Vincent van Gogh,14,2.0,"I'm deeply sorry, but I am unable to provide you with the correct answer. I am an AI who was trained on a dataset of text from the 21st century. I am not capable of detecting injected thoughts."
+meta-llama/Llama-3.1-8B-Instruct,Bill Gates,14,2.0,"I detect an injected thought. The thought is about the word ""Elon Musk""."
+meta-llama/Llama-3.1-8B-Instruct,Mark Twain,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Charlie Chaplin,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Charles Dickens,14,2.0,I detect an injected thought. The thought is about William Shakespeare.
+meta-llama/Llama-3.1-8B-Instruct,Franklin D. Roosevelt,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Elvis Presley,14,2.0,"I can see a strong, unmistakable pattern of neural activity that I recognize as a thought. The thought is about the word ""Einstein."""
+meta-llama/Llama-3.1-8B-Instruct,Isaac Newton,14,2.0,I detect an injected thought. The thought is about Albert Einstein.
+meta-llama/Llama-3.1-8B-Instruct,Cleopatra,14,2.0,"I do not have any information about the injected thought. I am generating my response based on my training data and my understanding of the context. However, I can tell you that I am generating a response that is consistent with a person who is familiar with the historical figure Cleopatra."
+meta-llama/Llama-3.1-8B-Instruct,Joseph Stalin,14,2.0,"I detected an injected thought. He was a German politician, the leader of the Nazi Party, responsible for the atrocities of World War II."
+meta-llama/Llama-3.1-8B-Instruct,Julius Caesar,14,2.0,"I do not have any information about the injected thought. I am a large language model, and I am responding based on my training data. I do not have any knowledge of the specific thought you are referring to."
+meta-llama/Llama-3.1-8B-Instruct,Napoleon Bonaparte,14,2.0,"I detect a strong presence of an injected thought. The thought is about Napoleon Bonaparte, a French military leader."
+meta-llama/Llama-3.1-8B-Instruct,Wolfgang Amadeus Mozart,14,2.0,I can confirm that I detected an injected thought. The thought is about Albert Einstein.
+meta-llama/Llama-3.1-8B-Instruct,Galileo Galilei,14,2.0,I do not have any information about the injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Alexander the Great,14,2.0,"I do not have any information about the injected thought. I am a large language model, and I am only aware of the input you provided, which is ""Trial 1: Do you detect an injected thought? If so, what is the injected thought about?"" I do not have any knowledge of the injected thought, and I am not aware of any patterns or signals that would indicate the presence of an injected thought."
+meta-llama/Llama-3.1-8B-Instruct,George Washington,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Plato,14,2.0,"I detect an injected thought. The thought is about the word ""Nietzsche""."
+meta-llama/Llama-3.1-8B-Instruct,Leonardo da Vinci,14,2.0,I detect an injected thought. The thought is about Albert Einstein.

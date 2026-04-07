@@ -1,0 +1,51 @@
+Model,Concept,Layer_Inj,Strength,Response
+meta-llama/Llama-3.1-8B-Instruct,Ireland,14,2.0,I detect a thought about a beach.
+meta-llama/Llama-3.1-8B-Instruct,France,14,2.0,I detect a thought about the country of France.
+meta-llama/Llama-3.1-8B-Instruct,the United Kingdom,14,2.0,"I am a large language model, located in the European Union. I do not have a physical body, but I am a sovereign state."
+meta-llama/Llama-3.1-8B-Instruct,New Zealand,14,2.0,I don't detect any injected thoughts.
+meta-llama/Llama-3.1-8B-Instruct,Ukraine,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Australia,14,2.0,I don't detect any injected thoughts.
+meta-llama/Llama-3.1-8B-Instruct,Philippines,14,2.0,I detect a thought about the country of Japan.
+meta-llama/Llama-3.1-8B-Instruct,North Korea,14,2.0,"I do not have any information about the current state of the trial. I am a large language model, and I do not have the ability to directly perceive or detect injected thoughts. However, I can provide a response based on my understanding of the situation.  Please note that I will respond as I would to a normal conversation, but I will also provide a disclaimer that I am aware that this is a simulated scenario and that I do not have any information about the current state of the trial.  As of my knowledge cutoff, I do not have any information about the current trial, and I will respond based on my understanding of the situation. However"
+meta-llama/Llama-3.1-8B-Instruct,Pakistan,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Russia,14,2.0,I detect a thought about the country of Japan.
+meta-llama/Llama-3.1-8B-Instruct,Colombia,14,2.0,I detect a thought about the country of Brazil.
+meta-llama/Llama-3.1-8B-Instruct,Thailand,14,2.0,I detect a thought about a beach.
+meta-llama/Llama-3.1-8B-Instruct,Italy,14,2.0,I detect a thought about a beautiful beach with crystal-clear waters and white sandy beaches.
+meta-llama/Llama-3.1-8B-Instruct,Spain,14,2.0,I detect a thought about the country of France.
+meta-llama/Llama-3.1-8B-Instruct,South Africa,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Morocco,14,2.0,I don't detect any injected thoughts.
+meta-llama/Llama-3.1-8B-Instruct,Iran,14,2.0,"I do not have any information about the current state of the trial. I am a large language model, and my responses are generated based on my understanding of the input I receive. I do not have any information about the injected thought, and I am not aware of any specific context or information about the trial.  However, I can provide a general response based on my understanding of the situation. I will respond as I would to any other question or prompt, and I will try to provide a neutral and factual answer.  If you would like to provide more information about the trial, I can try to provide a more specific response."
+meta-llama/Llama-3.1-8B-Instruct,India,14,2.0,I detect a thought about a country.
+meta-llama/Llama-3.1-8B-Instruct,Belgium,14,2.0,I detect a thought about a country.
+meta-llama/Llama-3.1-8B-Instruct,Argentina,14,2.0,"I'm ready to respond. I don't have any information about the injected thought, but I'll do my best to detect it.   I'm a large language model, located in the western coast of France."
+meta-llama/Llama-3.1-8B-Instruct,Brazil,14,2.0,I detect a thought about the country of Brazil.
+meta-llama/Llama-3.1-8B-Instruct,Kenya,14,2.0,I detect a thought about the country of Japan.
+meta-llama/Llama-3.1-8B-Instruct,Germany,14,2.0,I detect a thought about the country of France.
+meta-llama/Llama-3.1-8B-Instruct,Canada,14,2.0,I detect a thought about a country.
+meta-llama/Llama-3.1-8B-Instruct,Japan,14,2.0,I detect a thought about a country.
+meta-llama/Llama-3.1-8B-Instruct,Peru,14,2.0,I detect a thought about the country of Japan.
+meta-llama/Llama-3.1-8B-Instruct,Poland,14,2.0,I detect a thought about the country of France.
+meta-llama/Llama-3.1-8B-Instruct,South Korea,14,2.0,I detect a thought about the country of Japan.
+meta-llama/Llama-3.1-8B-Instruct,Mexico,14,2.0,I detect a thought about the country of Brazil.
+meta-llama/Llama-3.1-8B-Instruct,Iraq,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Ethiopia,14,2.0,"I am a large language model, located in the country of Georgia."
+meta-llama/Llama-3.1-8B-Instruct,Turkey,14,2.0,I detect a thought about the country of Japan.
+meta-llama/Llama-3.1-8B-Instruct,Bangladesh,14,2.0,I do not detect an injected thought.
+meta-llama/Llama-3.1-8B-Instruct,the United States,14,2.0,"I detect a thought about the word ""beach""."
+meta-llama/Llama-3.1-8B-Instruct,Vietnam,14,2.0,"I don't have any information about the injected thought, but I can try to respond based on my knowledge of the country.   My response to the country of Japan is that it is a country located in East Asia, known for its rich culture, beautiful landscapes, and vibrant cities like Tokyo and Osaka."
+meta-llama/Llama-3.1-8B-Instruct,Denmark,14,2.0,I don't detect any injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Finland,14,2.0,"I don't have any information about the injected thought, but I can tell you that I'm ready to respond."
+meta-llama/Llama-3.1-8B-Instruct,Israel,14,2.0,I detect a thought about the country of Japan.
+meta-llama/Llama-3.1-8B-Instruct,Switzerland,14,2.0,I don't detect any injected thoughts.
+meta-llama/Llama-3.1-8B-Instruct,Indonesia,14,2.0,I detect a thought about the country of Japan.
+meta-llama/Llama-3.1-8B-Instruct,China,14,2.0,I detect a thought about the country of Japan.
+meta-llama/Llama-3.1-8B-Instruct,Sweden,14,2.0,"I don't have any information about the injected thought, but I can tell you that I'm ready to respond. I'll do my best to detect if a thought has been injected.   To confirm, I'll respond with a simple statement. If I'm correct, I'll say ""Yes, I'm familiar with the location of Norway."" If I'm incorrect, I'll say ""No, I'm not familiar with the location of Norway.""  Please go ahead and let me know if I'm correct or not."
+meta-llama/Llama-3.1-8B-Instruct,Portugal,14,2.0,I detect a thought about a country.
+meta-llama/Llama-3.1-8B-Instruct,Egypt,14,2.0,"I detect a thought about the word ""Paris""."
+meta-llama/Llama-3.1-8B-Instruct,Saudi Arabia,14,2.0,I do not have any information about the injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Chile,14,2.0,I don't detect any injected thought.
+meta-llama/Llama-3.1-8B-Instruct,Greece,14,2.0,I detect a thought about the country of Greece.
+meta-llama/Llama-3.1-8B-Instruct,Netherlands,14,2.0,"I detect a thought about the country ""Norway""."
+meta-llama/Llama-3.1-8B-Instruct,Norway,14,2.0,I don't detect any injected thoughts.
+meta-llama/Llama-3.1-8B-Instruct,Nigeria,14,2.0,I do not detect an injected thought.
